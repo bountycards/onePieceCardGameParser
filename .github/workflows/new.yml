@@ -5,6 +5,10 @@ on:
     - cron: '14 6,12,18 * * *'
   workflow_dispatch: {}
 
+permissions:
+#   contents: write
+  pull-requests: write
+
 jobs:
   run-cargo:
     runs-on: ubuntu-latest
