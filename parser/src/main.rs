@@ -572,21 +572,27 @@ fn generate_filters(cards: &[Card]) -> serde_json::Value {
         card_effects.extend(card.card_effects.iter().cloned());
     }
     
-    // Add all collected values to filters
-    filters.insert("card_names".to_string(), json!(Vec::from_iter(card_names)));
-    filters.insert("card_numbers".to_string(), json!(Vec::from_iter(card_numbers)));
-    filters.insert("rarities".to_string(), json!(Vec::from_iter(rarities)));
-    filters.insert("card_types".to_string(), json!(Vec::from_iter(card_types)));
-    filters.insert("life_values".to_string(), json!(Vec::from_iter(life_values)));
-    filters.insert("cost_values".to_string(), json!(Vec::from_iter(cost_values)));
-    filters.insert("powers".to_string(), json!(Vec::from_iter(powers)));
-    filters.insert("counters".to_string(), json!(Vec::from_iter(counters)));
-    filters.insert("attributes".to_string(), json!(Vec::from_iter(attributes)));
-    filters.insert("types".to_string(), json!(Vec::from_iter(types)));
-    filters.insert("card_effects".to_string(), json!(Vec::from_iter(card_effects)));
-    filters.insert("card_sets".to_string(), json!(Vec::from_iter(card_sets)));
+    // Add all collected values to filters, sorted alphabetically
+    filters.insert("card_names".to_string(), json!(sorted_vec(card_names)));
+    filters.insert("card_numbers".to_string(), json!(sorted_vec(card_numbers)));
+    filters.insert("rarities".to_string(), json!(sorted_vec(rarities)));
+    filters.insert("card_types".to_string(), json!(sorted_vec(card_types)));
+    filters.insert("life_values".to_string(), json!(sorted_vec(life_values)));
+    filters.insert("cost_values".to_string(), json!(sorted_vec(cost_values)));
+    filters.insert("powers".to_string(), json!(sorted_vec(powers)));
+    filters.insert("counters".to_string(), json!(sorted_vec(counters)));
+    filters.insert("attributes".to_string(), json!(sorted_vec(attributes)));
+    filters.insert("types".to_string(), json!(sorted_vec(types)));
+    filters.insert("card_effects".to_string(), json!(sorted_vec(card_effects)));
+    filters.insert("card_sets".to_string(), json!(sorted_vec(card_sets)));
     
     serde_json::Value::Object(filters)
+}
+
+fn sorted_vec<T: Ord>(set: HashSet<T>) -> Vec<T> {
+    let mut vec: Vec<T> = set.into_iter().collect();
+    vec.sort();
+    vec
 }
 
 impl Effect {
