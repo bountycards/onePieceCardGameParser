@@ -3,7 +3,7 @@ name: Publish Package
 on:
   push:
     paths:
-      - 'json/**'
+      - 'json/package.json'
 
 jobs:
   publish:
@@ -18,10 +18,11 @@ jobs:
       with:
         node-version: '14'
 
-    - name: Install dependencies
-      run: npm install
+    # - name: Install dependencies
+    #   run: npm install
 
     - name: Publish to npm
+      working-directory: ./json
       run: npm publish
       env:
         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
