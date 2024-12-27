@@ -114,6 +114,7 @@ use reqwest;
 struct CardSource {
     url: String,
     colors: Vec<&'static str>,
+    region: &'static str,
 }
 
 #[tokio::main]
@@ -122,11 +123,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         CardSource {
             url: "https://en.onepiece-cardgame.com/cardlist/".to_string(),
             colors: vec!["Red", "Green", "Blue", "Purple", "Black", "Yellow"],
+            region: "en",
         },
-        // CardSource {
-        //     url: "https://asia-en.onepiece-cardgame.com/cardlist/".to_string(),
-        //     colors: vec!["Red", "Green", "Blue", "Purple", "Black", "Yellow"],
-        // },
+        CardSource {
+            url: "https://asia-en.onepiece-cardgame.com/cardlist/".to_string(),
+            colors: vec!["Red", "Green", "Blue", "Purple", "Black", "Yellow"],
+            region: "jp",
+        },
     ];
 
     let client = Client::new();
@@ -159,14 +162,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             let html_content = response.text().await?;
             
             // Save the HTML file
-            let filename = format!("input/cardlist-{}.html", color.to_lowercase());
+            let filename = format!("input/cardlist-{}-{}.html", color.to_lowercase(), source.region);
             fs::write(&filename, &html_content)?;
             
             // Parse the cards
-            let cards = parse_cards(&html_content, "en", true)?;
+            let cards = parse_cards(&html_content, source.region, true)?;
             
             // Save the output
-            save_output(&cards)?;
+            save_output(&cards, source.region)?;
             
             // Be nice to the server
             thread::sleep(Duration::from_secs(2));
@@ -180,7 +183,13 @@ fn parse_cards(html_content: &str, base_image_type: &str, merge: bool) -> Result
     let document = Html::parse_document(html_content);
     let modal_col_selector = Selector::parse("dl.modalCol").unwrap();
     
-    let base_image_url = format!("https://{}.onepiece-cardgame.com/images/cardlist/card/", base_image_type);
+    let base_image_type = if base_image_type == "jp" {
+        "".to_string()
+    } else {
+        format!("{}.", base_image_type)
+    };
+
+    let base_image_url = format!("https://{}onepiece-cardgame.com/images/cardlist/card/", base_image_type);
     
     let mut cards = if merge {
         load_existing_cards()?
@@ -503,13 +512,14 @@ fn load_existing_cards() -> Result<Vec<Card>, Box<dyn std::error::Error>> {
     }
 }
 
-fn save_output(cards: &[Card]) -> Result<(), Box<dyn std::error::Error>> {
+fn save_output(cards: &[Card], region: &str) -> Result<(), Box<dyn std::error::Error>> {
     // Create output directory if it doesn't exist
-    fs::create_dir_all("output")?;
+    let output_dir = format!("output/{}", region);
+    fs::create_dir_all(&output_dir)?;
     
     // Save full cards data
     fs::write(
-        "output/cards-full.json",
+        format!("{}/cards-full.json", output_dir),
         serde_json::to_string_pretty(cards)?,
     )?;
     
@@ -523,14 +533,14 @@ fn save_output(cards: &[Card]) -> Result<(), Box<dyn std::error::Error>> {
         .collect();
         
     fs::write(
-        "output/cards.json",
+        format!("{}/cards.json", output_dir),
         serde_json::to_string_pretty(&cards_without_effects)?,
     )?;
     
     // Generate and save filters
     let filters = generate_filters(cards);
     fs::write(
-        "output/filters.json",
+        format!("{}/filters.json", output_dir),
         serde_json::to_string_pretty(&filters)?,
     )?;
     
