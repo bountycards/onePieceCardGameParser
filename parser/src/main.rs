@@ -635,43 +635,63 @@ fn load_existing_cards() -> Result<Vec<Card>, Box<dyn std::error::Error>> {
     }
 }
 
-fn save_output(cards: &[Card], region: &str) -> Result<(), Box<dyn std::error::Error>> {
+fn save_output(new_cards: &[Card], region: &str) -> Result<(), Box<dyn std::error::Error>> {
     // Create output directory if it doesn't exist
     let output_dir = format!("../json/{}", region);
     fs::create_dir_all(&output_dir)?;
-    
+
+    // Load existing cards
+    let mut existing_cards = load_existing_cards_from_output(&output_dir)?;
+
+    // Merge new cards with existing cards
+    for new_card in new_cards {
+        if let Some(existing_idx) = find_existing_card(&existing_cards, new_card) {
+            existing_cards[existing_idx] = new_card.clone();
+        } else {
+            existing_cards.push(new_card.clone());
+        }
+    }
+
     // Sort the cards
-    let mut sorted_cards = cards.to_vec();
-    sorted_cards.sort();
-    
+    existing_cards.sort();
+
     // Save full cards data
     fs::write(
         format!("{}/cards-full.json", output_dir),
-        serde_json::to_string_pretty(&sorted_cards)?,
+        serde_json::to_string_pretty(&existing_cards)?,
     )?;
-    
+
     // Save cards without effects
-    let cards_without_effects: Vec<_> = sorted_cards.iter()
+    let cards_without_effects: Vec<_> = existing_cards.iter()
         .map(|card| {
             let mut card = card.clone();
             card.effects = None;
             card
         })
         .collect();
-        
+
     fs::write(
         format!("{}/cards.json", output_dir),
         serde_json::to_string_pretty(&cards_without_effects)?,
     )?;
-    
+
     // Generate and save filters
-    let filters = generate_filters(&sorted_cards);
+    let filters = generate_filters(&existing_cards);
     fs::write(
         format!("{}/filters.json", output_dir),
         serde_json::to_string_pretty(&filters)?,
     )?;
-    
+
     Ok(())
+}
+
+fn load_existing_cards_from_output(output_dir: &str) -> Result<Vec<Card>, Box<dyn std::error::Error>> {
+    let path = format!("{}/cards-full.json", output_dir);
+    if let Ok(content) = fs::read_to_string(&path) {
+        Ok(serde_json::from_str(&content)?)
+    } else {
+        Ok(Vec::new())
+    }
 }
 
 fn generate_filters(cards: &[Card]) -> serde_json::Value {
