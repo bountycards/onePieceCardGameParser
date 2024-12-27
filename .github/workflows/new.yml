@@ -1,0 +1,41 @@
+name: Run Cargo and Create PR
+
+on:
+  schedule:
+    - cron: '14 6,12,18 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  run-cargo:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Rust
+      uses: actions-rs/toolchain@v1
+      with:
+        toolchain: stable
+
+    - name: Run Cargo
+      run: |
+        cd parser
+        cargo run --release
+
+    - name: Check for changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m "Update from GitHub Actions" || echo "No changes to commit"
+        git push origin main || echo "No changes to push"
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: Update from GitHub Actions
+        branch: update-from-actions
+        title: 'Automated update from GitHub Actions'
+        body: 'This PR was created automatically by GitHub Actions.'
+        labels: automated-pr
