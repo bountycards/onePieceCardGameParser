@@ -1,0 +1,29 @@
+{
+  "name": "one-piece-card-game-json",
+  "version": "0.1.2",
+  "description": "One Piece Card Game JSON data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "one-piece",
+    "card-game",
+    "json"
+  ],
+  "author": "Adam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bountycards/onePieceCardGameParser/json"
+  },
+  "files": [
+    "index.js",
+    "en/",
+    "jp/"
+  ],
+  "dependencies": {
+    "one-piece-card-game-json-all": "file:./",
+    "one-piece-card-game-json-en": "file:./en",
+    "one-piece-card-game-json-jp": "file:./jp"
+  }
+}

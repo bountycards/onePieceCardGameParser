@@ -3,3 +3,5 @@ target/
 
 input/
 cache/
+
+.DS_Store
