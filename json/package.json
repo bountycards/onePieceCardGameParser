@@ -14,7 +14,7 @@
   "author": "Adam",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bountycards/onePieceCardGameParser/"
+    "url": "git+https://github.com/bountycards/onePieceCardGameParser.git"
   },
   "files": [
     "index.js",
