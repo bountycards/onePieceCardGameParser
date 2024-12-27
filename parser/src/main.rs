@@ -628,7 +628,7 @@ fn find_existing_card(cards: &[Card], new_card: &Card) -> Option<usize> {
 }
 
 fn load_existing_cards() -> Result<Vec<Card>, Box<dyn std::error::Error>> {
-    if let Ok(content) = fs::read_to_string("../json/cards-full.json") {
+    if let Ok(content) = fs::read_to_string("../json/cards.json") {
         Ok(serde_json::from_str(&content)?)
     } else {
         Ok(Vec::new())
@@ -657,23 +657,23 @@ fn save_output(new_cards: &[Card], region: &str) -> Result<(), Box<dyn std::erro
 
     // Save full cards data
     fs::write(
-        format!("{}/cards-full.json", output_dir),
+        format!("{}/cards.json", output_dir),
         serde_json::to_string_pretty(&existing_cards)?,
     )?;
 
-    // Save cards without effects
-    let cards_without_effects: Vec<_> = existing_cards.iter()
-        .map(|card| {
-            let mut card = card.clone();
-            card.effects = None;
-            card
-        })
-        .collect();
+    // // Save cards without effects
+    // let cards_without_effects: Vec<_> = existing_cards.iter()
+    //     .map(|card| {
+    //         let mut card = card.clone();
+    //         card.effects = None;
+    //         card
+    //     })
+    //     .collect();
 
-    fs::write(
-        format!("{}/cards.json", output_dir),
-        serde_json::to_string_pretty(&cards_without_effects)?,
-    )?;
+    // fs::write(
+    //     format!("{}/cards-no-effect.json", output_dir),
+    //     serde_json::to_string_pretty(&cards_without_effects)?,
+    // )?;
 
     // Generate and save filters
     let filters = generate_filters(&existing_cards);
@@ -686,7 +686,7 @@ fn save_output(new_cards: &[Card], region: &str) -> Result<(), Box<dyn std::erro
 }
 
 fn load_existing_cards_from_output(output_dir: &str) -> Result<Vec<Card>, Box<dyn std::error::Error>> {
-    let path = format!("{}/cards-full.json", output_dir);
+    let path = format!("{}/cards.json", output_dir);
     if let Ok(content) = fs::read_to_string(&path) {
         Ok(serde_json::from_str(&content)?)
     } else {
