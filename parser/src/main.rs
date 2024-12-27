@@ -505,7 +505,7 @@ fn find_existing_card(cards: &[Card], new_card: &Card) -> Option<usize> {
 }
 
 fn load_existing_cards() -> Result<Vec<Card>, Box<dyn std::error::Error>> {
-    if let Ok(content) = fs::read_to_string("output/cards-full.json") {
+    if let Ok(content) = fs::read_to_string("../json/cards-full.json") {
         Ok(serde_json::from_str(&content)?)
     } else {
         Ok(Vec::new())
@@ -514,7 +514,7 @@ fn load_existing_cards() -> Result<Vec<Card>, Box<dyn std::error::Error>> {
 
 fn save_output(cards: &[Card], region: &str) -> Result<(), Box<dyn std::error::Error>> {
     // Create output directory if it doesn't exist
-    let output_dir = format!("output/{}", region);
+    let output_dir = format!("../json/{}", region);
     fs::create_dir_all(&output_dir)?;
     
     // Save full cards data
