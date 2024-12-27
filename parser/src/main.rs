@@ -1,9 +1,7 @@
 use serde::{Deserialize, Serialize};
 use scraper::{Html, Selector, ElementRef};
-use std::fs;
-use std::path::Path;
-use std::collections::HashSet;
-use structopt::StructOpt;
+use std::{fs, collections::HashSet, thread, time::Duration};
+use reqwest::Client;
 use serde_json::json;
 use html_escape::decode_html_entities;
 
@@ -110,29 +108,71 @@ struct Card {
     image_name: String,
 }
 
-#[derive(StructOpt, Debug)]
-#[structopt(name = "card-parser")]
-struct Opt {
-    #[structopt(long)]
-    input: String,
-    
-    #[structopt(long)]
-    merge: bool,
-    
-    #[structopt(long)]
-    asia: bool,
+use reqwest;
+
+#[derive(Debug)]
+struct CardSource {
+    url: String,
+    colors: Vec<&'static str>,
 }
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let opt = Opt::from_args();
-    let base_image_type = if opt.asia { "asia-en" } else { "en" };
-    
-    let input_path = Path::new("input").join(&opt.input);
-    let html_content = fs::read_to_string(input_path)?;
-        
-    let cards = parse_cards(&html_content, base_image_type, opt.merge)?;
-    save_output(&cards)?;
-    
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let sources = vec![
+        CardSource {
+            url: "https://en.onepiece-cardgame.com/cardlist/".to_string(),
+            colors: vec!["Red", "Green", "Blue", "Purple", "Black", "Yellow"],
+        },
+        // CardSource {
+        //     url: "https://asia-en.onepiece-cardgame.com/cardlist/".to_string(),
+        //     colors: vec!["Red", "Green", "Blue", "Purple", "Black", "Yellow"],
+        // },
+    ];
+
+    let client = Client::new();
+    fs::create_dir_all("input")?;
+
+    for source in sources {
+        for color in source.colors {
+            println!("Fetching {} cards...", color);
+            
+            let form_data = [
+                ("freewords", ""),
+                ("series", ""),
+                ("colors[]", color),
+            ];
+
+            let response = client
+                .post(&source.url)
+                .form(&form_data)
+                .header("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0")
+                .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8")
+                .header("Accept-Language", "en-GB,en;q=0.9")
+                .header("Accept-Encoding", "gzip, deflate, br")
+                .header("Content-Type", "application/x-www-form-urlencoded")
+                .header("DNT", "1")
+                .header("Connection", "keep-alive")
+                .header("Upgrade-Insecure-Requests", "1")
+                .send()
+                .await?;
+
+            let html_content = response.text().await?;
+            
+            // Save the HTML file
+            let filename = format!("input/cardlist-{}.html", color.to_lowercase());
+            fs::write(&filename, &html_content)?;
+            
+            // Parse the cards
+            let cards = parse_cards(&html_content, "en", true)?;
+            
+            // Save the output
+            save_output(&cards)?;
+            
+            // Be nice to the server
+            thread::sleep(Duration::from_secs(2));
+        }
+    }
+
     Ok(())
 }
 
