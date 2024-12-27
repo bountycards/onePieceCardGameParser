@@ -122,19 +122,24 @@ impl PartialOrd for Card {
 
 impl Ord for Card {
     fn cmp(&self, other: &Self) -> Ordering {
-        // First compare by card sets
-        match self.card_sets.cmp(&other.card_sets) {
+        // Extract set information
+        let self_set_info = extract_set_info(&self.card_sets);
+        let other_set_info = extract_set_info(&other.card_sets);
+
+        // Compare set types first
+        match compare_set_types(&self_set_info.set_type, &other_set_info.set_type) {
             Ordering::Equal => {
-                // If card sets are equal, compare card numbers
-                // Split the card number into prefix and numeric parts
-                let (self_prefix, self_num) = split_card_number(&self.card_number);
-                let (other_prefix, other_num) = split_card_number(&other.card_number);
-                
-                // First compare prefixes
-                match self_prefix.cmp(&other_prefix) {
+                // If set types are equal, compare set numbers
+                match self_set_info.set_number.cmp(&other_set_info.set_number) {
                     Ordering::Equal => {
-                        // If prefixes are equal, compare numeric parts
-                        self_num.cmp(&other_num)
+                        // If set numbers are equal, compare card numbers
+                        let (self_prefix, self_num) = split_card_number(&self.card_number);
+                        let (other_prefix, other_num) = split_card_number(&other.card_number);
+                        
+                        match self_prefix.cmp(&other_prefix) {
+                            Ordering::Equal => self_num.cmp(&other_num),
+                            ordering => ordering,
+                        }
                     },
                     ordering => ordering,
                 }
@@ -142,6 +147,55 @@ impl Ord for Card {
             ordering => ordering,
         }
     }
+}
+
+#[derive(Debug)]
+struct SetInfo {
+    set_type: String,
+    set_number: i32,
+}
+
+fn extract_set_info(card_sets: &str) -> SetInfo {
+    // Try to find a pattern like "OP-01", "ST-01", etc.
+    let set_pattern = regex::Regex::new(r"\[((?:OP|ST|PRB|EB|P)-\d+)\]").unwrap();
+    
+    if let Some(captures) = set_pattern.captures(card_sets) {
+        let full_id = captures.get(1).unwrap().as_str();
+        let parts: Vec<&str> = full_id.split('-').collect();
+        let set_type = parts[0].to_string();
+        let set_number = parts[1].parse::<i32>().unwrap_or(999); // Default high number for parsing errors
+        
+        SetInfo {
+            set_type,
+            set_number,
+        }
+    } else {
+        // If no pattern found, use a default for alphabetical sorting
+        SetInfo {
+            set_type: "ZZZ".to_string(), // Put at the end
+            set_number: 999,
+        }
+    }
+}
+
+fn compare_set_types(type1: &str, type2: &str) -> Ordering {
+    // Define priority order for set types
+    let priority = |set_type: &str| {
+        match set_type {
+            "OP" => 0,
+            "ST" => 1,
+            "P" => 2,
+            "EB" => 3,
+            "PRB" => 4,
+            "ZZZ" => 999, // For sets that don't match any pattern
+            _ => 500, // For any other prefixes
+        }
+    };
+
+    let p1 = priority(type1);
+    let p2 = priority(type2);
+    
+    p1.cmp(&p2)
 }
 
 // Helper function to split card numbers like "ST01-001" into ("ST01-", 1)
