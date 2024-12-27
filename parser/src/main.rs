@@ -1,11 +1,11 @@
 use serde::{Deserialize, Serialize};
 use scraper::{Html, Selector, ElementRef};
-use std::{fs, collections::HashSet, thread, time::Duration};
+use std::{fs, collections::HashSet, thread, time::Duration, cmp::Ordering};
 use reqwest::Client;
 use serde_json::json;
 use html_escape::decode_html_entities;
 
-#[derive(Debug, Serialize, Deserialize, Clone, PartialEq, Eq, Hash)]
+#[derive(Debug, Serialize, Deserialize, Clone, PartialEq, Eq, Hash, Ord, PartialOrd)]
 enum CardType {
     LEADER,
     STAGE,
@@ -13,7 +13,7 @@ enum CardType {
     CHARACTER,
 }
 
-#[derive(Debug, Serialize, Deserialize, Clone, PartialEq, Eq, Hash)]
+#[derive(Debug, Serialize, Deserialize, Clone, PartialEq, Eq, Hash, Ord, PartialOrd)]
 enum Rarity {
     #[serde(rename = "C")]
     Common,
@@ -35,7 +35,7 @@ enum Rarity {
     TreasureRare,
 }
 
-#[derive(Debug, Serialize, Deserialize, Clone)]
+#[derive(Debug, Serialize, Deserialize, Clone, PartialEq, Eq, PartialOrd, Ord)]
 enum Color {
     Red,
     Blue,
@@ -87,7 +87,7 @@ enum Effect {
     YourTurn,
 }
 
-#[derive(Debug, Serialize, Deserialize, Clone)]
+#[derive(Debug, Serialize, Deserialize, Clone, Eq)]
 struct Card {
     card_name: String,
     card_number: String,
@@ -108,7 +108,76 @@ struct Card {
     image_name: String,
 }
 
-use reqwest;
+impl PartialEq for Card {
+    fn eq(&self, other: &Self) -> bool {
+        self.card_sets == other.card_sets && self.card_number == other.card_number
+    }
+}
+
+impl PartialOrd for Card {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
+
+impl Ord for Card {
+    fn cmp(&self, other: &Self) -> Ordering {
+        // First compare by card sets
+        match self.card_sets.cmp(&other.card_sets) {
+            Ordering::Equal => {
+                // If card sets are equal, compare card numbers
+                // Split the card number into prefix and numeric parts
+                let (self_prefix, self_num) = split_card_number(&self.card_number);
+                let (other_prefix, other_num) = split_card_number(&other.card_number);
+                
+                // First compare prefixes
+                match self_prefix.cmp(&other_prefix) {
+                    Ordering::Equal => {
+                        // If prefixes are equal, compare numeric parts
+                        self_num.cmp(&other_num)
+                    },
+                    ordering => ordering,
+                }
+            },
+            ordering => ordering,
+        }
+    }
+}
+
+// Helper function to split card numbers like "ST01-001" into ("ST01-", 1)
+fn split_card_number(card_number: &str) -> (String, i32) {
+    let numeric_part_start = card_number
+        .chars()
+        .position(|c| c.is_ascii_digit())
+        .unwrap_or(0);
+    
+    let (prefix, number_str) = card_number.split_at(numeric_part_start);
+    
+    // Find where the last numeric part begins
+    let last_dash = number_str.rfind('-').unwrap_or(0);
+    let final_number = if last_dash > 0 {
+        &number_str[last_dash + 1..]
+    } else {
+        number_str
+    };
+    
+    // Extract just the numbers, defaulting to 0 if parsing fails
+    let number = final_number
+        .chars()
+        .filter(|c| c.is_ascii_digit())
+        .collect::<String>()
+        .parse::<i32>()
+        .unwrap_or(0);
+    
+    // Construct the prefix including everything up to the final number
+    let full_prefix = if last_dash > 0 {
+        format!("{}{}-", prefix, &number_str[..last_dash])
+    } else {
+        prefix.to_string()
+    };
+    
+    (full_prefix, number)
+}
 
 #[derive(Debug)]
 struct CardSource {
@@ -517,14 +586,18 @@ fn save_output(cards: &[Card], region: &str) -> Result<(), Box<dyn std::error::E
     let output_dir = format!("../json/{}", region);
     fs::create_dir_all(&output_dir)?;
     
+    // Sort the cards
+    let mut sorted_cards = cards.to_vec();
+    sorted_cards.sort();
+    
     // Save full cards data
     fs::write(
         format!("{}/cards-full.json", output_dir),
-        serde_json::to_string_pretty(cards)?,
+        serde_json::to_string_pretty(&sorted_cards)?,
     )?;
     
     // Save cards without effects
-    let cards_without_effects: Vec<_> = cards.iter()
+    let cards_without_effects: Vec<_> = sorted_cards.iter()
         .map(|card| {
             let mut card = card.clone();
             card.effects = None;
@@ -538,7 +611,7 @@ fn save_output(cards: &[Card], region: &str) -> Result<(), Box<dyn std::error::E
     )?;
     
     // Generate and save filters
-    let filters = generate_filters(cards);
+    let filters = generate_filters(&sorted_cards);
     fs::write(
         format!("{}/filters.json", output_dir),
         serde_json::to_string_pretty(&filters)?,
