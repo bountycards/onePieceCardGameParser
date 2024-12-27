@@ -34300,7 +34300,7 @@
   {
     "card_name": "Monkey.D.Luffy",
     "card_number": "OP05-119",
-    "rarity": "SEC",
+    "rarity": "SP CARD",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
     "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP05-119_p5.png?241220",
@@ -38633,7 +38633,7 @@
   {
     "card_name": "Monkey.D.Luffy",
     "card_number": "OP09-119",
-    "rarity": "SP CARD",
+    "rarity": "SEC",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
     "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.png?241220",
@@ -66200,6 +66200,34 @@
     "image_name": "OP05-086_p1"
   },
   {
+    "card_name": "Rebecca",
+    "card_number": "OP05-091",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP05-091_p3.png?241220",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa"
+    ],
+    "effects": null,
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "Top ranker prize for Championship 2024 Wave 2 Regional Finals",
+    "image_name": "OP05-091_p3"
+  },
+  {
     "card_name": "Rob Lucci",
     "card_number": "OP05-093",
     "rarity": "SR",
@@ -70547,6 +70575,34 @@
     ],
     "card_sets": "Asia Special Prize for December 2024 Standard Battle",
     "image_name": "P-088"
+  },
+  {
+    "card_name": "Tony Tony.Chopper",
+    "card_number": "P-089",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-089.png?241220",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effects": null,
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "Asia Special Prize for February 2025 Standard Battle",
+    "image_name": "P-089"
   },
   {
     "card_name": "Monkey.D.Luffy",
