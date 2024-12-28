@@ -14,9 +14,12 @@ declare module 'one-piece-card-game-json-jp' {
 }
 
 declare module 'one-piece-card-game-json' {
-  import all from 'one-piece-card-game-json-all';
-  import en from 'one-piece-card-game-json-en';
-  import jp from 'one-piece-card-game-json-jp';
+  const all: any;
+  const en: {
+    cards: any;
+    filters: any;
+  };
+  const jp: any;
 
   export { all, en, jp };
 }
