@@ -7,23 +7,20 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: read
+      id-token: write
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        registry-url: 'https://registry.npmjs.org'
-
-    # - name: Install dependencies
-    #   run: npm install
-
-    - name: Publish to npm
-      working-directory: ./json
-      run: npm publish --provenance --access public
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - uses: actions/checkout@v4
+      # Setup .npmrc file to publish to npm
+      - uses: actions/setup-node@v4
+        with:
+        #   node-version: '20.x'
+          registry-url: 'https://registry.npmjs.org'
+        #   - run: npm ci
+      - run: npm publish --provenance --access public
+        working-directory: ./json
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
