@@ -1,13 +1,11 @@
-const all = require('one-piece-card-game-json-all');
-const enCards = require('./en/cards.json');
-const enFilters = require('./en/filters.json');
-const jp = require('one-piece-card-game-json-jp');
-
 module.exports = {
-  all,
+  all: require('./en/cards.json'),
   en: {
-    cards: enCards,
-    filters: enFilters
+    cards: require('./en/cards.json'),
+    filters: require('./en/filters.json')
   },
-  jp
+  jp: {
+    cards: require('./jp/cards.json'),
+    filters: require('./jp/filters.json')
+  }
 };
