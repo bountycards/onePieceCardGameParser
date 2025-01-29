@@ -57,6 +57,16 @@ jobs:
         git commit -am "Update JSON files"
         git push origin auto-update --force
 
+    - name: Update version
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        current_version=$(jq -r '.version' json/package.json)
+        new_version=$(echo $current_version | awk -F. -v OFS=. '{$NF++;print}')
+        jq --arg new_version "$new_version" '.version = $new_version' json/package.json > tmp.$$.json && mv tmp.$$.json json/package.json
+        git add json/package.json
+        git commit -m "Bump version to $new_version"
+        git push origin auto-update --force
+
     - name: Shoutrrr
       if: steps.git-check.outputs.changes == 'true'
       uses: containrrr/shoutrrr-action@v1
