@@ -57,6 +57,14 @@ jobs:
         git commit -am "Update JSON files"
         git push origin auto-update --force
 
+    - name: Shoutrrr
+      if: steps.git-check.outputs.changes == 'true'
+      uses: containrrr/shoutrrr-action@v1
+      with:
+        url: ${{ secrets.SHOUTRRR_URL }}
+        title: New Cards were found
+        message: New cards were found in the JSON files. Please review and merge the PR. https://github.com/bountycards/onePieceCardGameParser/pull/new/auto-update
+
     - name: Install GitHub CLI
       if: steps.git-check.outputs.changes == 'true'
       run: |
