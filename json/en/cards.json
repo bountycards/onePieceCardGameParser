@@ -34386,7 +34386,7 @@
   {
     "card_name": "Monkey.D.Luffy",
     "card_number": "OP05-119",
-    "rarity": "SEC",
+    "rarity": "SP CARD",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
     "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p6.png?241220",
@@ -38719,7 +38719,7 @@
   {
     "card_name": "Monkey.D.Luffy",
     "card_number": "OP09-119",
-    "rarity": "SP CARD",
+    "rarity": "SEC",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
     "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.png?241220",
@@ -59642,6 +59642,33 @@
     "image_name": "EB01-012_p3"
   },
   {
+    "card_name": "Spandine",
+    "card_number": "EB01-043",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-043_p1.png?241220",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "CP9"
+    ],
+    "effects": "[On Play] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: Play up to 1 Character card with a type including \"CP\" and a cost of 4 or less other than [Spandine] from your trash rested.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Offline Regional Participation Pack 2025 Vol.1",
+    "image_name": "EB01-043_p1"
+  },
+  {
     "card_name": "Roronoa Zoro",
     "card_number": "OP01-001",
     "rarity": "L",
@@ -61346,6 +61373,35 @@
     "image_name": "OP06-110_p1"
   },
   {
+    "card_name": "Urouge",
+    "card_number": "OP07-021",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-021_p1.png?241220",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Fallen Monk Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[End of Your Turn]"
+    ],
+    "card_sets": "Offline Regional Participation Pack 2025 Vol.1",
+    "image_name": "OP07-021_p1"
+  },
+  {
     "card_name": "Crocodile",
     "card_number": "OP07-040",
     "rarity": "UC",
@@ -61458,6 +61514,34 @@
     "image_name": "OP07-100_p1"
   },
   {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP07-113",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-113_p1.png?241220",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Straw Hat Crew"
+    ],
+    "effects": "- [Trigger] If your Leader has the {Egghead} type, rest up to 1 of your opponent's Leader or Character cards.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "ONE PIECE DAY Dallas -Card Game Celebration-",
+    "image_name": "OP07-113_p1"
+  },
+  {
     "card_name": "Jack",
     "card_number": "OP08-084",
     "rarity": "SR",
@@ -61510,6 +61594,34 @@
     ],
     "card_sets": "Treasure Cup February 2025",
     "image_name": "OP09-002_p2"
+  },
+  {
+    "card_name": "Nico Olvia",
+    "card_number": "OP09-106",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p1.png?241220",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Ohara"
+    ],
+    "effects": "[On Play] Up to 1 of your [Nico Robin] Leader gains +3000 power during this turn. [Trigger] If your Leader is [Nico Robin], draw 3 cards and trash 2 cards from your hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "Offline Regional Participation Pack 2025 Vol.1",
+    "image_name": "OP09-106_p1"
   },
   {
     "card_name": "Monkey.D.Luffy",
@@ -63624,6 +63736,33 @@
     "image_name": "P-069"
   },
   {
+    "card_name": "Carrot",
+    "card_number": "P-070",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-070.png?241220",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Special"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Minks"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Event Pack Vol.6",
+    "image_name": "P-070"
+  },
+  {
     "card_name": "Marco",
     "card_number": "P-071",
     "rarity": "P",
@@ -63678,6 +63817,117 @@
     ],
     "card_sets": "Pirates Party Vol.7",
     "image_name": "P-076"
+  },
+  {
+    "card_name": "Ulti",
+    "card_number": "P-077",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-077.png?241220",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it. Then, set up to 1 of your purple Stages as active.",
+    "card_effects": [
+      "[Once Per Turn]"
+    ],
+    "card_sets": "Event Pack Vol.6",
+    "image_name": "P-077"
+  },
+  {
+    "card_name": "Adio",
+    "card_number": "P-078",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-078.png?241220",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "ODYSSEY"
+    ],
+    "effects": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "Offline Regional Participation Pack 2025 Vol.1",
+    "image_name": "P-078"
+  },
+  {
+    "card_name": "Lim",
+    "card_number": "P-079",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-079.png?241220",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "ODYSSEY"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have 2 or more rested {ODYSSEY} type Characters, set this Character as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[End of Your Turn]"
+    ],
+    "card_sets": "Event Pack Vol.6",
+    "image_name": "P-079"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "P-083",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-083.png?241220",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[DON!! x1] [When Attacking] You may trash 1 Character card from your hand: Give up to 1 of your opponent's Characters −1000 power during this turn. Then, draw 1 card.",
+    "card_effects": [
+      "[DON!! x1]",
+      "[When Attacking]"
+    ],
+    "card_sets": "Event Pack Vol.6",
+    "image_name": "P-083"
   },
   {
     "card_name": "Usopp",
@@ -65000,6 +65250,35 @@
     ],
     "card_sets": "English Version 1st Anniversary Set",
     "image_name": "ST10-006_p2"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "ST10-006",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-006_p4.png?241220",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "11000",
+    "counter": "-",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>[Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[Once Per Turn]",
+      "[Rush]"
+    ],
+    "card_sets": "ONE PIECE DAY Dallas -Card Game Celebration-",
+    "image_name": "ST10-006_p4"
   },
   {
     "card_name": "Trafalgar Law",
