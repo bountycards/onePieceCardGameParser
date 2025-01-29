@@ -24,6 +24,15 @@ jobs:
       with:
         toolchain: stable
 
+    - name: Create or checkout auto-update branch
+      run: |
+        git fetch origin
+        if git show-ref --verify --quiet refs/heads/auto-update; then
+          git checkout auto-update
+        else
+          git checkout -b auto-update
+        fi
+
     - name: Run Cargo
       run: |
         cd parser
@@ -40,23 +49,32 @@ jobs:
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
-        
-    - name: Create branch and commit changes
+
+    - name: Create or reset static branch
       if: steps.git-check.outputs.changes == 'true'
       run: |
-        branch_name="update-json-$(date +%Y%m%d-%H%M%S)"
-        git checkout -b $branch_name
+        git add .
         git commit -am "Update JSON files"
-        git push origin $branch_name
-        echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
+        git push origin auto-update --force
 
-    - name: Create Pull Request
+    - name: Install GitHub CLI
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y gh
+
+    - name: Authenticate GitHub CLI
       if: steps.git-check.outputs.changes == 'true'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        echo "$GITHUB_TOKEN" | gh auth login --with-token
+
+    - name: Create Pull Request
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
         gh pr create \
           --base main \
-          --head ${{ env.BRANCH_NAME }} \
+          --head auto-update \
           --title "Update JSON files $(date +%Y-%m-%d)" \
           --body "Automated PR created by GitHub Action to update JSON files."
