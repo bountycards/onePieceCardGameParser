@@ -2,7 +2,7 @@ name: Run Cargo and Create PR
 
 on:
   schedule:
-    - cron: '14 6,12,18 * * *'
+    - cron: "14 6,12,18 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -14,85 +14,86 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
-    - name: Set up Rust
-      uses: actions-rs/toolchain@v1
-      with:
-        toolchain: stable
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
 
-    - name: Create or checkout auto-update branch
-      run: |
-        git fetch origin
-        if git show-ref --verify --quiet refs/heads/auto-update; then
-          git checkout auto-update
-        else
-          git checkout -b auto-update
-        fi
+      - name: Create or checkout auto-update branch
+        run: |
+          git fetch origin
+          if git show-ref --verify --quiet refs/heads/auto-update; then
+            git checkout auto-update
+          else
+            git checkout -b auto-update
+          fi
 
-    - name: Run Cargo
-      run: |
-        cd parser
-        cargo run --release
+      - name: Run Cargo
+        run: |
+          cd parser
+          cargo run --release
 
-    - name: Check for changes
-      id: git-check
-      run: |
-        git add .
-        git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+      - name: Check for changes
+        id: git-check
+        run: |
+          git add .
+          git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
 
-    - name: Configure Git
-      if: steps.git-check.outputs.changes == 'true'
-      run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
+      - name: Configure Git
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
 
-    - name: Create or reset static branch
-      if: steps.git-check.outputs.changes == 'true'
-      run: |
-        git add .
-        git commit -am "Update JSON files"
-        git push origin auto-update --force
+      - name: Create or reset static branch
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git add .
+          git commit -am "Update JSON files"
+          git push origin auto-update --force
 
-    - name: Update version
-      if: steps.git-check.outputs.changes == 'true'
-      run: |
-        current_version=$(jq -r '.version' json/package.json)
-        new_version=$(echo $current_version | awk -F. -v OFS=. '{$NF++;print}')
-        jq --arg new_version "$new_version" '.version = $new_version' json/package.json > tmp.$$.json && mv tmp.$$.json json/package.json
-        git add json/package.json
-        git commit -m "Bump version to $new_version"
-        git push origin auto-update --force
+      - name: Update version
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          current_version=$(jq -r '.version' json/package.json)
+          new_version=$(echo $current_version | awk -F. -v OFS=. '{$NF++;print}')
+          jq --arg new_version "$new_version" '.version = $new_version' json/package.json > tmp.$$.json && mv tmp.$$.json json/package.json
+          git add json/package.json
+          git commit -m "Bump version to $new_version"
+          git push origin auto-update --force
 
-    - name: Shoutrrr
-      if: steps.git-check.outputs.changes == 'true'
-      uses: containrrr/shoutrrr-action@v1
-      with:
-        url: ${{ secrets.SHOUTRRR_URL }}
-        title: New Cards were found
-        message: New cards were found in the JSON files. Please review and merge the PR. https://github.com/bountycards/onePieceCardGameParser/pull/new/auto-update
+      - name: Shoutrrr
+        if: steps.git-check.outputs.changes == 'true'
+        uses: containrrr/shoutrrr-action@v1
+        continue-on-error: true
+        with:
+          url: ${{ secrets.SHOUTRRR_URL }}
+          title: New Cards were found
+          message: New cards were found in the JSON files. Please review and merge the PR. https://github.com/bountycards/onePieceCardGameParser/pull/new/auto-update
 
-    - name: Install GitHub CLI
-      if: steps.git-check.outputs.changes == 'true'
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y gh
+      - name: Install GitHub CLI
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gh
 
-    # - name: Authenticate GitHub CLI
-    #   if: steps.git-check.outputs.changes == 'true'
-    #   env:
-    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #   run: |
-    #     echo "$GITHUB_TOKEN" | gh auth login --with-token
+      # - name: Authenticate GitHub CLI
+      #   if: steps.git-check.outputs.changes == 'true'
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   run: |
+      #     echo "$GITHUB_TOKEN" | gh auth login --with-token
 
-    - name: Create Pull Request
-      if: steps.git-check.outputs.changes == 'true'
-      run: |
-        gh pr create \
-          --base main \
-          --head auto-update \
-          --title "Update JSON files $(date +%Y-%m-%d)" \
-          --body "Automated PR created by GitHub Action to update JSON files."
+      - name: Create Pull Request
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          gh pr create \
+            --base main \
+            --head auto-update \
+            --title "Update JSON files $(date +%Y-%m-%d)" \
+            --body "Automated PR created by GitHub Action to update JSON files."
