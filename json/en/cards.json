@@ -59642,6 +59642,62 @@
     "image_name": "EB01-012_p3"
   },
   {
+    "card_name": "Scratchmen Apoo",
+    "card_number": "EB01-015",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p1.png?241220",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "1000",
+    "counter": "2000",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "On-Air Pirates"
+    ],
+    "effects": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Tournament Kit 2025 Vol.2",
+    "image_name": "EB01-015_p1"
+  },
+  {
+    "card_name": "Scratchmen Apoo",
+    "card_number": "EB01-015",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p2.png?241220",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "1000",
+    "counter": "2000",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "On-Air Pirates"
+    ],
+    "effects": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Winner Pack 2025 Vol.2",
+    "image_name": "EB01-015_p2"
+  },
+  {
     "card_name": "Spandine",
     "card_number": "EB01-043",
     "rarity": "R",
@@ -61065,6 +61121,60 @@
     "image_name": "OP04-083_p3"
   },
   {
+    "card_name": "Rebecca",
+    "card_number": "OP04-092",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-092_p1.png?241220",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Tournament Kit 2025 Vol.2",
+    "image_name": "OP04-092_p1"
+  },
+  {
+    "card_name": "Rebecca",
+    "card_number": "OP04-092",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-092_p2.png?241220",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Winner Pack 2025 Vol.2",
+    "image_name": "OP04-092_p2"
+  },
+  {
     "card_name": "Monet",
     "card_number": "OP05-036",
     "rarity": "UC",
@@ -61569,6 +61679,62 @@
     "image_name": "OP08-084_p2"
   },
   {
+    "card_name": "Wyper",
+    "card_number": "OP08-110",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p2.png?241220",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Sky Island",
+      "Shandian Warrior"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Tournament Kit 2025 Vol.2",
+    "image_name": "OP08-110_p2"
+  },
+  {
+    "card_name": "Wyper",
+    "card_number": "OP08-110",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p3.png?241220",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Sky Island",
+      "Shandian Warrior"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Winner Pack 2025 Vol.2",
+    "image_name": "OP08-110_p3"
+  },
+  {
     "card_name": "Uta",
     "card_number": "OP09-002",
     "rarity": "R",
@@ -61594,6 +61760,60 @@
     ],
     "card_sets": "Treasure Cup February 2025",
     "image_name": "OP09-002_p2"
+  },
+  {
+    "card_name": "Hongo",
+    "card_number": "OP09-011",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p1.png?241220",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "3000",
+    "counter": "2000",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "Tournament Kit 2025 Vol.2",
+    "image_name": "OP09-011_p1"
+  },
+  {
+    "card_name": "Hongo",
+    "card_number": "OP09-011",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p2.png?241220",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "3000",
+    "counter": "2000",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "Winner Pack 2025 Vol.2",
+    "image_name": "OP09-011_p2"
   },
   {
     "card_name": "Nico Olvia",
