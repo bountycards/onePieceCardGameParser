@@ -383,8 +383,12 @@ fn parse_single_card(element: &ElementRef, base_image_url: &str) -> Result<Card,
         .ok_or("Invalid image URL")?
         .to_string();
         
+    let image_name = image_name.split('.').next()
+        .ok_or("Invalid image name")?
+        .to_string();
+
     let image_url = format!("{}{}", base_image_url, image_name);
-    
+
     // Extract back col info
     let back_col = element.select(&back_col_selector)
         .next()
@@ -401,11 +405,7 @@ fn parse_single_card(element: &ElementRef, base_image_url: &str) -> Result<Card,
     
     let is_alternate_art = image_url.contains(&format!("{}_", card_number)) && 
         !card_sets.contains("Included in");
-        
-    let image_name = image_name.split('.').next()
-        .ok_or("Invalid image name")?
-        .to_string();
-    
+
     Ok(Card {
         card_name,
         card_number,
