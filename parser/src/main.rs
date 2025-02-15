@@ -387,7 +387,7 @@ fn parse_single_card(element: &ElementRef, base_image_url: &str) -> Result<Card,
         .ok_or("Invalid image name")?
         .to_string();
 
-    let image_url = format!("{}{}", base_image_url, image_name);
+    let image_url = format!("{}{}.png", base_image_url, image_name);
 
     // Extract back col info
     let back_col = element.select(&back_col_selector)
@@ -624,7 +624,11 @@ fn parse_card_type(text: &str) -> Result<CardType, Box<dyn std::error::Error>> {
 
 fn find_existing_card(cards: &[Card], new_card: &Card) -> Option<usize> {
     cards.iter()
-        .position(|card| card.image_url == new_card.image_url)
+        .position(|card| 
+            card.image_name == new_card.image_name && 
+            // card.card_number == new_card.card_number && 
+            card.card_sets == new_card.card_sets
+        )
 }
 
 fn load_existing_cards() -> Result<Vec<Card>, Box<dyn std::error::Error>> {
