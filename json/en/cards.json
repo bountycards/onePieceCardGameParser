@@ -67053,6 +67053,88 @@
     "image_name": "OP09-011_p2"
   },
   {
+    "card_name": "Nami",
+    "card_number": "OP09-050",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "East Blue"
+    ],
+    "effects": "[When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 blue Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "Regional 25-26 Season1",
+    "image_name": "OP09-050_p2"
+  },
+  {
+    "card_name": "Sanji",
+    "card_number": "OP09-065",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_p2.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: This Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "Regional 25-26 Season1",
+    "image_name": "OP09-065_p2"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP09-076",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_p1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Regional 25-26 Season1",
+    "image_name": "OP09-076_p1"
+  },
+  {
     "card_name": "Nico Olvia",
     "card_number": "OP09-106",
     "rarity": "C",
