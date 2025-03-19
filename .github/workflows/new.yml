@@ -56,12 +56,6 @@ jobs:
       #     git add .
       #     git commit -am "Update JSON files"
       #     git push origin auto-update --force
-      - name: Check for changes
-        id: git-check
-        run: |
-          git add .
-          git diff --cached --exit-code . || echo "CHANGES_DETECTED=true" >> $GITHUB_OUTPUT
-
 
       - name: Update version
         if: steps.git-check.outputs.changes == 'true'
@@ -71,8 +65,8 @@ jobs:
           jq --arg new_version "$new_version" '.version = $new_version' json/package.json > tmp.$$.json && mv tmp.$$.json json/package.json
           git add json/package.json
 
-    # git commit -m "Bump version to $new_version"
-    # git push origin auto-update --force
+      # git commit -m "Bump version to $new_version"
+      # git push origin auto-update --force
 
       - name: Shoutrrr
         if: steps.git-check.outputs.changes == 'true'
@@ -94,7 +88,7 @@ jobs:
             This PR was automatically created.
 
             Please review the changes before merging.
-          branch:auto-update
+          branch: auto-update
           base: main
           delete-branch: true
           assignees: adamjsturge
