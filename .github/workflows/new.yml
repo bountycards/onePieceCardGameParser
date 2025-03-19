@@ -50,12 +50,18 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
 
-      - name: Create or reset static branch
-        if: steps.git-check.outputs.changes == 'true'
+      # - name: Create or reset static branch
+      #   if: steps.git-check.outputs.changes == 'true'
+      #   run: |
+      #     git add .
+      #     git commit -am "Update JSON files"
+      #     git push origin auto-update --force
+      - name: Check for changes
+        id: git-check
         run: |
           git add .
-          git commit -am "Update JSON files"
-          git push origin auto-update --force
+          git diff --cached --exit-code . || echo "CHANGES_DETECTED=true" >> $GITHUB_OUTPUT
+
 
       - name: Update version
         if: steps.git-check.outputs.changes == 'true'
@@ -64,8 +70,9 @@ jobs:
           new_version=$(echo $current_version | awk -F. -v OFS=. '{$NF++;print}')
           jq --arg new_version "$new_version" '.version = $new_version' json/package.json > tmp.$$.json && mv tmp.$$.json json/package.json
           git add json/package.json
-          git commit -m "Bump version to $new_version"
-          git push origin auto-update --force
+
+    # git commit -m "Bump version to $new_version"
+    # git push origin auto-update --force
 
       - name: Shoutrrr
         if: steps.git-check.outputs.changes == 'true'
@@ -76,24 +83,18 @@ jobs:
           title: New Cards were found
           message: New cards were found in the JSON files. Please review and merge the PR. https://github.com/bountycards/onePieceCardGameParser/pull/new/auto-update
 
-      - name: Install GitHub CLI
-        if: steps.git-check.outputs.changes == 'true'
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y gh
-
-      # - name: Authenticate GitHub CLI
-      #   if: steps.git-check.outputs.changes == 'true'
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   run: |
-      #     echo "$GITHUB_TOKEN" | gh auth login --with-token
-
       - name: Create Pull Request
         if: steps.git-check.outputs.changes == 'true'
-        run: |
-          gh pr create \
-            --base main \
-            --head auto-update \
-            --title "Update JSON files $(date +%Y-%m-%d)" \
-            --body "Automated PR created by GitHub Action to update JSON files."
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "New Cards Added"
+          title: "New Cards Added"
+          body: |
+            This PR was automatically created.
+
+            Please review the changes before merging.
+          branch:auto-update
+          base: main
+          delete-branch: true
+          assignees: adamjsturge
