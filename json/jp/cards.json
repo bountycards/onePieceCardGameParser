@@ -78765,6 +78765,34 @@
     "image_name": "P-092"
   },
   {
+    "card_name": "Trafalgar Law",
+    "card_number": "P-093",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-093.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Heart Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "Prize for May 2025 Meet-up event",
+    "image_name": "P-093"
+  },
+  {
     "card_name": "Monkey.D.Luffy",
     "card_number": "ST01-001",
     "rarity": "L",
