@@ -2,8 +2,8 @@ name: Publish Nightly Package
 
 on:
   push:
-    branches-ignore:
-      - main
+    branches:
+      - auto-update
     paths:
       - "json/package.json"
   workflow_dispatch: {}
