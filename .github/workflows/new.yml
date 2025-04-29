@@ -81,3 +81,6 @@ jobs:
           base: main
           delete-branch: false
           assignees: adamjsturge
+      - name: Trigger nightly
+        if: steps.git-check.outputs.changes == 'true'
+        uses: ./.github/workflows/publish-nightly.yml
