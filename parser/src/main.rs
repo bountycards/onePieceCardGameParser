@@ -100,6 +100,7 @@ struct Card {
     attributes: Vec<String>,
     power: String,
     counter: String,
+    block_icon: String,
     colors: Vec<Color>,
     types: Vec<String>,
     effects: Option<String>,
@@ -398,6 +399,7 @@ fn parse_single_card(element: &ElementRef, base_image_url: &str) -> Result<Card,
     let attributes = parse_attributes(&back_col)?;
     let power = parse_power(&back_col)?;
     let counter = parse_counter(&back_col)?;
+    let block_icon = parse_block_icon(&back_col)?;
     let colors = parse_colors(&back_col)?;
     let types = parse_types(&back_col)?;
     let (effects, card_effects) = parse_effects(&back_col)?;
@@ -418,6 +420,7 @@ fn parse_single_card(element: &ElementRef, base_image_url: &str) -> Result<Card,
         attributes,
         power,
         counter,
+        block_icon,
         colors,
         types,
         effects: Some(effects),
@@ -499,6 +502,21 @@ fn parse_colors(element: &ElementRef) -> Result<Vec<Color>, Box<dyn std::error::
     }
     
     Ok(colors)
+}
+
+fn parse_block_icon(element: &ElementRef) -> Result<String, Box<dyn std::error::Error>> {
+    let block_selector = Selector::parse(".block").unwrap();
+    
+    if let Some(block_element) = element.select(&block_selector).next() {
+        let block_text = block_element.inner_html();
+        // Extract the number after the closing h3 tag
+        if let Some(idx) = block_text.find("</h3>") {
+            let number = block_text[idx + 5..].trim().to_string();
+            return Ok(number);
+        }
+    }
+    
+    Ok("-".to_string()) // Return default value if no block icon is found
 }
 
 fn parse_types(element: &ElementRef) -> Result<Vec<String>, Box<dyn std::error::Error>> {
@@ -710,6 +728,7 @@ fn generate_filters(cards: &[Card]) -> serde_json::Value {
     let cost_values: HashSet<_> = cards.iter().map(|c| &c.cost).collect();
     let powers: HashSet<_> = cards.iter().map(|c| &c.power).collect();
     let counters: HashSet<_> = cards.iter().map(|c| &c.counter).collect();
+    let block_icons: HashSet<_> = cards.iter().map(|c| &c.block_icon).collect();
     let card_sets: HashSet<_> = cards.iter().map(|c| &c.card_sets).collect();
     
     // Collect all unique attributes and types across all cards
@@ -732,6 +751,7 @@ fn generate_filters(cards: &[Card]) -> serde_json::Value {
     filters.insert("cost_values".to_string(), json!(sorted_vec(cost_values)));
     filters.insert("powers".to_string(), json!(sorted_vec(powers)));
     filters.insert("counters".to_string(), json!(sorted_vec(counters)));
+    filters.insert("block_icons".to_string(), json!(sorted_vec(block_icons)));
     filters.insert("attributes".to_string(), json!(sorted_vec(attributes)));
     filters.insert("types".to_string(), json!(sorted_vec(types)));
     filters.insert("card_effects".to_string(), json!(sorted_vec(card_effects)));
