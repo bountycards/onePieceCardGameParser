@@ -28,15 +28,15 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
 
-      - name: Create or checkout auto-update branch
-        run: |
-          git fetch origin
-          if git show-ref --verify --quiet refs/heads/auto-update; then
-            git checkout auto-update
-            git pull origin auto-update
-          else
-            git checkout -b auto-update
-          fi
+      # - name: Create or checkout auto-update branch
+      #   run: |
+      #     git fetch origin
+      #     if git show-ref --verify --quiet refs/heads/auto-update; then
+      #       git checkout auto-update
+      #       git pull origin auto-update
+      #     else
+      #       git checkout -b auto-update
+      #     fi
 
       - name: Run Cargo
         run: |
