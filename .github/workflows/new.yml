@@ -5,17 +5,15 @@ on:
     - cron: "14 6,12,18 * * *"
   workflow_dispatch: {}
 
-permissions:
-  contents: write
-  pull-requests: write
-
 jobs:
   run-cargo:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -58,17 +56,15 @@ jobs:
           new_version=$(echo $current_version | awk -F. -v OFS=. '{$NF++;print}')
           jq --arg new_version "$new_version" '.version = $new_version' json/package.json > tmp.$$.json && mv tmp.$$.json json/package.json
           git add json/package.json
-          git commit -m "New Cards Added - Bump version to $new_version"
-          git push origin auto-update
 
-      - name: Shoutrrr
-        if: steps.git-check.outputs.changes == 'true'
-        uses: containrrr/shoutrrr-action@v1
-        continue-on-error: true
-        with:
-          url: ${{ secrets.SHOUTRRR_URL }}
-          title: New Cards were found
-          message: New cards were found in the JSON files. Please review and merge the PR. https://github.com/bountycards/onePieceCardGameParser/pull/new/auto-update
+      # - name: Shoutrrr
+      #   if: steps.git-check.outputs.changes == 'true'
+      #   uses: containrrr/shoutrrr-action@v1
+      #   continue-on-error: true
+      #   with:
+      #     url: ${{ secrets.SHOUTRRR_URL }}
+      #     title: New Cards were found
+      #     message: New cards were found in the JSON files. Please review and merge the PR. https://github.com/bountycards/onePieceCardGameParser/pull/new/auto-update
 
       - name: Create Pull Request
         if: steps.git-check.outputs.changes == 'true'
