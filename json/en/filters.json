@@ -7,6 +7,11 @@
     "Strike",
     "Wisdom"
   ],
+  "block_icons": [
+    "1",
+    "2",
+    "3"
+  ],
   "card_effects": [
     "-",
     "[Activate: Main]",
