@@ -77258,6 +77258,64 @@
     "image_name": "OP05-036_p1"
   },
   {
+    "card_name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+    "card_number": "OP05-037",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP05-037_p1.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effects": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.12",
+    "image_name": "OP05-037_p1"
+  },
+  {
+    "card_name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+    "card_number": "OP05-037",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP05-037_p2.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effects": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "Winner prize for June 2025 Standard Battle",
+    "image_name": "OP05-037_p2"
+  },
+  {
     "card_name": "Monkey.D.Luffy",
     "card_number": "OP05-060",
     "rarity": "L",
@@ -77629,6 +77687,34 @@
     ],
     "card_sets": "Standard Battle Pack Vol.9",
     "image_name": "OP06-047_p2"
+  },
+  {
+    "card_name": "Tsuru",
+    "card_number": "OP06-051",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP06-051_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "2",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effects": "[On Play] You may trash 2 cards from your hand: Your opponent returns 1 of their Characters to the owner's hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.12",
+    "image_name": "OP06-051_p1"
   },
   {
     "card_name": "Vinsmoke Sora",
@@ -78735,6 +78821,66 @@
     ],
     "card_sets": "Let’s Get Started Promotion Pack",
     "image_name": "OP09-106_p2"
+  },
+  {
+    "card_name": "Bartholomew Kuma",
+    "card_number": "OP09-108",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP09-108_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Revolutionary Army"
+    ],
+    "effects": "- [Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.12",
+    "image_name": "OP09-108_p1"
+  },
+  {
+    "card_name": "Usopp",
+    "card_number": "OP10-042",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP10-042_p2.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Straw Hat Crew"
+    ],
+    "effects": "All of your {Dressrosa} type Characters with a cost of 2 or more gain +1 cost.<br>[Opponent's Turn] [Once Per Turn] This effect can be activated when your {Dressrosa} type Character is removed from the field by your opponent's effect or K.O.'d. If you have 5 or less cards in your hand, draw 1 card.",
+    "card_effects": [
+      "[Once Per Turn]",
+      "[Opponent's Turn]"
+    ],
+    "card_sets": "OFFICIAL PLAYMAT LIMITED EDITION VOL.3",
+    "image_name": "OP10-042_p2"
   },
   {
     "card_name": "Jewelry Bonney",
@@ -86027,6 +86173,34 @@
     ],
     "card_sets": "Top ranker prize for Regional Finals in Asia -2nd season- of Championship 2023",
     "image_name": "ST10-006_p2"
+  },
+  {
+    "card_name": "Shachi & Penguin",
+    "card_number": "ST10-008",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/ST10-008_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "2",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Heart Pirates"
+    ],
+    "effects": "[On Play] If you have 3 or less DON!! cards on your field, add up to 2 DON!! cards from your DON!! deck and rest them.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.12",
+    "image_name": "ST10-008_p1"
   },
   {
     "card_name": "Trafalgar Law",
