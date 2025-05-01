@@ -15,6 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: 'auto-update'
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -81,6 +82,7 @@ jobs:
           base: main
           delete-branch: false
           assignees: adamjsturge
-      - name: Trigger nightly
-        if: steps.git-check.outputs.changes == 'true'
-        uses: ./.github/workflows/publish-nightly.yml
+  nightly:
+    needs: [run-cargo]
+    if: steps.git-check.outputs.changes == 'true'
+    uses: ./.github/workflows/publish-nightly.yml
