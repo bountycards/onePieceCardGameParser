@@ -88,3 +88,5 @@ jobs:
     needs: [run-cargo]
     if: needs.run-cargo.outputs.changes_detected == 'true'
     uses: ./.github/workflows/publish-nightly.yml
+    secrets:
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

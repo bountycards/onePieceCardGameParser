@@ -1,7 +1,10 @@
 name: Publish Nightly Package
 
 on:
-  workflow_call: {}
+  workflow_call:
+    secrets:
+      NPM_TOKEN:
+        required: true
   workflow_dispatch: {}
 
 jobs:
