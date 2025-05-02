@@ -11,11 +11,13 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+    outputs:
+      changes_detected: ${{ steps.git-check.outputs.changes }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: 'auto-update'
+          ref: "auto-update"
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -84,5 +86,5 @@ jobs:
           assignees: adamjsturge
   nightly:
     needs: [run-cargo]
-    if: steps.git-check.outputs.changes == 'true'
+    if: needs.run-cargo.outputs.changes_detected == 'true'
     uses: ./.github/workflows/publish-nightly.yml
