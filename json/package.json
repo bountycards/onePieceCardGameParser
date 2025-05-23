@@ -22,10 +22,5 @@
     "index.d.ts",
     "en/",
     "jp/"
-  ],
-  "dependencies": {
-    "one-piece-card-game-json-all": "file:./",
-    "one-piece-card-game-json-en": "file:./en",
-    "one-piece-card-game-json-jp": "file:./jp"
-  }
+  ]
 }
