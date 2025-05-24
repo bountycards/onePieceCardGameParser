@@ -2,7 +2,7 @@ name: Run Cargo and Create PR
 
 on:
   schedule:
-    - cron: "14 6,12,18 * * *"
+    - cron: "14 * * * *"
   workflow_dispatch: {}
 
 jobs:
