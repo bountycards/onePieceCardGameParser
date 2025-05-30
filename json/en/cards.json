@@ -60490,6 +60490,453 @@
     "image_name": "ST23-005"
   },
   {
+    "card_name": "Scratchmen Apoo",
+    "card_number": "EB01-015",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p3.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "1000",
+    "counter": "2000",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "On-Air Pirates"
+    ],
+    "effects": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "EB01-015_p3"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "OP07-019",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-019_p3.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "effects": "[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Leader or Character cards.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-019_p3"
+  },
+  {
+    "card_name": "Urouge",
+    "card_number": "OP07-021",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-021_r1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Fallen Monk Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[End of Your Turn]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-021_r1"
+  },
+  {
+    "card_name": "Caribou",
+    "card_number": "OP07-023",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-023_r1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Caribou Pirates"
+    ],
+    "effects": "If you have 6 or more rested DON!! cards, this Character gains +1000 power.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-023_r1"
+  },
+  {
+    "card_name": "Coribou",
+    "card_number": "OP07-025",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-025_r1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "3000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Caribou Pirates"
+    ],
+    "effects": "[On Play] Play up to 1 [Caribou] with a cost of 4 or less from your hand rested.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-025_r1"
+  },
+  {
+    "card_name": "Bartolomeo",
+    "card_number": "OP07-031",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-031_r1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Barto Club"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+    "card_effects": [
+      "[Blocker]",
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-031_r1"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP07-033",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-033_r1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have 3 or more Characters, your Characters with a cost of 3 or less other than [Monkey.D.Luffy] cannot be K.O.'d by your opponent's effects.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-033_r1"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP07-034",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-034_r1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[When Attacking] If you have 3 or more Characters, this Character gains +2000 power during this turn.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-034_r1"
+  },
+  {
+    "card_name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash",
+    "card_number": "OP07-036",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-036_p1.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, you may rest 1 of your Characters with a cost of 3 or more. If you do, rest up to 1 of your opponent's Characters with a cost of 5 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-036_p1"
+  },
+  {
+    "card_name": "More Pizza!!",
+    "card_number": "OP07-037",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-037_r1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "effects": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [More Pizza!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "OP07-037_r1"
+  },
+  {
+    "card_name": "Capone\"Gang\"Bege",
+    "card_number": "ST24-001",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-001.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Firetank Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "ST24-001"
+  },
+  {
+    "card_name": "Kid & Killer",
+    "card_number": "ST24-002",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-002.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[On Play]",
+      "[On Your Opponent's Attack]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "ST24-002"
+  },
+  {
+    "card_name": "Basil Hawkins",
+    "card_number": "ST24-003",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-003.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Hawkins Pirates"
+    ],
+    "effects": "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[End of Your Turn]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "ST24-003"
+  },
+  {
+    "card_name": "Law & Bepo",
+    "card_number": "ST24-004",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-004.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash",
+      "Strike"
+    ],
+    "power": "11000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Minks",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effects": "[On Play] Rest up to 1 of your opponent's Characters and that Character will not become active in your opponent's next Refresh Phase. Then, if your opponent has 2 or more rested Characters, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "ST24-004"
+  },
+  {
+    "card_name": "X.Drake",
+    "card_number": "ST24-005",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-005.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Navy",
+      "Drake Pirates"
+    ],
+    "effects": "[On Play] If your Leader has the {Supernovas} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN Jewelry Bonney- [ST-24]",
+    "image_name": "ST24-005"
+  },
+  {
     "card_name": "Buggy",
     "card_number": "OP09-042",
     "rarity": "L",
@@ -61791,6 +62238,462 @@
     ],
     "card_sets": "-BLACK Marshall.D.Teach- [ST-27]",
     "image_name": "ST27-005"
+  },
+  {
+    "card_name": "Yamato",
+    "card_number": "OP06-022",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[Double Attack] (This card deals 2 damage.)<br>[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Double Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP06-022_p3"
+  },
+  {
+    "card_name": "Inuarashi",
+    "card_number": "OP06-100",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-100_r2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[DON!! x2] [When Attacking] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards. [Trigger] If your opponent has 3 or less Life cards, play this card.",
+    "card_effects": [
+      "[DON!! x2]",
+      "[Trigger]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP06-100_r2"
+  },
+  {
+    "card_name": "Kawamatsu",
+    "card_number": "OP06-103",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-103_r1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Fish-Man",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[When Attacking] You may trash 2 cards from your hand: Add up to 1 of your Characters with 0 power to the top or bottom of the owner's Life cards face-up. [Trigger] If your opponent has 3 or less Life cards, play this card.",
+    "card_effects": [
+      "[Trigger]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP06-103_r1"
+  },
+  {
+    "card_name": "Kikunojo",
+    "card_number": "OP06-104",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-104_r1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[On K.O.] If your opponent has 3 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. [Trigger] If your opponent has 3 or less Life cards, play this card.",
+    "card_effects": [
+      "[On K.O.]",
+      "[Trigger]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP06-104_r1"
+  },
+  {
+    "card_name": "Denjiro",
+    "card_number": "OP06-109",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-109_r1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[DON!! x2] If your opponent has 3 or less Life cards, this Character cannot be K.O.'d by effects. [Trigger] If your opponent has 3 or less Life cards, play this card.",
+    "card_effects": [
+      "[DON!! x2]",
+      "[Trigger]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP06-109_r1"
+  },
+  {
+    "card_name": "Nekomamushi",
+    "card_number": "OP06-110",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-110_r2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[DON!! x2] This Character can also attack your opponent's active Characters. [Trigger] If your opponent has 3 or less Life cards, play this card.",
+    "card_effects": [
+      "[DON!! x2]",
+      "[Trigger]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP06-110_r2"
+  },
+  {
+    "card_name": "Raizo",
+    "card_number": "OP06-112",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-112_r1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[When Attacking] You may trash 1 card from your hand: Rest up to 1 of your opponent's DON!! cards. [Trigger] If your opponent has 3 or less Life cards, play this card.",
+    "card_effects": [
+      "[Trigger]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP06-112_r1"
+  },
+  {
+    "card_name": "Blaze Slice",
+    "card_number": "OP07-116",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-116_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[Main]/[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, if your opponent has 2 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP07-116_p1"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP09-035",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "ODYSSEY",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] If you have 2 or more rested Characters, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "OP09-035_r1"
+  },
+  {
+    "card_name": "Yamato",
+    "card_number": "ST13-016",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>[On Play] Look at all your Life cards; place 1 at the top of your deck and place the rest back in your Life area in any order.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "ST13-016_r1"
+  },
+  {
+    "card_name": "Ashura Doji",
+    "card_number": "ST28-001",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-001.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[On Play] If your Leader has the {Land of Wano} type and your opponent has 3 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "ST28-001"
+  },
+  {
+    "card_name": "Izo",
+    "card_number": "ST28-002",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-002.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "Former Whitebeard Pirates"
+    ],
+    "effects": "[DON!! x2] This Character gains [Blocker].<br>[On Play] Your {Land of Wano} type Leader gains [Banish] during this turn.",
+    "card_effects": [
+      "[Banish]",
+      "[Blocker]",
+      "[DON!! x2]",
+      "[On Play]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "ST28-002"
+  },
+  {
+    "card_name": "Kin'emon",
+    "card_number": "ST28-003",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-003.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "- [Trigger] If your Leader has the {Land of Wano} type and your opponent has 3 or less Life cards, play this card.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "ST28-003"
+  },
+  {
+    "card_name": "Kouzuki Momonosuke",
+    "card_number": "ST28-004",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-004.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effects": "[Your Turn] If you have 2 or less Life cards, your Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may return 2 total of your currently given DON!! cards to your cost area rested: This Character gains [Rush] and +1000 power during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]",
+      "[Rush]",
+      "[Your Turn]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "ST28-004"
+  },
+  {
+    "card_name": "Yamato",
+    "card_number": "ST28-005",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST28-005.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[DON!! x2] [Your Turn] This Character gains +3000 power.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[DON!! x2]",
+      "[On Play]",
+      "[Your Turn]"
+    ],
+    "card_sets": "-GREEN/YELLOW Yamato- [ST-28]",
+    "image_name": "ST28-005"
   },
   {
     "card_name": "Kouzuki Oden",
