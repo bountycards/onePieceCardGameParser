@@ -77681,6 +77681,36 @@
     "image_name": "EB01-043_p6"
   },
   {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "EB02-010",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-010_p2.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green",
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Activate: Main] [Once Per Turn] DON!! −2: If the only Characters on your field are {Straw Hat Crew} type Characters, set up to 2 of your DON!! cards as active. Then, this Leader gains +1000 power until the end of your opponent's next turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "DODGERS ONE PIECE NIGHT",
+    "image_name": "EB02-010_p2"
+  },
+  {
     "card_name": "Roronoa Zoro",
     "card_number": "EB02-019",
     "rarity": "R",
@@ -83011,6 +83041,124 @@
     ],
     "card_sets": "Event Pack Vol.6",
     "image_name": "P-083"
+  },
+  {
+    "card_name": "Trafalgar Law",
+    "card_number": "P-088",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effects": "- [Trigger] If your Leader has the {Supernovas} type and you and your opponent have a total of 5 or less Life cards, play this card.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "Event Pack vol.7",
+    "image_name": "P-088"
+  },
+  {
+    "card_name": "Charlotte Smoothie",
+    "card_number": "P-090",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-090.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Opponent's Turn] [On K.O.] DON!! −1: Play up to 1 {Big Mom Pirates} type Character card with a cost equal to or less than the number of DON!! cards on your opponent's field other than [Charlotte Smoothie] from your hand.",
+    "card_effects": [
+      "[On K.O.]",
+      "[Opponent's Turn]"
+    ],
+    "card_sets": "Event Pack vol.7",
+    "image_name": "P-090"
+  },
+  {
+    "card_name": "Shirahoshi",
+    "card_number": "P-091",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-091.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "effects": "[On Play] Play up to 1 {Neptunian} or {Fish-Man Island} type Character card with a cost of 5 or less from your hand.<br>[Activate: Main] You may rest this Character: Up to 1 of your {Neptunian} type Characters can attack Characters on the turn in which it is played.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "Event Pack vol.7",
+    "image_name": "P-091"
+  },
+  {
+    "card_name": "Koby",
+    "card_number": "P-092",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-092.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Navy",
+      "SWORD"
+    ],
+    "effects": "[Opponent's Turn] Give this Character −3000 power.<br>[When Attacking] If your Leader has the {Navy} type, your Leader's base power becomes 7000 until the end of your opponent's next turn.",
+    "card_effects": [
+      "[Opponent's Turn]",
+      "[When Attacking]"
+    ],
+    "card_sets": "Event Pack vol.7",
+    "image_name": "P-092"
   },
   {
     "card_name": "Usopp",
