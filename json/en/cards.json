@@ -77681,6 +77681,34 @@
     "image_name": "EB01-043_p6"
   },
   {
+    "card_name": "Laboon",
+    "card_number": "EB01-048",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Animal"
+    ],
+    "effects": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "Treasure Cup May 2025~",
+    "image_name": "EB01-048_p2"
+  },
+  {
     "card_name": "Monkey.D.Luffy",
     "card_number": "EB02-010",
     "rarity": "L",
@@ -79415,6 +79443,64 @@
     "image_name": "OP05-067_p2"
   },
   {
+    "card_name": "When You're at Sea You Fight against Pirates!!",
+    "card_number": "OP05-076",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [Main] effect.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "Pirates League Store Qualifier",
+    "image_name": "OP05-076_p2"
+  },
+  {
+    "card_name": "When You're at Sea You Fight against Pirates!!",
+    "card_number": "OP05-076",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p3.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [Main] effect.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "Pirates League Store Qualifier",
+    "image_name": "OP05-076_p3"
+  },
+  {
     "card_name": "Nefeltari Vivi",
     "card_number": "OP05-086",
     "rarity": "R",
@@ -80086,6 +80172,35 @@
     "image_name": "OP08-062_p2"
   },
   {
+    "card_name": "Charlotte Pudding",
+    "card_number": "OP08-067",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_p2.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "Treasure Cup May 2025~",
+    "image_name": "OP08-067_p2"
+  },
+  {
     "card_name": "Jack",
     "card_number": "OP08-084",
     "rarity": "SR",
@@ -80200,6 +80315,63 @@
     "image_name": "OP09-002_p2"
   },
   {
+    "card_name": "Shanks",
+    "card_number": "OP09-004",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)",
+    "card_effects": [
+      "[Rush]"
+    ],
+    "card_sets": "Championship 25-26 Offline Regionals Season 2",
+    "image_name": "OP09-004_p4"
+  },
+  {
+    "card_name": "Benn.Beckman",
+    "card_number": "OP09-009",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Championship 25-26 Offline Regionals Season 2",
+    "image_name": "OP09-009_p2"
+  },
+  {
     "card_name": "Hongo",
     "card_number": "OP09-011",
     "rarity": "UC",
@@ -80254,6 +80426,36 @@
     ],
     "card_sets": "Winner Pack 2025 Vol.2",
     "image_name": "OP09-011_p2"
+  },
+  {
+    "card_name": "Yasopp",
+    "card_number": "OP09-013",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "card_effects": [
+      "[DON!! x1]",
+      "[On Play]",
+      "[When Attacking]"
+    ],
+    "card_sets": "Championship 25-26 Offline Regionals Season 2",
+    "image_name": "OP09-013_p1"
   },
   {
     "card_name": "Nami",
@@ -80311,6 +80513,34 @@
     ],
     "card_sets": "Regional 25-26 Season1",
     "image_name": "OP09-065_p2"
+  },
+  {
+    "card_name": "Trafalgar Law",
+    "card_number": "OP09-069",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Heart Pirates"
+    ],
+    "effects": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} or {Heart Pirates} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Treasure Cup May 2025~",
+    "image_name": "OP09-069_p2"
   },
   {
     "card_name": "Roronoa Zoro",
@@ -80513,6 +80743,96 @@
     ],
     "card_sets": "Online Regional Champion Card Set 25-26 Season 1",
     "image_name": "OP09-106_p6"
+  },
+  {
+    "card_name": "Kujyaku",
+    "card_number": "OP11-004",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-004_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Navy",
+      "SWORD"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Kujyaku] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[Activate: Main] You may trash this Character: Up to 1 of your Characters gains +1000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "Treasure Cup August 2025~",
+    "image_name": "OP11-004_p2"
+  },
+  {
+    "card_name": "Hibari",
+    "card_number": "OP11-010",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-010_p2.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Navy",
+      "SWORD"
+    ],
+    "effects": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.<br>[When Attacking] This Character gains +1000 power during this turn. Then, up to 1 of your {Navy} type Leader can also attack active Characters during this turn.",
+    "card_effects": [
+      "[On Play]",
+      "[When Attacking]"
+    ],
+    "card_sets": "Treasure Cup August 2025~",
+    "image_name": "OP11-010_p2"
+  },
+  {
+    "card_name": "Koby",
+    "card_number": "OP11-119",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-119_p2.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Navy",
+      "SWORD"
+    ],
+    "effects": "[On Play] Up to 1 of your Characters can also attack active Characters during this turn.<br>[When Attacking] You may place 2 cards from your trash at the bottom of your deck in any order: Up to 1 of your Leader or Character cards gains +1000 power until the end of your opponent's next turn.",
+    "card_effects": [
+      "[On Play]",
+      "[When Attacking]"
+    ],
+    "card_sets": "Treasure Cup August 2025~",
+    "image_name": "OP11-119_p2"
   },
   {
     "card_name": "Monkey.D.Luffy",
@@ -83011,6 +83331,122 @@
     ],
     "card_sets": "Event Pack Vol.6",
     "image_name": "P-079"
+  },
+  {
+    "card_name": "Dracule Mihawk",
+    "card_number": "P-081",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Cross Guild"
+    ],
+    "effects": "[Activate: Main] You may return this Character to the owner's hand: If you have 3 or more blue {Cross Guild} type Characters, play up to 1 {Cross Guild} type Character card with a cost of 5 from your hand.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "OP-11 Release Event",
+    "image_name": "P-081"
+  },
+  {
+    "card_name": "Dracule Mihawk",
+    "card_number": "P-081",
+    "rarity": "P",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-081_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Cross Guild"
+    ],
+    "effects": "[Activate: Main] You may return this Character to the owner's hand: If you have 3 or more blue {Cross Guild} type Characters, play up to 1 {Cross Guild} type Character card with a cost of 5 from your hand.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "OP-11 Release Event",
+    "image_name": "P-081_p1"
+  },
+  {
+    "card_name": "Crocodile",
+    "card_number": "P-082",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Cross Guild",
+      "Former Baroque Works"
+    ],
+    "effects": "[Your Turn] [On Play] If your Leader has the {Cross Guild} type or a type including \"Baroque Works\", place up to 1 of your opponent's Characters with 2000 power or less at the bottom of the owner's deck.",
+    "card_effects": [
+      "[On Play]",
+      "[Your Turn]"
+    ],
+    "card_sets": "Store 2-on-2 Battle",
+    "image_name": "P-082"
+  },
+  {
+    "card_name": "Crocodile",
+    "card_number": "P-082",
+    "rarity": "P",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-082_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Cross Guild",
+      "Former Baroque Works"
+    ],
+    "effects": "[Your Turn] [On Play] If your Leader has the {Cross Guild} type or a type including \"Baroque Works\", place up to 1 of your opponent's Characters with 2000 power or less at the bottom of the owner's deck.",
+    "card_effects": [
+      "[On Play]",
+      "[Your Turn]"
+    ],
+    "card_sets": "Store 2-on-2 Battle",
+    "image_name": "P-082_p1"
   },
   {
     "card_name": "Shanks",
