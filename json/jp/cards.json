@@ -89832,6 +89832,154 @@
     "image_name": "P-094"
   },
   {
+    "card_name": "Sanji",
+    "card_number": "P-095",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-095.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 Event from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "Asia Special Prize for July 2025 Meet-up event",
+    "image_name": "P-095"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "P-097",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-097.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play]/[When Attacking] Your opponent cannot activate [Blocker] during this turn.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]",
+      "[When Attacking]"
+    ],
+    "card_sets": "Theme Promotion Pack ver.The New Four Emperors",
+    "image_name": "P-097"
+  },
+  {
+    "card_name": "Buggy",
+    "card_number": "P-098",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-098.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Cross Guild"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "Theme Promotion Pack ver.The New Four Emperors",
+    "image_name": "P-098"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "P-099",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-099.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "[When Attacking] DON!! −10 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Set this Character as active.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "Theme Promotion Pack ver.The New Four Emperors",
+    "image_name": "P-099"
+  },
+  {
+    "card_name": "Marshall.D.Teach",
+    "card_number": "P-100",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-100.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Blackbeard Pirates"
+    ],
+    "effects": "[When Attacking] Negate the effects of your opponent's Leader and all of their Characters during this turn.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "Theme Promotion Pack ver.The New Four Emperors",
+    "image_name": "P-100"
+  },
+  {
     "card_name": "Monkey.D.Luffy",
     "card_number": "ST01-001",
     "rarity": "L",
