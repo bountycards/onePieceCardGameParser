@@ -81591,6 +81591,36 @@
     "image_name": "ST12-014_r1"
   },
   {
+    "card_name": "Trafalgar Law",
+    "card_number": "OP10-119",
+    "rarity": "SP CARD",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Dressrosa",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effects": "[On Play] Reveal up to 1 {Supernovas} type Character card from your hand and add it to the top of your Life cards face-down. Then, give up to 1 rested DON!! card to 1 of your {Supernovas} type Leader.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
+    "image_name": "noimage"
+  },
+  {
     "card_name": "Tony Tony.Chopper",
     "card_number": "EB01-006",
     "rarity": "SR",
