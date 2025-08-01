@@ -95385,6 +95385,150 @@
     "image_name": "OP11-119_p2"
   },
   {
+    "card_name": "Kouzuki Hiyori",
+    "card_number": "OP12-028",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-028_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effects": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.13",
+    "image_name": "OP12-028_p1"
+  },
+  {
+    "card_name": "Kouzuki Hiyori",
+    "card_number": "OP12-028",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-028_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effects": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "Winner prize for September 2025 Standard Battle",
+    "image_name": "OP12-028_p2"
+  },
+  {
+    "card_name": "Vinsmoke Sora",
+    "card_number": "OP12-062",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-062_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Kingdom of GERMA",
+      "The Vinsmoke Family"
+    ],
+    "effects": "[On Play] If your Leader is [Sanji] and the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it. Then, draw 1 card.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.13",
+    "image_name": "OP12-062_p1"
+  },
+  {
+    "card_name": "Morley",
+    "card_number": "OP12-093",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-093_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Revolutionary Army"
+    ],
+    "effects": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "Standard Battle Pack Vol.13",
+    "image_name": "OP12-093_p1"
+  },
+  {
+    "card_name": "Baby 5",
+    "card_number": "OP12-112",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-112_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effects": "- [Trigger] If your Leader is multicolored, draw 2 cards.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.13",
+    "image_name": "OP12-112_p1"
+  },
+  {
     "card_name": "Monkey.D.Luffy",
     "card_number": "P-001",
     "rarity": "P",
@@ -99220,6 +99364,35 @@
     ],
     "card_sets": "Theme Promotion Pack ver.The New Four Emperors",
     "image_name": "P-100"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "P-107",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-107.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If either you or your opponent has 10 DON!! cards on the field, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Prize for September 2025 Meet-up event",
+    "image_name": "P-107"
   },
   {
     "card_name": "Monkey.D.Luffy",
