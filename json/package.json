@@ -1,6 +1,6 @@
 {
   "name": "one-piece-card-game-json",
-  "version": "0.2.24",
+  "version": "0.2.25",
   "description": "One Piece Card Game JSON data",
   "main": "index.js",
   "types": "index.d.ts",
