@@ -100240,6 +100240,36 @@
     "image_name": "OP08-105_p3"
   },
   {
+    "card_name": "Nami",
+    "card_number": "OP08-106",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP08-106_p3.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card. [Trigger] Activate this card's [On Play] effect.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "Serial Numbered Nami GET CAMPAIGN",
+    "image_name": "OP08-106_p3"
+  },
+  {
     "card_name": "Wyper",
     "card_number": "OP08-110",
     "rarity": "R",
@@ -100582,6 +100612,36 @@
     "image_name": "OP09-108_p1"
   },
   {
+    "card_name": "Sanji",
+    "card_number": "OP10-005",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP10-005_p2.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Punk Hazard",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Your Turn] This Character gains +3000 power.<br>[On K.O.] Draw 1 card.",
+    "card_effects": [
+      "[On K.O.]",
+      "[Your Turn]"
+    ],
+    "card_sets": "Winner prize for Flagship Battle in October 2025",
+    "image_name": "OP10-005_p2"
+  },
+  {
     "card_name": "Usopp",
     "card_number": "OP10-042",
     "rarity": "L",
@@ -100673,6 +100733,120 @@
     "image_name": "OP11-010_p2"
   },
   {
+    "card_name": "Franky",
+    "card_number": "OP11-012",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP11-012_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Your Turn] [Once Per Turn] When your opponent activates an Event, all of your Characters gain +2000 power during this turn.",
+    "card_effects": [
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "Promotion Pack Vol.8",
+    "image_name": "OP11-012_p1"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP11-058",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP11-058_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have 5 or more cards in your hand, this Character cannot attack.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Promotion Pack Vol.8",
+    "image_name": "OP11-058_p1"
+  },
+  {
+    "card_name": "Charlotte Anana",
+    "card_number": "OP11-065",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP11-065_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "If you have a purple {Big Mom Pirates} type Character other than [Charlotte Anana], this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Promotion Pack Vol.8",
+    "image_name": "OP11-065_p1"
+  },
+  {
+    "card_name": "Ripper",
+    "card_number": "OP11-096",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP11-096_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "East Blue",
+      "Navy"
+    ],
+    "effects": "If you have a black {Navy} type Character other than [Ripper], this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Promotion Pack Vol.8",
+    "image_name": "OP11-096_p1"
+  },
+  {
     "card_name": "Koby",
     "card_number": "OP11-119",
     "rarity": "SEC",
@@ -100761,6 +100935,64 @@
     "image_name": "OP12-028_p2"
   },
   {
+    "card_name": "Tashigi",
+    "card_number": "OP12-031",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-031_p2.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "East Blue",
+      "Navy"
+    ],
+    "effects": "[On Play] Rest up to 1 of your opponent's Characters with a base cost of 6 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Best 8 prize for Flagship Battle in October 2025",
+    "image_name": "OP12-031_p2"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP12-036",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-036_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "This card in your hand cannot be played by effects.<br>If your Leader has the &lt;Slash&gt; attribute, this Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards and gains +1000 power.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "Promotion Pack Vol.8",
+    "image_name": "OP12-036_p1"
+  },
+  {
     "card_name": "Vinsmoke Sora",
     "card_number": "OP12-062",
     "rarity": "R",
@@ -100845,6 +101077,66 @@
     ],
     "card_sets": "Standard Battle Pack Vol.13",
     "image_name": "OP12-112_p1"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-119",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP13-119_p5.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If you have 3 or less Life cards, this Character gains [Rush].<br>[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "Top ranker prize for Championship 25-26 Season 2 Regionals -1on1-",
+    "image_name": "OP13-119_p5"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-120",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP13-120_p5.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "[Blocker]<br>[Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "Top ranker prize for Championship 25-26 Season 2 Regionals -1on1-",
+    "image_name": "OP13-120_p5"
   },
   {
     "card_name": "Monkey.D.Luffy",
@@ -104741,6 +105033,35 @@
     ],
     "card_sets": "Asia Special Prize for September 2025 Meet-up event",
     "image_name": "P-108"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "P-109",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-109.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "Asia Special Prize for October 2025 Meet-up event",
+    "image_name": "P-109"
   },
   {
     "card_name": "Monkey.D.Luffy",
