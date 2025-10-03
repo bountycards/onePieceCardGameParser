@@ -98871,6 +98871,34 @@
     "image_name": "OP05-005_p1"
   },
   {
+    "card_name": "Koala",
+    "card_number": "OP05-006",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP05-006_p3.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "3000",
+    "counter": "2000",
+    "block_icon": "2",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effects": "[On Play] If your Leader has the {Revolutionary Army} type, give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Winner prize for 8 PACKS BATTLE",
+    "image_name": "OP05-006_p3"
+  },
+  {
     "card_name": "Fire Fist",
     "card_number": "OP05-019",
     "rarity": "R",
@@ -105062,6 +105090,64 @@
     ],
     "card_sets": "Asia Special Prize for October 2025 Meet-up event",
     "image_name": "P-109"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "P-114",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-114.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have any active DON!! cards, set this Character as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[End of Your Turn]"
+    ],
+    "card_sets": "Prize for November 2025 Meet-up event",
+    "image_name": "P-114"
+  },
+  {
+    "card_name": "Nami",
+    "card_number": "P-117",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-117.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "East Blue"
+    ],
+    "effects": "Under the rules of this game, you can only include {East Blue} type cards in your deck and when your deck is reduced to 0, you win the game instead of losing.<br>[DON!! x1] When this Leader's attack deals damage to your opponent's Life, you may trash 1 card from the top of your deck.",
+    "card_effects": [
+      "[DON!! x1]"
+    ],
+    "card_sets": "Prize for October 2025 Meet-up event",
+    "image_name": "P-117"
   },
   {
     "card_name": "Monkey.D.Luffy",
