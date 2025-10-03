@@ -96265,6 +96265,35 @@
     "image_name": "EB02-019_p2"
   },
   {
+    "card_name": "Merry Go",
+    "card_number": "EB02-041",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "STAGE",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/EB02-041_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card.<br>[Activate: Main] You may rest this Stage: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, up to 1 of your {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "EB02-041_p1"
+  },
+  {
     "card_name": "Jinbe",
     "card_number": "EB02-055",
     "rarity": "R",
@@ -99975,6 +100004,37 @@
     "image_name": "OP07-109_p2"
   },
   {
+    "card_name": "Blaze Slice",
+    "card_number": "OP07-116",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP07-116_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effects": "[Main]/[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, if your opponent has 2 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP07-116_p2"
+  },
+  {
     "card_name": "Portgas.D.Ace",
     "card_number": "OP07-119",
     "rarity": "SEC",
@@ -100002,6 +100062,35 @@
     ],
     "card_sets": "Winner prize for Flagship Battle in July 2024",
     "image_name": "OP07-119_p2"
+  },
+  {
+    "card_name": "Electrical Luna",
+    "card_number": "OP08-036",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP08-036_p1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Minks"
+    ],
+    "effects": "[Main] All of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase. [Trigger] Rest up to 1 of your opponent's Characters.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP08-036_p1"
   },
   {
     "card_name": "Atmos",
@@ -100818,6 +100907,35 @@
     "image_name": "OP11-058_p1"
   },
   {
+    "card_name": "Let's Crash This Wedding!!!",
+    "card_number": "OP11-060",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP11-060_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] If your Leader is multicolored, look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Let's Crash This Wedding!!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [Main] effect.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP11-060_p1"
+  },
+  {
     "card_name": "Charlotte Anana",
     "card_number": "OP11-065",
     "rarity": "UC",
@@ -100903,6 +101021,93 @@
     ],
     "card_sets": "Winner prize for Flagship Battle in April 2025",
     "image_name": "OP11-119_p2"
+  },
+  {
+    "card_name": "Shakuyaku",
+    "card_number": "OP12-006",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-006_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Amazon Lily"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP12-006_p1"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP12-020",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-020_p2.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "OFFICIAL PLAYMAT LIMITED EDITION vol.4",
+    "image_name": "OP12-020_p2"
+  },
+  {
+    "card_name": "Kuina",
+    "card_number": "OP12-026",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-026_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "East Blue",
+      "Frost Moon Village"
+    ],
+    "effects": "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a base cost of 4 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP12-026_p1"
   },
   {
     "card_name": "Kouzuki Hiyori",
@@ -101021,6 +101226,35 @@
     "image_name": "OP12-036_p1"
   },
   {
+    "card_name": "Hina",
+    "card_number": "OP12-051",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-051_p1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "3000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effects": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your opponent's Characters with a base cost of 4 or less cannot activate [Blocker] during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP12-051_p1"
+  },
+  {
     "card_name": "Vinsmoke Sora",
     "card_number": "OP12-062",
     "rarity": "R",
@@ -101079,6 +101313,36 @@
     "image_name": "OP12-093_p1"
   },
   {
+    "card_name": "Hair Removal Fist",
+    "card_number": "OP12-098",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-098_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Impel Down",
+      "Revolutionary Army"
+    ],
+    "effects": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have a {Revolutionary Army} type Character with a cost of 8 or more, that card gains an additional +2000 power during this battle. [Trigger] Draw 1 card and trash 1 card from the top of your deck.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP12-098_p1"
+  },
+  {
     "card_name": "Baby 5",
     "card_number": "OP12-112",
     "rarity": "R",
@@ -101105,6 +101369,93 @@
     ],
     "card_sets": "Standard Battle Pack Vol.13",
     "image_name": "OP12-112_p1"
+  },
+  {
+    "card_name": "Baby 5",
+    "card_number": "OP12-112",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-112_p2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "3",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effects": "- [Trigger] If your Leader is multicolored, draw 2 cards.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP12-112_p2"
+  },
+  {
+    "card_name": "Kouzuki Oden",
+    "card_number": "OP13-063",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP13-063_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan",
+      "Roger Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP13-063_p1"
+  },
+  {
+    "card_name": "Saint Shalria",
+    "card_number": "OP13-086",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP13-086_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Celestial Dragons} type card other than [Saint Shalria] and add it to your hand. Then, trash the rest and trash 1 card from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "OP13-086_p1"
   },
   {
     "card_name": "Portgas.D.Ace",
@@ -105090,6 +105441,208 @@
     ],
     "card_sets": "Asia Special Prize for October 2025 Meet-up event",
     "image_name": "P-109"
+  },
+  {
+    "card_name": "Nico Robin",
+    "card_number": "P-111",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-111.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Once Per Turn] If your {Straw Hat Crew} type Character would be removed from the field by your opponent's effect, you may rest 1 of your DON!! cards instead.",
+    "card_effects": [
+      "[Once Per Turn]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Mini-tin Pack Set vol.2 [TS-02]",
+    "image_name": "P-111"
+  },
+  {
+    "card_name": "Nico Robin",
+    "card_number": "P-111",
+    "rarity": "P",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-111_p1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Once Per Turn] If your {Straw Hat Crew} type Character would be removed from the field by your opponent's effect, you may rest 1 of your DON!! cards instead.",
+    "card_effects": [
+      "[Once Per Turn]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Mini-tin Pack Set vol.2 [TS-02]",
+    "image_name": "P-111_p1"
+  },
+  {
+    "card_name": "Nami",
+    "card_number": "P-112",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-112.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If your Leader is [Nami], give up to 1 rested DON!! card to your Leader. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Mini-tin Pack Set vol.2 [TS-02]",
+    "image_name": "P-112"
+  },
+  {
+    "card_name": "Nami",
+    "card_number": "P-112",
+    "rarity": "P",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-112_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If your Leader is [Nami], give up to 1 rested DON!! card to your Leader. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Mini-tin Pack Set vol.2 [TS-02]",
+    "image_name": "P-112_p1"
+  },
+  {
+    "card_name": "Nami",
+    "card_number": "P-112",
+    "rarity": "P",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-112_p2.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If your Leader is [Nami], give up to 1 rested DON!! card to your Leader. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Mini-tin Pack Set vol.2 [TS-02]",
+    "image_name": "P-112_p2"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "P-113",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-113.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Bonney Pirates"
+    ],
+    "effects": "[DON!! x2] [Opponent's Turn] This Character gains [Blocker] and +2000 power. [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[DON!! x2]",
+      "[Opponent's Turn]",
+      "[Trigger]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Mini-tin Pack Set vol.2 [TS-02]",
+    "image_name": "P-113"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "P-113",
+    "rarity": "P",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-113_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Bonney Pirates"
+    ],
+    "effects": "[DON!! x2] [Opponent's Turn] This Character gains [Blocker] and +2000 power. [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[DON!! x2]",
+      "[Opponent's Turn]",
+      "[Trigger]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Mini-tin Pack Set vol.2 [TS-02]",
+    "image_name": "P-113_p1"
   },
   {
     "card_name": "Roronoa Zoro",
@@ -110464,5 +111017,35 @@
     ],
     "card_sets": "Standard Battle Pack Vol.11",
     "image_name": "ST19-002_p1"
+  },
+  {
+    "card_name": "Gum-Gum Mole Pistol",
+    "card_number": "ST21-017",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/ST21-017_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] Give up to 1 of your opponent's Characters −5000 power during this turn. Then, if you have a Character with 6000 power or more, K.O. up to 1 of your opponent's Characters with 2000 power or less. [Trigger] Activate this card's [Main] effect.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "PREMIUM CARD COLLECTION -BEST SELECTION vol.5-",
+    "image_name": "ST21-017_p1"
   }
 ]

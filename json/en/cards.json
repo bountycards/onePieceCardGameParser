@@ -96381,6 +96381,36 @@
     "image_name": "OP09-108_p2"
   },
   {
+    "card_name": "Sanji",
+    "card_number": "OP10-005",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-005_p2.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Punk Hazard",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Your Turn] This Character gains +3000 power.<br>[On K.O.] Draw 1 card.",
+    "card_effects": [
+      "[On K.O.]",
+      "[Your Turn]"
+    ],
+    "card_sets": "Treasure Cup November 2025~",
+    "image_name": "OP10-005_p2"
+  },
+  {
     "card_name": "Nami",
     "card_number": "OP10-033",
     "rarity": "UC",
@@ -96557,6 +96587,38 @@
     "image_name": "OP11-010_p2"
   },
   {
+    "card_name": "Nami",
+    "card_number": "OP11-041",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041_p2.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Your Turn] [Once Per Turn] This effect can be activated when a card is removed from your or your opponent's Life cards. If you have 7 or less cards in your hand, draw 1 card.<br>[DON!! x1] [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: This Leader gains +2000 power during this turn.",
+    "card_effects": [
+      "[DON!! x1]",
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "Learn Together Deck Set",
+    "image_name": "OP11-041_p2"
+  },
+  {
     "card_name": "Koby",
     "card_number": "OP11-119",
     "rarity": "SEC",
@@ -96585,6 +96647,124 @@
     ],
     "card_sets": "Treasure Cup August 2025~",
     "image_name": "OP11-119_p2"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP12-015",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-015_p2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have a total of 2 or more given DON!! cards, this Character gains +2000 power.<br>[On Play] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Treasure Cup November 2025~",
+    "image_name": "OP12-015_p2"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP12-020",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-020_p2.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "Treasure Cup November 2025~",
+    "image_name": "OP12-020_p2"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP12-020",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-020_p3.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "Learn Together Deck Set",
+    "image_name": "OP12-020_p3"
+  },
+  {
+    "card_name": "Tashigi",
+    "card_number": "OP12-031",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-031_p2.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "East Blue",
+      "Navy"
+    ],
+    "effects": "[On Play] Rest up to 1 of your opponent's Characters with a base cost of 6 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Treasure Cup November 2025~",
+    "image_name": "OP12-031_p2"
   },
   {
     "card_name": "Monkey.D.Luffy",
@@ -101818,6 +101998,37 @@
     ],
     "card_sets": "Winner Pack 2025 Vol. 3",
     "image_name": "ST19-002_p2"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "ST21-001",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001_p2.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 2 rested DON!! cards to 1 of your Characters.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[DON!! x1]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "Learn Together Deck Set",
+    "image_name": "ST21-001_p2"
   },
   {
     "card_name": "Roronoa Zoro",
