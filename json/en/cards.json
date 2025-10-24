@@ -53704,6 +53704,5143 @@
     "image_name": "ST18-004_p2"
   },
   {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "EB02-028",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Alabasta",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "EB02-028_p1"
+  },
+  {
+    "card_name": "Lilith",
+    "card_number": "OP07-111",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-111_p2.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Scientist",
+      "Egghead"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Egghead} type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] If your Leader is [Vegapunk], play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP07-111_p2"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP07-118",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-118_p2.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Special"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "2",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effects": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less and up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP07-118_p2"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP09-004",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)<br>",
+    "card_effects": [
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP09-004_p5"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP09-004",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)<br>",
+    "card_effects": [
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP09-004_p6"
+  },
+  {
+    "card_name": "Benn.Beckman",
+    "card_number": "OP09-009",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p3.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP09-009_p3"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "OP09-118",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "13000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+    "card_effects": [
+      "[Blocker]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP09-118_p3"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP09-119",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Draw 1 card and this Character gains [Rush] during this turn.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP09-119_p3"
+  },
+  {
+    "card_name": "Smoker",
+    "card_number": "OP10-030",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Punk Hazard",
+      "Navy"
+    ],
+    "effects": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Banish]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP10-030_p2"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP11-058",
+    "rarity": "TR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-058_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have 5 or more cards in your hand, this Character cannot attack.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP11-058_p1"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP13-001",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-001.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[DON!! x1] [On Your Opponent's Attack] If you have 5 or less active DON!! cards, you may rest any number of your DON!! cards. For every DON!! card rested this way, this Leader or up to 1 of your {Straw Hat Crew} type Characters gains +2000 power during this battle.",
+    "card_effects": [
+      "[DON!! x1]",
+      "[On Your Opponent's Attack]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-001"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP13-001",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[DON!! x1] [On Your Opponent's Attack] If you have 5 or less active DON!! cards, you may rest any number of your DON!! cards. For every DON!! card rested this way, this Leader or up to 1 of your {Straw Hat Crew} type Characters gains +2000 power during this battle.",
+    "card_effects": [
+      "[DON!! x1]",
+      "[On Your Opponent's Attack]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-001_p1"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-002",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-002.png",
+    "life": "3",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards −2000 power during this battle.<br>[DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+    "card_effects": [
+      "[DON!! x1]",
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-002"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-002",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.png",
+    "life": "3",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards −2000 power during this battle.<br>[DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+    "card_effects": [
+      "[DON!! x1]",
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-002_p1"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "OP13-003",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-003.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "If you have any DON!! cards on your field, 1 DON!! card placed during your DON!! Phase is given to your Leader.<br>If you have 9 or less DON!! cards on your field, give this Leader −2000 power.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-003"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "OP13-003",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "If you have any DON!! cards on your field, 1 DON!! card placed during your DON!! Phase is given to your Leader.<br>If you have 9 or less DON!! cards on your field, give this Leader −2000 power.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-003_p1"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-004",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-004.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "If you have 4 or more Life cards, give this Leader −1000 power.<br>[DON!! x1] If you have a Character with a cost of 8 or more, your Leader and all of your Characters gain +1000 power.",
+    "card_effects": [
+      "[DON!! x1]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-004"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-004",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "If you have 4 or more Life cards, give this Leader −1000 power.<br>[DON!! x1] If you have a Character with a cost of 8 or more, your Leader and all of your Characters gain +1000 power.",
+    "card_effects": [
+      "[DON!! x1]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-004_p1"
+  },
+  {
+    "card_name": "Inazuma",
+    "card_number": "OP13-005",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-005.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effects": "[On Play] Give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-005"
+  },
+  {
+    "card_name": "Woop Slap",
+    "card_number": "OP13-006",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-006.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Windmill Village"
+    ],
+    "effects": "[On Play] Give up to 2 rested DON!! cards to 1 of your [Monkey.D.Luffy] cards.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-006"
+  },
+  {
+    "card_name": "Ace & Sabo & Luffy",
+    "card_number": "OP13-007",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-007.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "1000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Goa Kingdom"
+    ],
+    "effects": "[Activate: Main] You may give 1 of your active DON!! cards to 1 of your Leader or Character cards and trash this Character: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-007"
+  },
+  {
+    "card_name": "Ace & Sabo & Luffy",
+    "card_number": "OP13-007",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-007_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "1000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Goa Kingdom"
+    ],
+    "effects": "[Activate: Main] You may give 1 of your active DON!! cards to 1 of your Leader or Character cards and trash this Character: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-007_p1"
+  },
+  {
+    "card_name": "Emporio.Ivankov",
+    "card_number": "OP13-008",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-008.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Special"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effects": "If your {Revolutionary Army} type Character would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-008"
+  },
+  {
+    "card_name": "Curly.Dadan",
+    "card_number": "OP13-009",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-009.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Mountain Bandits"
+    ],
+    "effects": "If you have a {Mountain Bandits} type Character other than this card, this Character gains [Double Attack].",
+    "card_effects": [
+      "[Double Attack]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-009"
+  },
+  {
+    "card_name": "Lord of the Coast",
+    "card_number": "OP13-010",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-010.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Neptunian",
+      "East Blue"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-010"
+  },
+  {
+    "card_name": "Nefeltari Cobra",
+    "card_number": "OP13-011",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-011.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "6000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-011"
+  },
+  {
+    "card_name": "Nefeltari Vivi",
+    "card_number": "OP13-012",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-012.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effects": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Alabasta} or {Straw Hat Crew} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-012"
+  },
+  {
+    "card_name": "Higuma",
+    "card_number": "OP13-013",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-013.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Mountain Bandits"
+    ],
+    "effects": "[On Play] K.O. up to 1 of your opponent's Characters with 0 power or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-013"
+  },
+  {
+    "card_name": "Portgas.D.Rouge",
+    "card_number": "OP13-014",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-014.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Baterilla"
+    ],
+    "effects": "- [Trigger] Up to 1 of your [Portgas.D.Ace] cards gains +3000 power during this turn.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-014"
+  },
+  {
+    "card_name": "Makino",
+    "card_number": "OP13-015",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-015.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Windmill Village"
+    ],
+    "effects": "[Activate: Main] You may rest this Character: Up to 1 of your [Monkey.D.Luffy] cards gains +2000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-015"
+  },
+  {
+    "card_name": "Monkey.D.Garp",
+    "card_number": "OP13-016",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-016.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effects": "[On Play] If your Leader is [Sabo], [Portgas.D.Ace] or [Monkey.D.Luffy], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-016"
+  },
+  {
+    "card_name": "Monkey.D.Garp",
+    "card_number": "OP13-016",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-016_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effects": "[On Play] If your Leader is [Sabo], [Portgas.D.Ace] or [Monkey.D.Luffy], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-016_p1"
+  },
+  {
+    "card_name": "Monkey.D.Dragon",
+    "card_number": "OP13-017",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-017.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effects": "[Once Per Turn] If your {Revolutionary Army} type Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+    "card_effects": [
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-017"
+  },
+  {
+    "card_name": "Wapol",
+    "card_number": "OP13-018",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-018.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Evil Black Drum Kingdom"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-018"
+  },
+  {
+    "card_name": "But Ace Here Said You Deserved It!!",
+    "card_number": "OP13-019",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-019.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "[Main] You may rest 4 of your DON!! cards: Give up to 1 of your opponent's Characters −3000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-019"
+  },
+  {
+    "card_name": "Meteor Fist",
+    "card_number": "OP13-020",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-020.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effects": "[Main] Give up to 1 of your opponent's Characters −5000 power during this turn. [Trigger] Activate this card's [Main] effect.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-020"
+  },
+  {
+    "card_name": "Gum-Gum Gatling Gun",
+    "card_number": "OP13-021",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-021.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards. Then, give up to 1 of your opponent's Characters −2000 power during this turn. [Trigger] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-021"
+  },
+  {
+    "card_name": "Windmill Village",
+    "card_number": "OP13-022",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "STAGE",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-022.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Windmill Village"
+    ],
+    "effects": "[Activate: Main] You may rest this Stage: Up to 1 of your Characters with 2000 base power or less gains +1000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-022"
+  },
+  {
+    "card_name": "Uta",
+    "card_number": "OP13-023",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-023.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM"
+    ],
+    "effects": "[On Play] Set up to 2 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.<br>[On K.O.] Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+    "card_effects": [
+      "[On K.O.]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-023"
+  },
+  {
+    "card_name": "Uta",
+    "card_number": "OP13-023",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-023_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM"
+    ],
+    "effects": "[On Play] Set up to 2 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.<br>[On K.O.] Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+    "card_effects": [
+      "[On K.O.]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-023_p1"
+  },
+  {
+    "card_name": "Gordon",
+    "card_number": "OP13-024",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-024.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM"
+    ],
+    "effects": "[On Play] You may reveal 1 {Music} or {FILM} type card from your hand: Set up to 2 of your DON!! cards as active at the end of this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-024"
+  },
+  {
+    "card_name": "Koby",
+    "card_number": "OP13-025",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-025.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Navy"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If your Leader has the {FILM} type or the &lt;Strike&gt; attribute, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-025"
+  },
+  {
+    "card_name": "Sunny-Kun",
+    "card_number": "OP13-026",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-026.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: This Character gains +2000 power until the end of your opponent's next turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-026"
+  },
+  {
+    "card_name": "Sanji",
+    "card_number": "OP13-027",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-027.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] Set up to 2 of your DON!! cards as active.<br>[End of Your Turn] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[End of Your Turn]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-027"
+  },
+  {
+    "card_name": "Sanji",
+    "card_number": "OP13-027",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-027_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] Set up to 2 of your DON!! cards as active.<br>[End of Your Turn] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[End of Your Turn]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-027_p1"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP13-028",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-028.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Set all of your DON!! cards as active. Then, you cannot play cards from your hand during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-028"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP13-028",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-028_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Set all of your DON!! cards as active. Then, you cannot play cards from your hand during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-028_p1"
+  },
+  {
+    "card_name": "Jinbe",
+    "card_number": "OP13-029",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-029.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Fish-Man",
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-029"
+  },
+  {
+    "card_name": "Tony Tony.Chopper",
+    "card_number": "OP13-030",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-030.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Animal",
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] Set up to 2 of your DON!! cards as active.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-030"
+  },
+  {
+    "card_name": "Trafalgar Law",
+    "card_number": "OP13-031",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-031.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effects": "If you have 1 or less Life cards, this Character gains [Blocker].<br>[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-031"
+  },
+  {
+    "card_name": "Nico Robin",
+    "card_number": "OP13-032",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-032.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] Up to 1 of your opponent's Characters with a cost of 8 or less cannot be rested until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-032"
+  },
+  {
+    "card_name": "Franky",
+    "card_number": "OP13-033",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-033.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On K.O.] Rest up to 2 of your opponent's cards.",
+    "card_effects": [
+      "[On K.O.]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-033"
+  },
+  {
+    "card_name": "Brook",
+    "card_number": "OP13-034",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-034.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-034"
+  },
+  {
+    "card_name": "Bepo",
+    "card_number": "OP13-035",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-035.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Minks",
+      "FILM",
+      "Heart Pirates"
+    ],
+    "effects": "[End of Your Turn] Set this Character or up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[End of Your Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-035"
+  },
+  {
+    "card_name": "Helmeppo",
+    "card_number": "OP13-036",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-036.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Navy"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-036"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP13-037",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-037.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 2 of your DON!! cards as active.<br>[End of Your Turn] Set this Character as active.",
+    "card_effects": [
+      "[End of Your Turn]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-037"
+  },
+  {
+    "card_name": "Gum-Gum Elephant Gun",
+    "card_number": "OP13-038",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-038.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] Rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 2 of your DON!! cards as active at the end of this turn. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-038"
+  },
+  {
+    "card_name": "Gum-Gum Snake Shot",
+    "card_number": "OP13-039",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-039.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Counter] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less. [Trigger] Activate this card's [Counter] effect.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-039"
+  },
+  {
+    "card_name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+    "card_number": "OP13-040",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-040.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] You may rest 2 of your DON!! cards: Up to 2 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-040"
+  },
+  {
+    "card_name": "Izo",
+    "card_number": "OP13-041",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-041.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Land of Wano",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] Draw 2 cards.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-041"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP13-042",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-042.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-042"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP13-042",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-042_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-042_p1"
+  },
+  {
+    "card_name": "Otama",
+    "card_number": "OP13-043",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-043.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[On Play] If you have 3 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-043"
+  },
+  {
+    "card_name": "Curiel",
+    "card_number": "OP13-044",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-044.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "4000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[When Attacking] Give up to 1 rested DON!! card to your Leader with a type including \"Whitebeard Pirates\" or 1 Character with a type including \"Whitebeard Pirates\".<br>[On K.O.] Draw 1 card.",
+    "card_effects": [
+      "[On K.O.]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-044"
+  },
+  {
+    "card_name": "Haruta",
+    "card_number": "OP13-045",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-045.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[When Attacking] If you have 4 or less cards in your hand, draw 1 card.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-045"
+  },
+  {
+    "card_name": "Vista",
+    "card_number": "OP13-046",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-046.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Double Attack]<br>[Once Per Turn] If this Character would be K.O.'d or would be removed from the field by your opponent's effect, you may trash 1 card with a type including \"Whitebeard Pirates\" from your hand instead.",
+    "card_effects": [
+      "[Double Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-046"
+  },
+  {
+    "card_name": "Fossa",
+    "card_number": "OP13-047",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-047.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If your Character with a type including \"Whitebeard Pirates\" would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-047"
+  },
+  {
+    "card_name": "Blamenco",
+    "card_number": "OP13-048",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-048.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-048"
+  },
+  {
+    "card_name": "Blenheim",
+    "card_number": "OP13-049",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-049.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-049"
+  },
+  {
+    "card_name": "Boa Sandersonia",
+    "card_number": "OP13-050",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-050.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Kuja Pirates"
+    ],
+    "effects": "[On Play] If your Leader is [Boa Hancock], play up to 1 [Boa Hancock] with a cost of 3 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-050"
+  },
+  {
+    "card_name": "Boa Hancock",
+    "card_number": "OP13-051",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-051.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effects": "[On K.O.] If your Leader is [Boa Hancock] or multicolored, draw 2 cards.",
+    "card_effects": [
+      "[On K.O.]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-051"
+  },
+  {
+    "card_name": "Boa Hancock",
+    "card_number": "OP13-051",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-051_p1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effects": "[On K.O.] If your Leader is [Boa Hancock] or multicolored, draw 2 cards.",
+    "card_effects": [
+      "[On K.O.]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-051_p1"
+  },
+  {
+    "card_name": "Boa Marigold",
+    "card_number": "OP13-052",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-052.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Kuja Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] If your Leader is [Boa Hancock], play up to 1 [Boa Hancock] with a cost of 6 or less from your hand.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-052"
+  },
+  {
+    "card_name": "Marshall.D.Teach",
+    "card_number": "OP13-053",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-053.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[When Attacking] You may trash 1 of your Characters with a type including \"Whitebeard Pirates\": Draw 1 card and this Character gains [Banish] during this turn.",
+    "card_effects": [
+      "[Banish]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-053"
+  },
+  {
+    "card_name": "Yamato",
+    "card_number": "OP13-054",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-054.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[On Play] If you have 3 or less Life cards, draw 2 cards. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-054"
+  },
+  {
+    "card_name": "Yamato",
+    "card_number": "OP13-054",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-054_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[On Play] If you have 3 or less Life cards, draw 2 cards. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-054_p1"
+  },
+  {
+    "card_name": "Rakuyo",
+    "card_number": "OP13-055",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-055.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[When Attacking] If you have 4 or less cards in your hand, all of your Characters with a type including \"Whitebeard Pirates\" gain +1000 power during this turn.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-055"
+  },
+  {
+    "card_name": "LittleOars Jr.",
+    "card_number": "OP13-056",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-056.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Giant",
+      "Whitebeard Pirates Allies"
+    ],
+    "effects": "[When Attacking] If your Leader's type includes \"Whitebeard Pirates\", draw 1 card.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-056"
+  },
+  {
+    "card_name": "If I Bowed Down to Power, What's the Point in Living?",
+    "card_number": "OP13-057",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-057.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Main] You may rest 1 of your DON!! cards: If you have 1 or less Life cards, your opponent cannot activate [Blocker] whenever your Leader attacks during this turn.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Blocker]",
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-057"
+  },
+  {
+    "card_name": "Phoenix Pyreapple",
+    "card_number": "OP13-058",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-058.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Former Whitebeard Pirates"
+    ],
+    "effects": "[Main] You may rest 1 of your DON!! cards: Place up to 1 of your opponent's Characters with 3000 power or less at the bottom of the owner's deck.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-058"
+  },
+  {
+    "card_name": "Brilliant Punk",
+    "card_number": "OP13-059",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-059.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Main] You may return 1 of your Characters to the owner's hand: Return up to 1 Character with a cost of 6 or less to the owner's hand. [Trigger] Draw 1 card.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-059"
+  },
+  {
+    "card_name": "Amatsuki Toki",
+    "card_number": "OP13-060",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-060.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano",
+      "Roger Pirates"
+    ],
+    "effects": "If your Character with a type including \"Roger Pirates\" would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-060"
+  },
+  {
+    "card_name": "Inuarashi",
+    "card_number": "OP13-061",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-061.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Minks",
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-061"
+  },
+  {
+    "card_name": "Crocus",
+    "card_number": "OP13-062",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-062.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and set it as active.<br>[When Attacking] Return up to 1 of your opponent's Characters with a base power of 3000 or less to the owner's hand.",
+    "card_effects": [
+      "[On Play]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-062"
+  },
+  {
+    "card_name": "Kouzuki Oden",
+    "card_number": "OP13-063",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-063.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan",
+      "Roger Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-063"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "OP13-064",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-064.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "13000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "Your Leader and all of your Characters that do not have a type including \"Roger Pirates\" have their effects negated.<br>[On Play] DON!! −3: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, give all of your opponent's Characters −2000 power until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-064"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "OP13-064",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-064_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "13000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "Your Leader and all of your Characters that do not have a type including \"Roger Pirates\" have their effects negated.<br>[On Play] DON!! −3: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, give all of your opponent's Characters −2000 power until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-064_p1"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP13-065",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-065.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Roger Pirates\" other than [Shanks] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-065"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP13-065",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-065_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Roger Pirates\" other than [Shanks] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-065_p1"
+  },
+  {
+    "card_name": "Silvers Rayleigh",
+    "card_number": "OP13-066",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-066.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[Rush]<br>[On Play] If you have any DON!! cards given, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active at the end of this turn.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-066"
+  },
+  {
+    "card_name": "Silvers Rayleigh",
+    "card_number": "OP13-066",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-066_p1.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[Rush]<br>[On Play] If you have any DON!! cards given, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active at the end of this turn.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-066_p1"
+  },
+  {
+    "card_name": "Scopper Gaban",
+    "card_number": "OP13-067",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-067.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If your Leader's type includes \"Roger Pirates\", draw 2 cards and trash 1 card from your hand. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-067"
+  },
+  {
+    "card_name": "Douglas Bullet",
+    "card_number": "OP13-068",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-068.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "FILM",
+      "Former Roger Pirates"
+    ],
+    "effects": "If you have 8 or more DON!! cards on your field, this Character gains +2000 power.<br>[On Play] If your Leader's type includes \"Roger Pirates\", add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-068"
+  },
+  {
+    "card_name": "Tom",
+    "card_number": "OP13-069",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-069.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Fish-Man",
+      "Water Seven"
+    ],
+    "effects": "[On Play] DON!! −1: Add up to 1 Stage card with a cost of 3 or less from your trash to your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-069"
+  },
+  {
+    "card_name": "Napoleon",
+    "card_number": "OP13-070",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-070.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Homies",
+      "Big Mom Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-070"
+  },
+  {
+    "card_name": "Nekomamushi",
+    "card_number": "OP13-071",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-071.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Minks",
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with 3000 base power or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-071"
+  },
+  {
+    "card_name": "Buggy",
+    "card_number": "OP13-072",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-072.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If your Leader's type includes \"Roger Pirates\" and you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-072"
+  },
+  {
+    "card_name": "Prometheus",
+    "card_number": "OP13-073",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-073.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Homies",
+      "Big Mom Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-073"
+  },
+  {
+    "card_name": "Hera",
+    "card_number": "OP13-074",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-074.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Homies",
+      "Big Mom Pirates"
+    ],
+    "effects": "[On Play] Play up to 1 {Homies} type Character card with 3000 power or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-074"
+  },
+  {
+    "card_name": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+    "card_number": "OP13-075",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-075.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "[Main] You may rest 1 of your DON!! cards: If your Leader is [Gol.D.Roger] and you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-075"
+  },
+  {
+    "card_name": "Divine Departure",
+    "card_number": "OP13-076",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-076.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "[Main] You may rest 5 of your DON!! cards: If you have any DON!! cards given, give up to 1 of your opponent's Characters −8000 power during this turn.<br>[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-076"
+  },
+  {
+    "card_name": "Divine Departure",
+    "card_number": "OP13-076",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-076_p1.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "[Main] You may rest 5 of your DON!! cards: If you have any DON!! cards given, give up to 1 of your opponent's Characters −8000 power during this turn.<br>[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-076_p1"
+  },
+  {
+    "card_name": "Go All the Way to the Top!!",
+    "card_number": "OP13-077",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-077.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Former Roger Pirates"
+    ],
+    "effects": "[Main] You may rest 3 of your DON!! cards: If you have any DON!! cards given, K.O. up to 1 of your opponent's Characters with 4000 base power or less and up to 1 of your opponent's Characters with 3000 base power or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-077"
+  },
+  {
+    "card_name": "Oro Jackson",
+    "card_number": "OP13-078",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "STAGE",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-078.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Roger Pirates"
+    ],
+    "effects": "[Once Per Turn] When your Character with a type including \"Roger Pirates\" is removed from the field by your opponent's effect, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "card_effects": [
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-078"
+  },
+  {
+    "card_name": "Imu",
+    "card_number": "OP13-079",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-079.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "?"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "?"
+    ],
+    "effects": "Under the rules of this game, you cannot include Events with a cost of 2 or more in your deck and at the start of the game, play up to 1 {Mary Geoise} type Stage card from your deck.<br>[Activate: Main] [Once Per Turn] You may trash 1 of your {Celestial Dragons} type Characters or 1 card from your hand: Draw 1 card.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-079"
+  },
+  {
+    "card_name": "Imu",
+    "card_number": "OP13-079",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.png",
+    "life": "4",
+    "cost": "-",
+    "attributes": [
+      "?"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "?"
+    ],
+    "effects": "Under the rules of this game, you cannot include Events with a cost of 2 or more in your deck and at the start of the game, play up to 1 {Mary Geoise} type Stage card from your deck.<br>[Activate: Main] [Once Per Turn] You may trash 1 of your {Celestial Dragons} type Characters or 1 card from your hand: Draw 1 card.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-079_p1"
+  },
+  {
+    "card_name": "St. Ethanbaron V. Nusjuro",
+    "card_number": "OP13-080",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-080.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Rush].<br>[When Attacking] If you have 10 or more cards in your trash, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[Rush]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-080"
+  },
+  {
+    "card_name": "St. Ethanbaron V. Nusjuro",
+    "card_number": "OP13-080",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-080_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Rush].<br>[When Attacking] If you have 10 or more cards in your trash, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[Rush]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-080_p1"
+  },
+  {
+    "card_name": "St. Ethanbaron V. Nusjuro",
+    "card_number": "OP13-080",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-080_p2.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Rush].<br>[When Attacking] If you have 10 or more cards in your trash, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[Rush]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-080_p2"
+  },
+  {
+    "card_name": "Koala",
+    "card_number": "OP13-081",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-081.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "If your Leader has the {Revolutionary Army} type, this Character gains +3 cost.<br>[Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-081"
+  },
+  {
+    "card_name": "Five Elders",
+    "card_number": "OP13-082",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-082.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "[Activate: Main] If your Leader is [Imu], you may rest 1 of your DON!! cards and trash 1 card from your hand: Trash all of your Characters and play up to 5 {Five Elders} type Character cards with 5000 power and different card names from your trash.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-082"
+  },
+  {
+    "card_name": "Five Elders",
+    "card_number": "OP13-082",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-082_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "[Activate: Main] If your Leader is [Imu], you may rest 1 of your DON!! cards and trash 1 card from your hand: Trash all of your Characters and play up to 5 {Five Elders} type Character cards with 5000 power and different card names from your trash.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-082_p1"
+  },
+  {
+    "card_name": "St. Jaygarcia Saturn",
+    "card_number": "OP13-083",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-083.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Five Elders} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-083"
+  },
+  {
+    "card_name": "St. Jaygarcia Saturn",
+    "card_number": "OP13-083",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-083_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Five Elders} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-083_p1"
+  },
+  {
+    "card_name": "St. Jaygarcia Saturn",
+    "card_number": "OP13-083",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-083_p2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Five Elders} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-083_p2"
+  },
+  {
+    "card_name": "St. Shepherd Ju Peter",
+    "card_number": "OP13-084",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-084.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.<br>[Your Turn] If you have 10 or more cards in your trash, set the base power of all of your {Five Elders} type Characters to 7000.",
+    "card_effects": [
+      "[Your Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-084"
+  },
+  {
+    "card_name": "St. Shepherd Ju Peter",
+    "card_number": "OP13-084",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-084_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.<br>[Your Turn] If you have 10 or more cards in your trash, set the base power of all of your {Five Elders} type Characters to 7000.",
+    "card_effects": [
+      "[Your Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-084_p1"
+  },
+  {
+    "card_name": "St. Shepherd Ju Peter",
+    "card_number": "OP13-084",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-084_p2.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.<br>[Your Turn] If you have 10 or more cards in your trash, set the base power of all of your {Five Elders} type Characters to 7000.",
+    "card_effects": [
+      "[Your Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-084_p2"
+  },
+  {
+    "card_name": "Saint Jalmac",
+    "card_number": "OP13-085",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-085.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-085"
+  },
+  {
+    "card_name": "Saint Shalria",
+    "card_number": "OP13-086",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-086.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Celestial Dragons} type card other than [Saint Shalria] and add it to your hand. Then, trash the rest and trash 1 card from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-086"
+  },
+  {
+    "card_name": "Saint Charlos",
+    "card_number": "OP13-087",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-087.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Trash 1 card from the top of your deck.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-087"
+  },
+  {
+    "card_name": "Terry Gilteo",
+    "card_number": "OP13-088",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-088.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "6000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-088"
+  },
+  {
+    "card_name": "St. Topman Warcury",
+    "card_number": "OP13-089",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-089.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].<br>[On K.O.] Draw 1 card.",
+    "card_effects": [
+      "[Blocker]",
+      "[On K.O.]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-089"
+  },
+  {
+    "card_name": "St. Topman Warcury",
+    "card_number": "OP13-089",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-089_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].<br>[On K.O.] Draw 1 card.",
+    "card_effects": [
+      "[Blocker]",
+      "[On K.O.]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-089_p1"
+  },
+  {
+    "card_name": "St. Topman Warcury",
+    "card_number": "OP13-089",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-089_p2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].<br>[On K.O.] Draw 1 card.",
+    "card_effects": [
+      "[Blocker]",
+      "[On K.O.]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-089_p2"
+  },
+  {
+    "card_name": "Hack",
+    "card_number": "OP13-090",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-090.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Fish-Man",
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-090"
+  },
+  {
+    "card_name": "St. Marcus Mars",
+    "card_number": "OP13-091",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-091.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].<br>[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-091"
+  },
+  {
+    "card_name": "St. Marcus Mars",
+    "card_number": "OP13-091",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-091_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].<br>[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-091_p1"
+  },
+  {
+    "card_name": "St. Marcus Mars",
+    "card_number": "OP13-091",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-091_p2.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].<br>[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-091_p2"
+  },
+  {
+    "card_name": "Saint Mjosgard",
+    "card_number": "OP13-092",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-092.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons"
+    ],
+    "effects": "[On Play] If you have 3 or less Life cards, play up to 1 {Mary Geoise} type Stage card with a cost of 1 from your trash.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-092"
+  },
+  {
+    "card_name": "Morgans",
+    "card_number": "OP13-093",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-093.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Journalist"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Draw 2 cards and trash 2 cards from your hand.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-093"
+  },
+  {
+    "card_name": "York",
+    "card_number": "OP13-094",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-094.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "[On Play] Up to 1 of your {Celestial Dragons} type Characters gains +2000 power during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-094"
+  },
+  {
+    "card_name": "Saint Rosward",
+    "card_number": "OP13-095",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-095.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons"
+    ],
+    "effects": "[On Play] You may trash 1 card from your hand: If you only have {Celestial Dragons} type Characters, K.O. up to 2 of your opponent's Characters with a base cost of 3 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-095"
+  },
+  {
+    "card_name": "The Five Elders Are at Your Service!!!",
+    "card_number": "OP13-096",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-096.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Celestial Dragons} type card other than [The Five Elders Are at Your Service!!!] and add it to your hand. Then, trash the rest. [Trigger] Activate this card's [Main] effect.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-096"
+  },
+  {
+    "card_name": "The World's Equilibrium Cannot Be Maintained Forever",
+    "card_number": "OP13-097",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-097.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "[Main] You may rest 5 of your DON!! cards: If the only Characters on your field are {Celestial Dragons} type Characters, K.O. up to 1 of your opponent's Characters with a base cost of 6 or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-097"
+  },
+  {
+    "card_name": "Never Existed... in the First Place...",
+    "card_number": "OP13-098",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-098.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "effects": "[Main] You may rest 1 of your DON!! cards: If your Leader is [Imu], K.O. up to 1 of your opponent's Stages with a cost of 7.<br>[Counter] If your Leader is [Imu], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-098"
+  },
+  {
+    "card_name": "The Empty Throne",
+    "card_number": "OP13-099",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "STAGE",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-099.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Mary Geoise"
+    ],
+    "effects": "[Your Turn] If you have 19 or more cards in your trash, your Leader gains +1000 power.<br>[Activate: Main] You may rest this card and 3 of your DON!! cards: Play up to 1 black {Five Elders} type Character card with a cost equal to or less than the number of DON!! cards on your field from your hand.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Your Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-099"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "OP13-100",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-100.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Bonney Pirates"
+    ],
+    "effects": "[Your Turn] [Once Per Turn] This effect can be activated when you play a Character with a [Trigger]. Give up to 2 rested DON!! cards to 1 of your Leader or Character cards.",
+    "card_effects": [
+      "[Once Per Turn]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-100"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "OP13-100",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Bonney Pirates"
+    ],
+    "effects": "[Your Turn] [Once Per Turn] This effect can be activated when you play a Character with a [Trigger]. Give up to 2 rested DON!! cards to 1 of your Leader or Character cards.",
+    "card_effects": [
+      "[Once Per Turn]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-100_p1"
+  },
+  {
+    "card_name": "Atlas",
+    "card_number": "OP13-101",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-101.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "6000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-101"
+  },
+  {
+    "card_name": "Edison",
+    "card_number": "OP13-102",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-102.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "[Activate: Main] You may trash this Character: If the number of your Life cards is equal to or less than the number of your opponent's Life cards, draw 1 card. Then, rest up to 1 of your opponent's Characters with a cost of 3 or less. [Trigger] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-102"
+  },
+  {
+    "card_name": "Gyogyo",
+    "card_number": "OP13-103",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-103.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Bonney Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-103"
+  },
+  {
+    "card_name": "Kouzuki Hiyori",
+    "card_number": "OP13-104",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-104.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effects": "[Blocker]<br>[On K.O.] You may trash 1 card from your hand: If your Leader is multicolored, add up to 1 card from the top of your deck to the top of your Life cards.",
+    "card_effects": [
+      "[Blocker]",
+      "[On K.O.]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-104"
+  },
+  {
+    "card_name": "Kouzuki Momonosuke",
+    "card_number": "OP13-105",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-105.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effects": "[On Play] Look at all of your Life cards and place them back in your Life area in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-105"
+  },
+  {
+    "card_name": "Conney",
+    "card_number": "OP13-106",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-106.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Bonney Pirates"
+    ],
+    "effects": "[Opponent's Turn] When a [Trigger] activates, this Character gains [Blocker] during this turn. [Trigger] Play this card.",
+    "card_effects": [
+      "[Blocker]",
+      "[Opponent's Turn]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-106"
+  },
+  {
+    "card_name": "Shaka",
+    "card_number": "OP13-107",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-107.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "7000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-107"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "OP13-108",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-108.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Special"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Bonney Pirates"
+    ],
+    "effects": "[On Play] If your Leader has the {Egghead} type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand. [Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-108"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "OP13-108",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-108_p1.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Special"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Bonney Pirates"
+    ],
+    "effects": "[On Play] If your Leader has the {Egghead} type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand. [Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-108_p1"
+  },
+  {
+    "card_name": "Jewelry Bonney",
+    "card_number": "OP13-109",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-109.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "effects": "If this Character would be removed from the field by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead. [Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-109"
+  },
+  {
+    "card_name": "Stussy",
+    "card_number": "OP13-110",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-110.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "CP0"
+    ],
+    "effects": "[Blocker]<br>[On Play] If your Leader has the {Egghead} type, play up to 1 Character card with a cost of 5 or less and a [Trigger] from your hand.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-110"
+  },
+  {
+    "card_name": "Stussy",
+    "card_number": "OP13-110",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-110_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "CP0"
+    ],
+    "effects": "[Blocker]<br>[On Play] If your Leader has the {Egghead} type, play up to 1 Character card with a cost of 5 or less and a [Trigger] from your hand.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-110_p1"
+  },
+  {
+    "card_name": "Pythagoras",
+    "card_number": "OP13-111",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-111.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "7000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-111"
+  },
+  {
+    "card_name": "Vegapunk",
+    "card_number": "OP13-112",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-112.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "If you have a total of 2 or more given DON!! cards, this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-112"
+  },
+  {
+    "card_name": "Lilith",
+    "card_number": "OP13-113",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a [Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [On Play] effect.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-113"
+  },
+  {
+    "card_name": "Lilith",
+    "card_number": "OP13-113",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "Scientist"
+    ],
+    "effects": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a [Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [On Play] effect.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-113_p1"
+  },
+  {
+    "card_name": "S-Snake",
+    "card_number": "OP13-114",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-114.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Seraphim",
+      "Egghead"
+    ],
+    "effects": "[On Play]/[When Attacking] You may turn 1 card from the top of your Life cards face-up: Give up to 1 of your opponent's Characters −2000 power during this turn. [Trigger] You may trash 1 card from your hand: Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-114"
+  },
+  {
+    "card_name": "S-Snake",
+    "card_number": "OP13-114",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-114_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Seraphim",
+      "Egghead"
+    ],
+    "effects": "[On Play]/[When Attacking] You may turn 1 card from the top of your Life cards face-up: Give up to 1 of your opponent's Characters −2000 power during this turn. [Trigger] You may trash 1 card from your hand: Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[When Attacking]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-114_p1"
+  },
+  {
+    "card_name": "Paper Art Afterimage",
+    "card_number": "OP13-115",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-115.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "CP0"
+    ],
+    "effects": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, if your opponent has 2 or less Life cards, up to 1 of your Leader or Character cards gains +1000 power during this turn. [Trigger] Draw 1 card.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-115"
+  },
+  {
+    "card_name": "The One Who Is the Most Free Is the Pirate King!!!",
+    "card_number": "OP13-116",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-116.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [Main] effect.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-116"
+  },
+  {
+    "card_name": "Gum-Gum Dawn Stamp",
+    "card_number": "OP13-117",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-117.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a base cost of 6 or less. [Trigger] Draw 1 card.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-117"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP13-118",
+    "rarity": "SEC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-118.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Double Attack]<br>[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "card_effects": [
+      "[Double Attack]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-118"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP13-118",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-118_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Double Attack]<br>[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "card_effects": [
+      "[Double Attack]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-118_p1"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP13-118",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-118_p2.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Double Attack]<br>[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "card_effects": [
+      "[Double Attack]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-118_p2"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP13-118",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-118_p3.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Double Attack]<br>[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "card_effects": [
+      "[Double Attack]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-118_p3"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP13-118",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-118_p4.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Double Attack]<br>[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "card_effects": [
+      "[Double Attack]",
+      "[On Play]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-118_p4"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-119",
+    "rarity": "SEC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-119.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If you have 3 or less Life cards, this Character gains [Rush].<br>[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-119"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-119",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-119_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If you have 3 or less Life cards, this Character gains [Rush].<br>[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-119_p1"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-119",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-119_p2.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If you have 3 or less Life cards, this Character gains [Rush].<br>[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-119_p2"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-119",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-119_p3.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If you have 3 or less Life cards, this Character gains [Rush].<br>[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-119_p3"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP13-119",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-119_p4.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If you have 3 or less Life cards, this Character gains [Rush].<br>[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-119_p4"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-120",
+    "rarity": "SEC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-120.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "[Blocker]<br>[Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-120"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-120",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-120_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "[Blocker]<br>[Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-120_p1"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-120",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-120_p2.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "[Blocker]<br>[Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-120_p2"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-120",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-120_p3.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "[Blocker]<br>[Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-120_p3"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP13-120",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-120_p4.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "effects": "[Blocker]<br>[Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "-CARRYING ON HIS WILL- [OP-13]",
+    "image_name": "OP13-120_p4"
+  },
+  {
     "card_name": "Monkey.D.Luffy",
     "card_number": "ST01-001",
     "rarity": "L",
@@ -95284,6 +100421,64 @@
     "image_name": "OP07-053_p2"
   },
   {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP07-053",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-053_p3.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "3rd Anniversary Event",
+    "image_name": "OP07-053_p3"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP07-053",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-053_p4.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "3rd Anniversary Event",
+    "image_name": "OP07-053_p4"
+  },
+  {
     "card_name": "Tony Tony.Chopper",
     "card_number": "OP07-066",
     "rarity": "R",
@@ -96034,6 +101229,66 @@
     ],
     "card_sets": "Championship 25-26 Offline Regionals Season 2",
     "image_name": "OP09-013_p1"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP09-027",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p2.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "ODYSSEY",
+      "Revolutionary Army"
+    ],
+    "effects": "[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.",
+    "card_effects": [
+      "[Once Per Turn]",
+      "[When Attacking]"
+    ],
+    "card_sets": "3rd Anniversary Event",
+    "image_name": "OP09-027_p2"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "OP09-027",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p3.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "ODYSSEY",
+      "Revolutionary Army"
+    ],
+    "effects": "[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.",
+    "card_effects": [
+      "[Once Per Turn]",
+      "[When Attacking]"
+    ],
+    "card_sets": "3rd Anniversary Event",
+    "image_name": "OP09-027_p3"
   },
   {
     "card_name": "Nami",
@@ -100109,6 +105364,212 @@
     "image_name": "P-092_p2"
   },
   {
+    "card_name": "Tony Tony.Chopper",
+    "card_number": "P-101",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-101.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "Store Tournament 2025 Vol. 4",
+    "image_name": "P-101"
+  },
+  {
+    "card_name": "Nami",
+    "card_number": "P-102",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-102.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Egghead",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If your Leader has the {Straw Hat Crew} type, set up to 2 of your DON!! cards as active.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Store Tournament 2025 Vol. 4",
+    "image_name": "P-102"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "P-103",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-103.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to your Leader.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Store Tournament 2025 Vol. 4",
+    "image_name": "P-103"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "P-104",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-104.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates",
+      "Former Roger Pirates"
+    ],
+    "effects": "If either you or your opponent has 10 DON!! cards on the field, this Character cannot be removed from the field by your opponent's effects.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "Store Tournament 2025 Vol. 4",
+    "image_name": "P-104"
+  },
+  {
+    "card_name": "Sabo",
+    "card_number": "P-105",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-105.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effects": "If your Leader has the {Revolutionary Army} type, this Character gains [Blocker] and +4 cost.<br>[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "Store Tournament 2025 Vol. 4",
+    "image_name": "P-105"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "P-106",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-106.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Egghead} type Characters as active. [Trigger] Draw 1 card and K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "card_effects": [
+      "[End of Your Turn]",
+      "[Trigger]"
+    ],
+    "card_sets": "Store Tournament 2025 Vol. 4",
+    "image_name": "P-106"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "P-107",
+    "rarity": "P",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-107.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If either you or your opponent has 10 DON!! cards on the field, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Store Tournament 2025 Vol. 4",
+    "image_name": "P-107"
+  },
+  {
     "card_name": "Usopp",
     "card_number": "ST01-002",
     "rarity": "C",
@@ -100775,6 +106236,70 @@
     ],
     "card_sets": "Tournament Pack Vol.5",
     "image_name": "ST01-012_p4"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "ST01-012",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p5.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "1",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "card_effects": [
+      "[Blocker]",
+      "[DON!! x2]",
+      "[Rush]",
+      "[When Attacking]"
+    ],
+    "card_sets": "3rd Anniversary Event",
+    "image_name": "ST01-012_p5"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "ST01-012",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p6.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "1",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "card_effects": [
+      "[Blocker]",
+      "[DON!! x2]",
+      "[Rush]",
+      "[When Attacking]"
+    ],
+    "card_sets": "3rd Anniversary Event",
+    "image_name": "ST01-012_p6"
   },
   {
     "card_name": "Roronoa Zoro",
