@@ -8,19 +8,21 @@ on:
       - "json/package.json"
   workflow_dispatch: {}
 
+permissions:
+  id-token: write # Required for OIDC trusted publishing
+  contents: read
+
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      id-token: write
     steps:
       - uses: actions/checkout@v4
-      # Setup .npmrc file to publish to npm
+
       - uses: actions/setup-node@v4
         with:
+          node-version: "24"
           registry-url: "https://registry.npmjs.org"
+
+      # No NODE_AUTH_TOKEN needed - trusted publishing uses OIDC
       - run: npm publish --provenance --access public
         working-directory: ./json
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
