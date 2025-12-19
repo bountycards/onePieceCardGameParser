@@ -84,9 +84,18 @@ jobs:
           base: main
           delete-branch: false
           assignees: adamjsturge
+
   nightly:
     needs: [run-cargo]
     if: needs.run-cargo.outputs.changes_detected == 'true'
-    uses: ./.github/workflows/publish-nightly.yml
-    secrets:
-      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger nightly publish
+        run: |
+          gh workflow run publish.yml \
+            --repo ${{ github.repository }} \
+            --ref auto-update \
+            -f nightly=true \
+            -f ref=auto-update
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

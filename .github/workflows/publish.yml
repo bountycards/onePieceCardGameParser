@@ -6,7 +6,18 @@ on:
       - main
     paths:
       - "json/package.json"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      nightly:
+        description: "Publish as nightly build"
+        required: false
+        default: false
+        type: boolean
+      ref:
+        description: "Git ref to checkout (branch/tag/sha)"
+        required: false
+        default: "main"
+        type: string
 
 permissions:
   id-token: write # Required for OIDC trusted publishing
@@ -17,12 +28,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref || github.ref }}
 
       - uses: actions/setup-node@v4
         with:
           node-version: "24"
           registry-url: "https://registry.npmjs.org"
 
-      # No NODE_AUTH_TOKEN needed - trusted publishing uses OIDC
-      - run: npm publish --provenance --access public
+      # Update version for nightly builds
+      - name: Update package version for nightly
+        if: inputs.nightly == true
+        run: |
+          cd json
+          PACKAGE_VERSION=$(node -p "require('./package.json').version")
+          NIGHTLY_VERSION="${PACKAGE_VERSION}-nightly"
+          echo "NIGHTLY_VERSION=${NIGHTLY_VERSION}" >> $GITHUB_ENV
+          npm version ${NIGHTLY_VERSION} --no-git-tag-version
+
+      # Publish nightly with tag
+      - name: Publish nightly
+        if: inputs.nightly == true
+        run: npm publish --provenance --access public --tag nightly
+        working-directory: ./json
+
+      # Publish regular release
+      - name: Publish release
+        if: inputs.nightly != true
+        run: npm publish --provenance --access public
         working-directory: ./json
