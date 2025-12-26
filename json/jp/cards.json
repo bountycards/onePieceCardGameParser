@@ -107451,6 +107451,62 @@
     "image_name": "OP05-060_p2"
   },
   {
+    "card_name": "O-Nami",
+    "card_number": "OP05-062",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP05-062_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have 10 DON!! cards on your field, this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Treasure Chest vol.1",
+    "image_name": "OP05-062_p1"
+  },
+  {
+    "card_name": "O-Nami",
+    "card_number": "OP05-062",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP05-062_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have 10 DON!! cards on your field, this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Treasure Chest vol.1",
+    "image_name": "OP05-062_p2"
+  },
+  {
     "card_name": "Zoro-Juurou",
     "card_number": "OP05-067",
     "rarity": "R",
@@ -121465,6 +121521,62 @@
     ],
     "card_sets": "Winner prize for 8 PACKS BATTLE",
     "image_name": "ST18-002_p1"
+  },
+  {
+    "card_name": "Zoro-Juurou",
+    "card_number": "ST18-004",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/ST18-004_p2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Treasure Chest vol.1",
+    "image_name": "ST18-004_p2"
+  },
+  {
+    "card_name": "Luffy-Tarou",
+    "card_number": "ST18-005",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/ST18-005_p2.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "ONE PIECE CARD GAME Treasure Chest vol.1",
+    "image_name": "ST18-005_p2"
   },
   {
     "card_name": "Sengoku",
