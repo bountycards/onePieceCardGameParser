@@ -107997,6 +107997,35 @@
   },
   {
     "card_name": "Vinsmoke Reiju",
+    "card_number": "OP06-068",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP06-068_p3.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Special"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "2",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Vinsmoke Family",
+      "GERMA 66"
+    ],
+    "effects": "[Activate: Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash this Character: If your Leader has the {GERMA 66} type, play up to 1 [Vinsmoke Reiju] with a cost of 4 from your hand or trash.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "Admirable Collection vol.1 Vinsmoke Reiju [AC-01]",
+    "image_name": "OP06-068_p3"
+  },
+  {
+    "card_name": "Vinsmoke Reiju",
     "card_number": "OP06-069",
     "rarity": "SR",
     "is_alternate_art": true,
@@ -110859,6 +110888,64 @@
     ],
     "card_sets": "Standard Battle Pack Vol.13",
     "image_name": "OP12-062_p1"
+  },
+  {
+    "card_name": "Vinsmoke Reiju",
+    "card_number": "OP12-063",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-063_p2.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Vinsmoke Family",
+      "GERMA 66"
+    ],
+    "effects": "If you have 4 or more Events in your trash, this Character gains +2000 power and +5 cost.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Admirable Collection vol.1 Vinsmoke Reiju [AC-01]",
+    "image_name": "OP12-063_p2"
+  },
+  {
+    "card_name": "Vinsmoke Reiju",
+    "card_number": "OP12-063",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-063_p3.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "3",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Vinsmoke Family",
+      "GERMA 66"
+    ],
+    "effects": "If you have 4 or more Events in your trash, this Character gains +2000 power and +5 cost.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Admirable Collection vol.1 Vinsmoke Reiju [AC-01]",
+    "image_name": "OP12-063_p3"
   },
   {
     "card_name": "Charlotte Pudding",
