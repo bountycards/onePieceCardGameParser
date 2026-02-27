@@ -63218,35 +63218,6 @@
     "card_name": "Enel",
     "card_number": "EB02-052",
     "rarity": "SP CARD",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "10",
-    "attributes": [
-      "Special"
-    ],
-    "power": "11000",
-    "counter": "-",
-    "block_icon": "3",
-    "colors": [
-      "Yellow"
-    ],
-    "types": [
-      "Sky Island"
-    ],
-    "effects": "If your Leader has the {Sky Island} type, this Character gains [Rush].<br>[When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
-    "card_effects": [
-      "[Rush]",
-      "[When Attacking]"
-    ],
-    "card_sets": "-Adventure on KAMI’s Island- [OP-15]",
-    "image_name": "noimage"
-  },
-  {
-    "card_name": "Enel",
-    "card_number": "EB02-052",
-    "rarity": "SP CARD",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
     "image_url": "https://onepiece-cardgame.com/images/cardlist/card/EB02-052_p2.png",
@@ -82005,36 +81976,6 @@
     ],
     "card_sets": "-EGGHEAD- [ST-29]",
     "image_name": "ST29-016"
-  },
-  {
-    "card_name": "Iai Death Lion Song",
-    "card_number": "ST29-017",
-    "rarity": "C",
-    "is_alternate_art": false,
-    "card_type": "EVENT",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "2",
-    "attributes": [
-      ""
-    ],
-    "power": "-",
-    "counter": "-",
-    "block_icon": "4",
-    "colors": [
-      "Yellow"
-    ],
-    "types": [
-      "Egghead",
-      "Straw Hat Crew"
-    ],
-    "effects": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less. [Trigger] Draw 2 cards and trash 1 card from your hand.",
-    "card_effects": [
-      "[Counter]",
-      "[Trigger]"
-    ],
-    "card_sets": "-EGGHEAD- [ST-29]",
-    "image_name": "noimage"
   },
   {
     "card_name": "Iai Death Lion Song",
@@ -107378,36 +107319,6 @@
   {
     "card_name": "Trafalgar Law",
     "card_number": "OP10-119",
-    "rarity": "SP CARD",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "7",
-    "attributes": [
-      "Slash"
-    ],
-    "power": "9000",
-    "counter": "-",
-    "block_icon": "3",
-    "colors": [
-      "Yellow"
-    ],
-    "types": [
-      "Dressrosa",
-      "Supernovas",
-      "Heart Pirates"
-    ],
-    "effects": "[On Play] Reveal up to 1 {Supernovas} type Character card from your hand and add it to the top of your Life cards face-down. Then, give up to 1 rested DON!! card to 1 of your {Supernovas} type Leader.",
-    "card_effects": [
-      "[On Play]"
-    ],
-    "card_sets": "-ONE PIECE CARD THE BEST vol.2- [PRB-02]",
-    "image_name": "noimage"
-  },
-  {
-    "card_name": "Trafalgar Law",
-    "card_number": "OP10-119",
     "rarity": "SEC",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
@@ -115910,37 +115821,6 @@
     "card_name": "Monkey.D.Luffy",
     "card_number": "OP07-109",
     "rarity": "SR",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "5",
-    "attributes": [
-      "Strike"
-    ],
-    "power": "6000",
-    "counter": "1000",
-    "block_icon": "2",
-    "colors": [
-      "Yellow"
-    ],
-    "types": [
-      "The Four Emperors",
-      "Egghead",
-      "Straw Hat Crew"
-    ],
-    "effects": "[Activate: Main] You may trash this Character: If you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, draw 1 card. [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
-    "card_effects": [
-      "[Activate: Main]",
-      "[Trigger]"
-    ],
-    "card_sets": "Serial Numbered Luffy GET CAMPAIGN",
-    "image_name": "noimage"
-  },
-  {
-    "card_name": "Monkey.D.Luffy",
-    "card_number": "OP07-109",
-    "rarity": "SR",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
     "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP07-109_p5.png",
@@ -117692,36 +117572,6 @@
     "card_name": "Roronoa Zoro",
     "card_number": "OP12-020",
     "rarity": "L",
-    "is_alternate_art": false,
-    "card_type": "LEADER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "5",
-    "cost": "-",
-    "attributes": [
-      "Slash"
-    ],
-    "power": "5000",
-    "counter": "-",
-    "block_icon": "3",
-    "colors": [
-      "Green"
-    ],
-    "types": [
-      "Supernovas",
-      "Straw Hat Crew"
-    ],
-    "effects": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
-    "card_effects": [
-      "[Activate: Main]",
-      "[Once Per Turn]"
-    ],
-    "card_sets": "Winner prize for Flagship Battle in January 2026",
-    "image_name": "noimage"
-  },
-  {
-    "card_name": "Roronoa Zoro",
-    "card_number": "OP12-020",
-    "rarity": "L",
     "is_alternate_art": true,
     "card_type": "LEADER",
     "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-020_p3.png",
@@ -118246,37 +118096,6 @@
     "card_name": "Jewelry Bonney",
     "card_number": "OP13-108",
     "rarity": "SR",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "9",
-    "attributes": [
-      "Special"
-    ],
-    "power": "10000",
-    "counter": "-",
-    "block_icon": "4",
-    "colors": [
-      "Yellow"
-    ],
-    "types": [
-      "Egghead",
-      "Bonney Pirates"
-    ],
-    "effects": "[On Play] If your Leader has the {Egghead} type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand. [Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
-    "card_effects": [
-      "[On Play]",
-      "[Rush]",
-      "[Trigger]"
-    ],
-    "card_sets": "Best 8 prize for Flagship Battle in January 2026",
-    "image_name": "noimage"
-  },
-  {
-    "card_name": "Jewelry Bonney",
-    "card_number": "OP13-108",
-    "rarity": "SR",
     "is_alternate_art": true,
     "card_type": "CHARACTER",
     "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP13-108_p2.png",
@@ -118303,37 +118122,6 @@
     ],
     "card_sets": "Best 8 prize for Flagship Battle in January 2026",
     "image_name": "OP13-108_p2"
-  },
-  {
-    "card_name": "Monkey.D.Luffy",
-    "card_number": "OP13-118",
-    "rarity": "SEC",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "6",
-    "attributes": [
-      "Strike"
-    ],
-    "power": "7000",
-    "counter": "-",
-    "block_icon": "4",
-    "colors": [
-      "Green"
-    ],
-    "types": [
-      "Fish-Man Island",
-      "Supernovas",
-      "Straw Hat Crew"
-    ],
-    "effects": "[Double Attack]<br>[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
-    "card_effects": [
-      "[Double Attack]",
-      "[On Play]"
-    ],
-    "card_sets": "Top ranker prize for Championship 25-26 Season 2 Regional Finals",
-    "image_name": "noimage"
   },
   {
     "card_name": "Monkey.D.Luffy",
@@ -123150,36 +122938,6 @@
     "rarity": "P",
     "is_alternate_art": false,
     "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "6",
-    "attributes": [
-      "Special"
-    ],
-    "power": "7000",
-    "counter": "1000",
-    "block_icon": "4",
-    "colors": [
-      "Yellow"
-    ],
-    "types": [
-      "The Seven Warlords of the Sea",
-      "Kuja Pirates"
-    ],
-    "effects": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [Trigger] Play up to 1 yellow Character card with 5000 power or less and a [Trigger] from your hand.",
-    "card_effects": [
-      "[On Play]",
-      "[Trigger]"
-    ],
-    "card_sets": "Asia Special Prize for January 2026 Standard Battle",
-    "image_name": "noimage"
-  },
-  {
-    "card_name": "Boa Hancock",
-    "card_number": "P-115",
-    "rarity": "P",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
     "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-115.png",
     "life": "-",
     "cost": "6",
@@ -123203,36 +122961,6 @@
     ],
     "card_sets": "Asia Special Prize for January 2026 Standard Battle",
     "image_name": "P-115"
-  },
-  {
-    "card_name": "Nico Robin",
-    "card_number": "P-116",
-    "rarity": "P",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "2",
-    "attributes": [
-      "Strike"
-    ],
-    "power": "1000",
-    "counter": "1000",
-    "block_icon": "4",
-    "colors": [
-      "Black"
-    ],
-    "types": [
-      "Straw Hat Crew",
-      "Former Baroque Works"
-    ],
-    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If you have 7 or more cards in your trash, draw 1 card and trash 1 card from your hand.",
-    "card_effects": [
-      "[Blocker]",
-      "[On K.O.]"
-    ],
-    "card_sets": "Asia Special Prize for January 2026 Meet-up event",
-    "image_name": "noimage"
   },
   {
     "card_name": "Nico Robin",
@@ -123291,36 +123019,6 @@
     ],
     "card_sets": "Prize for October 2025 Meet-up event",
     "image_name": "P-117"
-  },
-  {
-    "card_name": "Lilith",
-    "card_number": "P-118",
-    "rarity": "P",
-    "is_alternate_art": false,
-    "card_type": "CHARACTER",
-    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/noimage.png",
-    "life": "-",
-    "cost": "6",
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": "6000",
-    "counter": "1000",
-    "block_icon": "4",
-    "colors": [
-      "Yellow"
-    ],
-    "types": [
-      "Egghead",
-      "Scientist"
-    ],
-    "effects": "[On Play] If your Leader has the {Egghead} type, play up to 1 {Egghead} type Character card or Character card with a [Trigger], with a cost of 5 or less from your hand.",
-    "card_effects": [
-      "[On Play]",
-      "[Trigger]"
-    ],
-    "card_sets": "Prize for January 2026 Meet-up event",
-    "image_name": "noimage"
   },
   {
     "card_name": "Lilith",
