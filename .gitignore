@@ -1,7 +1,10 @@
 target/
-
+node_modules/
 
 input/
 cache/
 
 .DS_Store
+dry-run-output/
+
+.env
