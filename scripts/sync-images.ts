@@ -20,7 +20,7 @@ const CONCURRENCY = 10;
 const IMAGE_LIMIT = 0; // 0 = all images, >0 = limit per language
 
 function getEnvOrThrow(name: string): string {
-    const value = process.env[name];
+    const value = process.env[name]?.trim();
     if (!value) {
         throw new Error(`Missing required environment variable: ${name}`);
     }
