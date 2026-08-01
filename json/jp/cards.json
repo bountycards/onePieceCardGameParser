@@ -127398,6 +127398,34 @@
     "image_name": "OP15-060_p2"
   },
   {
+    "card_name": "Heavenly Warriors",
+    "card_number": "OP15-068",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP15-068_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Sky Island"
+    ],
+    "effects": "If you have 6 or less DON!! cards on your field, this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.17",
+    "image_name": "OP15-068_p1"
+  },
+  {
     "card_name": "Roronoa Zoro",
     "card_number": "OP15-113",
     "rarity": "SR",
@@ -127425,6 +127453,64 @@
     ],
     "card_sets": "Winner prize for Flagship Battle in July 2026",
     "image_name": "OP15-113_p2"
+  },
+  {
+    "card_name": "Namule",
+    "card_number": "OP16-010",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP16-010_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Fish-Man",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] You may reveal 1 Character card with 8000 power from your hand: K.O. up to 1 of your opponent's Characters with 2000 base power or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.17",
+    "image_name": "OP16-010_p1"
+  },
+  {
+    "card_name": "Inazuma",
+    "card_number": "OP16-024",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP16-024_p1.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Impel Down",
+      "Revolutionary Army"
+    ],
+    "effects": "When this Character is K.O.'d by your opponent's effect, rest up to 1 of your opponent's Characters.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.17",
+    "image_name": "OP16-024_p1"
   },
   {
     "card_name": "Boa Hancock",
@@ -127455,6 +127541,64 @@
     ],
     "card_sets": "Top ranking prize for Flagship Battle in July 2026",
     "image_name": "OP16-032_p2"
+  },
+  {
+    "card_name": "Nico Robin",
+    "card_number": "OP16-092",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP16-092_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Land of Wano",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may trash 1 Character card with a cost of 8 or more from your hand: Draw 2 cards.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Winner prize for September 2026 Standard Battle",
+    "image_name": "OP16-092_p1"
+  },
+  {
+    "card_name": "Nico Robin",
+    "card_number": "OP16-092",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP16-092_p2.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Land of Wano",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may trash 1 Character card with a cost of 8 or more from your hand: Draw 2 cards.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "Standard Battle Pack Vol.17",
+    "image_name": "OP16-092_p2"
   },
   {
     "card_name": "Monkey.D.Luffy",
