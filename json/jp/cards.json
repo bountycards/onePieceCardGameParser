@@ -72250,6 +72250,4987 @@
     "image_name": "ST15-005_p1"
   },
   {
+    "card_name": "Roronoa Zoro",
+    "card_number": "EB04-007",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/EB04-007_p2.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Egghead",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] Your Leader gains +2000 power until the end of your opponent's next End Phase.<br>[Activate: Main] [Once Per Turn] If your opponent has a Character with 8000 power or more, this Character gains [Rush: Character] during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "EB04-007_p2"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "EB04-061",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/EB04-061_p3.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Egghead",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have 1 or less Life cards, give this card in your hand −1 cost.<br>[On Play] You may trash 1 card from your hand: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "EB04-061_p3"
+  },
+  {
+    "card_name": "Monkey.D.Garp",
+    "card_number": "OP12-056",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP12-056_p2.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effects": "[On Play] You may trash 1 card from your hand: Play up to 1 blue {Navy} type Character card with 8000 power or less other than [Monkey.D.Garp] from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP12-056_p2"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP13-028",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP13-028_p2.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "FILM",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Set all of your DON!! cards as active. Then, you cannot play cards from your hand during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP13-028_p2"
+  },
+  {
+    "card_name": "Silvers Rayleigh",
+    "card_number": "OP14-108",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP14-108_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "4",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Former Roger Pirates"
+    ],
+    "effects": "[On Play] If your Leader is multicolored and your opponent has 3 or less Life cards, K.O. up to 1 of your opponent's Characters with 7000 base power or less. [Trigger] Activate this card's [On Play] effect.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP14-108_p1"
+  },
+  {
+    "card_name": "Yamato",
+    "card_number": "OP16-098",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP16-098_p2.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[On Play] Draw 1 card and trash 1 card from your hand.<br>[Activate: Main] You may trash this Character: Play up to 1 black [Yamato] with a cost of 8 from your trash.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP16-098_p2"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP17-001",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-001.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +4000 power during this battle.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-001"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP17-001",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-001_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +4000 power during this battle.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-001_p1"
+  },
+  {
+    "card_name": "Atmos",
+    "card_number": "OP17-002",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-002.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Opponent's Turn] This Character gains +3000 power.",
+    "card_effects": [
+      "[Opponent's Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-002"
+  },
+  {
+    "card_name": "Izo",
+    "card_number": "OP17-003",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-003.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Land of Wano",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Rush: Character]<br>[On Play] If your Leader is [Edward.Newgate] or has the {Land of Wano} type, give up to 1 of your opponent's rested Characters −6000 power during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-003"
+  },
+  {
+    "card_name": "Inuarashi & Nekomamushi",
+    "card_number": "OP17-004",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-004.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Minks",
+      "Land of Wano",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] Up to 1 of your {Land of Wano} type Characters or up to 1 of your Characters with a type including \"Whitebeard Pirates\" gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-004"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP17-005",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-005.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "If your opponent has a Character with 10000 power or more, give this card in your hand −4 cost.<br>[On Play] Your monocolored Leader's base power becomes 8000 until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-005"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP17-005",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-005_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "If your opponent has a Character with 10000 power or more, give this card in your hand −4 cost.<br>[On Play] Your monocolored Leader's base power becomes 8000 until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-005_p1"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP17-005",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-005_p2.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "If your opponent has a Character with 10000 power or more, give this card in your hand −4 cost.<br>[On Play] Your monocolored Leader's base power becomes 8000 until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-005_p2"
+  },
+  {
+    "card_name": "Kingdew",
+    "card_number": "OP17-006",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-006.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-006"
+  },
+  {
+    "card_name": "Kingdew",
+    "card_number": "OP17-006",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-006_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-006_p1"
+  },
+  {
+    "card_name": "Kouzuki Oden",
+    "card_number": "OP17-007",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-007.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] If your Leader is [Edward.Newgate] or has the {Land of Wano} type, play up to 1 {Land of Wano} type Character card or Character card with a type including \"Whitebeard Pirates\" with 6000 power or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-007"
+  },
+  {
+    "card_name": "Jozu",
+    "card_number": "OP17-008",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-008.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] Your [Edward.Newgate] Leader's base power becomes 8000 until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-008"
+  },
+  {
+    "card_name": "Haruta",
+    "card_number": "OP17-009",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-009.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Opponent's Turn] This Character gains +3000 power.<br>[On Play] K.O. up to 1 of your opponent's Characters with 2000 base power or less.",
+    "card_effects": [
+      "[On Play]",
+      "[Opponent's Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-009"
+  },
+  {
+    "card_name": "Fossa",
+    "card_number": "OP17-010",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-010.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Activate: Main] [Once Per Turn] If your opponent has a Character with 10000 power or more and you have no other [Fossa], this Character gains [Blocker] and +2000 power until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Blocker]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-010"
+  },
+  {
+    "card_name": "Blamenco",
+    "card_number": "OP17-011",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-011.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −4000 power during this turn.",
+    "card_effects": [
+      "[DON!! x2]",
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-011"
+  },
+  {
+    "card_name": "Blenheim",
+    "card_number": "OP17-012",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-012.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Play up to 1 card with a cost of 1 and a type including \"Whitebeard Pirates\" from your hand.",
+    "card_effects": [
+      "[Blocker]",
+      "[On K.O.]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-012"
+  },
+  {
+    "card_name": "Portgas.D.Ace",
+    "card_number": "OP17-013",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-013.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If your opponent has a Character with 10000 power or more, give this card in your hand −2 cost.<br>[On Play] If your Leader is [Edward.Newgate], give up to 1 of your opponent's rested Characters −6000 power during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-013"
+  },
+  {
+    "card_name": "Whitey Bay",
+    "card_number": "OP17-014",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-014.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates Allies"
+    ],
+    "effects": "[On Play] K.O. up to 1 of your opponent's Characters with 2000 base power or less.<br>[On Your Opponent's Attack] You may trash this Character: Your Leader gains +1000 power during this battle.",
+    "card_effects": [
+      "[On Play]",
+      "[On Your Opponent's Attack]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-014"
+  },
+  {
+    "card_name": "Marco",
+    "card_number": "OP17-015",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-015.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this Character instead.<br>[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: Play this Character card from your trash.",
+    "card_effects": [
+      "[On K.O.]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-015"
+  },
+  {
+    "card_name": "Rakuyo",
+    "card_number": "OP17-016",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-016.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effects": "[On Play] K.O. up to 2 of your opponent's Characters with 2000 base power or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-016"
+  },
+  {
+    "card_name": "Ga Ha Ha Ha!!",
+    "card_number": "OP17-017",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-017.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Counter] Up to 1 of your Leader with a type including \"Whitebeard Pirates\" or up to 1 of your Characters with a type including \"Whitebeard Pirates\" gains +2000 power during this battle. Then, give up to 1 of your opponent's Leader or Characters −2000 power during this turn.",
+    "card_effects": [
+      "[Counter]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-017"
+  },
+  {
+    "card_name": "The Power to Destroy the World",
+    "card_number": "OP17-018",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-018.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Main] You may rest 2 of your DON!! cards: K.O. up to 1 of your opponent's Stages.<br>[Counter] If you have 2 or more Characters with 8000 base power or more, up to 1 of your Leader or Characters gains +4000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-018"
+  },
+  {
+    "card_name": "I Don't Have Time to Chat with Snot-Nosed Brats",
+    "card_number": "OP17-019",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-019.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effects": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Your Leader gains +1000 power during this turn.",
+    "card_effects": [
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-019"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP17-020",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-020.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand or rest 1 of your DON!! cards: Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-020"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP17-020",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-020_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand or rest 1 of your DON!! cards: Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-020_p1"
+  },
+  {
+    "card_name": "Crone Oli",
+    "card_number": "OP17-021",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-021.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "-",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates Allies"
+    ],
+    "effects": "If your Character with a type including \"Red-Haired Pirates\" would be removed from the field by your opponent's effect, you may rest 1 of your cards instead.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-021"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP17-022",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-022.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>[On Play] Set up to 2 of your DON!! cards as active. Then, rest all of your opponent's Characters.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-022"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP17-022",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-022_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>[On Play] Set up to 2 of your DON!! cards as active. Then, rest all of your opponent's Characters.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-022_p1"
+  },
+  {
+    "card_name": "Shanks",
+    "card_number": "OP17-022",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-022_p2.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Rush] (This card can attack on the turn in which it is played.)<br>[On Play] Set up to 2 of your DON!! cards as active. Then, rest all of your opponent's Characters.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-022_p2"
+  },
+  {
+    "card_name": "Nami",
+    "card_number": "OP17-023",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-023.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effects": "If one of your {East Blue} or {Straw Hat Crew} type Characters would be K.O.'d, you may rest this Character instead.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-023"
+  },
+  {
+    "card_name": "Howling Gab",
+    "card_number": "OP17-024",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-024.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Special"
+    ],
+    "power": "8000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[On Play] Rest up to 1 of your opponent's Characters.",
+    "card_effects": [
+      "[Banish]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-024"
+  },
+  {
+    "card_name": "Building Snake",
+    "card_number": "OP17-025",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-025.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On K.O.] K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.<br>[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your [Shanks] Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On K.O.]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-025"
+  },
+  {
+    "card_name": "Building Snake",
+    "card_number": "OP17-025",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-025_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On K.O.] K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.<br>[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your [Shanks] Leader.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On K.O.]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-025_p1"
+  },
+  {
+    "card_name": "Fugar",
+    "card_number": "OP17-026",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-026.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates Allies"
+    ],
+    "effects": "[When Attacking] If your Leader has the {Red-Haired Pirates} type, rest up to 1 of your opponent's Characters with a cost of 2 or less.<br>[On K.O.] Draw 1 card.",
+    "card_effects": [
+      "[On K.O.]",
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-026"
+  },
+  {
+    "card_name": "Benn.Beckman",
+    "card_number": "OP17-027",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-027.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[On Play] If your Leader has the {Red-Haired Pirates} type, draw 1 card and rest up to 2 of your opponent's Characters.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-027"
+  },
+  {
+    "card_name": "Benn.Beckman",
+    "card_number": "OP17-027",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-027_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[On Play] If your Leader has the {Red-Haired Pirates} type, draw 1 card and rest up to 2 of your opponent's Characters.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-027_p1"
+  },
+  {
+    "card_name": "Bonk Punch & Monster",
+    "card_number": "OP17-028",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-028.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Animal",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-028"
+  },
+  {
+    "card_name": "Hongo",
+    "card_number": "OP17-029",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-029.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] Set up to 1 of your DON!! cards as active. Then, rest up to 2 of your opponent's Characters with a cost of 2 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-029"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP17-030",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-030.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn.<br>[Activate: Main] [Once Per Turn] If you have 5 or less cards in your hand, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]",
+      "[Once Per Turn]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-030"
+  },
+  {
+    "card_name": "Yasopp",
+    "card_number": "OP17-031",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-031.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 8 or less.<br>[End of Your Turn] Set up to 1 of your Characters with a type including \"Red-Haired Pirates\" as active.",
+    "card_effects": [
+      "[End of Your Turn]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-031"
+  },
+  {
+    "card_name": "Yasopp",
+    "card_number": "OP17-031",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-031_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 8 or less.<br>[End of Your Turn] Set up to 1 of your Characters with a type including \"Red-Haired Pirates\" as active.",
+    "card_effects": [
+      "[End of Your Turn]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-031_p1"
+  },
+  {
+    "card_name": "Limejuice",
+    "card_number": "OP17-032",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-032.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Red-Haired Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-032"
+  },
+  {
+    "card_name": "Lucky.Roux",
+    "card_number": "OP17-033",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-033.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Red-Haired Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[On Your Opponent's Attack] You may trash this Character: Rest up to 1 of your opponent's Leader or Characters.",
+    "card_effects": [
+      "[On Play]",
+      "[On Your Opponent's Attack]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-033"
+  },
+  {
+    "card_name": "Lucky.Roux",
+    "card_number": "OP17-033",
+    "rarity": "TR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-033_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Red-Haired Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[On Your Opponent's Attack] You may trash this Character: Rest up to 1 of your opponent's Leader or Characters.",
+    "card_effects": [
+      "[On Play]",
+      "[On Your Opponent's Attack]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-033_p1"
+  },
+  {
+    "card_name": "Rockstar",
+    "card_number": "OP17-034",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-034.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Activate: Main] [Once Per Turn] If your opponent's Leader has 6000 power or more, set up to 1 of your DON!! cards as active. Then, your {Red-Haired Pirates} type Leader's base power becomes 6000 until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-034"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP17-035",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-035.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "8000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "East Blue",
+      "Straw Hat Crew"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-035"
+  },
+  {
+    "card_name": "Withdraw Now and Allow Me to Save Face",
+    "card_number": "OP17-036",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-036.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Main] You may rest 6 of your DON!! cards: Rest up to 1 of your opponent's Characters. Then, K.O. up to 2 of your opponent's rested Characters with a cost of 6 or less.<br>[Counter] Up to 1 of your [Shanks] gains +4000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-036"
+  },
+  {
+    "card_name": "Are You That Afraid of the New Era?!!",
+    "card_number": "OP17-037",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-037.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Red-Haired Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[Counter] You may rest 1 of your cards: Up to 1 of your Leader or Characters gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-037"
+  },
+  {
+    "card_name": "Are You That Afraid of the New Era?!!",
+    "card_number": "OP17-037",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-037_p1.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Red-Haired Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[Counter] You may rest 1 of your cards: Up to 1 of your Leader or Characters gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-037_p1"
+  },
+  {
+    "card_name": "I Think He's Seen an Ugly Future...",
+    "card_number": "OP17-038",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-038.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effects": "[Main] You may rest 4 of your cards: Rest up to 1 of your opponent's Characters.<br>[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-038"
+  },
+  {
+    "card_name": "Rocks.D.Xebec",
+    "card_number": "OP17-039",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-039.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[When Attacking] You may trash 1 card from your hand: Reveal 1 card from the top of your deck. If the revealed card's type includes \"Rocks Pirates\", draw 2 cards.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-039"
+  },
+  {
+    "card_name": "Rocks.D.Xebec",
+    "card_number": "OP17-039",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-039_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[When Attacking] You may trash 1 card from your hand: Reveal 1 card from the top of your deck. If the revealed card's type includes \"Rocks Pirates\", draw 2 cards.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-039_p1"
+  },
+  {
+    "card_name": "Edward.Newgate",
+    "card_number": "OP17-040",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-040.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Play] Draw 1 card.<br>[Once Per Turn] When your Leader with a type including \"Rocks Pirates\" attacks or is attacked, you may trash 1 card from your hand to activate this effect. Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[On Play]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-040"
+  },
+  {
+    "card_name": "Wang Zhi",
+    "card_number": "OP17-041",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-041.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] You may trash 1 card from your hand: Place all of your opponent's Characters with a base cost of 1 at the bottom of the owner's deck in any order of the owner's choosing.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-041"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-042",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-042.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Play] You may reveal 3 cards with a type including \"Rocks Pirates\" from your hand: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-042"
+  },
+  {
+    "card_name": "Ganzui",
+    "card_number": "OP17-043",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-043.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "If this Character would be removed from the field, you may trash 2 cards from your hand instead.<br>[On Play] Your Leader's base power becomes 6000 until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-043"
+  },
+  {
+    "card_name": "Captain John",
+    "card_number": "OP17-044",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-044.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "If your Leader's type includes \"Rocks Pirates\" and this Character is rested, your opponent cannot attack any card other than the Character [Captain John].<br>[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand.",
+    "card_effects": [
+      "[Activate: Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-044"
+  },
+  {
+    "card_name": "Kyo",
+    "card_number": "OP17-045",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-045.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "If one of your Characters would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead.<br>[On Play] Draw 1 card.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-045"
+  },
+  {
+    "card_name": "Kyo",
+    "card_number": "OP17-045",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-045_p1.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "If one of your Characters would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead.<br>[On Play] Draw 1 card.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-045_p1"
+  },
+  {
+    "card_name": "Gloriosa",
+    "card_number": "OP17-046",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-046.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Amazon Lily",
+      "Rocks Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-046"
+  },
+  {
+    "card_name": "Gloriosa",
+    "card_number": "OP17-046",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-046_p1.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "1000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Amazon Lily",
+      "Rocks Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-046_p1"
+  },
+  {
+    "card_name": "Shiki",
+    "card_number": "OP17-047",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-047.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "FILM",
+      "Impel Down",
+      "Golden Lion Pirates"
+    ],
+    "effects": "[End of Your Turn] If you have 2 or less cards in your hand, your opponent places 1 card from their hand at the bottom of their deck.",
+    "card_effects": [
+      "[End of Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-047"
+  },
+  {
+    "card_name": "Shiki",
+    "card_number": "OP17-048",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-048.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[Rush: Character]<br>[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card with a type including \"Rocks Pirates\" from your hand: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]",
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-048"
+  },
+  {
+    "card_name": "Shiki",
+    "card_number": "OP17-048",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-048_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[Rush: Character]<br>[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card with a type including \"Rocks Pirates\" from your hand: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]",
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-048_p1"
+  },
+  {
+    "card_name": "Charlotte Linlin",
+    "card_number": "OP17-049",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-049.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Play] Your opponent chooses one:<br>• Draw 2 cards.<br>• Your opponent trashes 2 cards from their hand.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +1000 power during this battle.",
+    "card_effects": [
+      "[On Play]",
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-049"
+  },
+  {
+    "card_name": "Charlotte Linlin",
+    "card_number": "OP17-049",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-049_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Play] Your opponent chooses one:<br>• Draw 2 cards.<br>• Your opponent trashes 2 cards from their hand.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +1000 power during this battle.",
+    "card_effects": [
+      "[On Play]",
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-049_p1"
+  },
+  {
+    "card_name": "Streusen",
+    "card_number": "OP17-050",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-050.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Play] Look at 2 cards from the top of your deck, reorganize them in any order and place them at the top or bottom of your deck. Then, draw 1 card.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-050"
+  },
+  {
+    "card_name": "Jinbe",
+    "card_number": "OP17-051",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-051.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Fish-Man",
+      "Impel Down",
+      "The Sun Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-051"
+  },
+  {
+    "card_name": "Don Marlon",
+    "card_number": "OP17-052",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-052.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Play] Add up to 1 blue Event with a cost of 0 from your trash to your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-052"
+  },
+  {
+    "card_name": "Barbell",
+    "card_number": "OP17-053",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-053.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "7000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Fish-Man",
+      "Rocks Pirates"
+    ],
+    "effects": "[On K.O.] Your opponent places 2 cards from their hand at the bottom of their deck in any order.<br>[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: This Character gains +3000 power during this turn.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On K.O.]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-053"
+  },
+  {
+    "card_name": "Miss Buckingham Stussy",
+    "card_number": "OP17-054",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-054.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Play] Up to 1 of your opponent's Characters with a base cost of 6 or less cannot attack until the end of your opponent's next End Phase.<br>[Activate: Main] You may rest 3 of your DON!! cards and this Character: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-054"
+  },
+  {
+    "card_name": "Miss Buckingham Stussy",
+    "card_number": "OP17-054",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-054_p1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Play] Up to 1 of your opponent's Characters with a base cost of 6 or less cannot attack until the end of your opponent's next End Phase.<br>[Activate: Main] You may rest 3 of your DON!! cards and this Character: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-054_p1"
+  },
+  {
+    "card_name": "There's No Authority in the World That Lasts Forever!!!",
+    "card_number": "OP17-055",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-055.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[Main] You may rest 1 of your DON!! cards: Up to 1 of your [Rocks.D.Xebec] gains [Unblockable] during this turn.<br>[Counter] Up to 1 of your Leader with a type including \"Rocks Pirates\" or up to 1 of your Character with a type including \"Rocks Pirates\" gains +2000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-055"
+  },
+  {
+    "card_name": "Rocks Pirates",
+    "card_number": "OP17-056",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-056.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[Main] You may rest 5 of your DON!! cards: Return up to 1 Character with a cost of 6 or less to the owner's hand.<br>[Counter] Up to 1 of your Leader with a type including \"Rocks Pirates\" or up to 1 of your Characters with a type including \"Rocks Pirates\" gains +2000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-056"
+  },
+  {
+    "card_name": "Fullalead",
+    "card_number": "OP17-057",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "STAGE",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-057.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "[On Your Opponent's Attack] You may rest this Stage and trash 1 card from your hand: Up to 1 of your Leader with a type including \"Rocks Pirates\" or up to 1 of your Characters with a type including \"Rocks Pirates\" gains +1000 power during this battle.",
+    "card_effects": [
+      "[On Your Opponent's Attack]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-057"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-058",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-058.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]",
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-058"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-058",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-058_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]",
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-058_p1"
+  },
+  {
+    "card_name": "Aramaki",
+    "card_number": "OP17-059",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-059.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Admiral",
+      "Navy"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −1: Draw 1 card and K.O. up to 2 of your opponent's Characters with a cost of 2 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-059"
+  },
+  {
+    "card_name": "Ulti & Page One",
+    "card_number": "OP17-060",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-060.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[On Play] If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card as active from your DON!! deck. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-060"
+  },
+  {
+    "card_name": "Lead Performers",
+    "card_number": "OP17-061",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-061.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Strike",
+      "Special"
+    ],
+    "power": "11000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Fish-Man",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[On Play] DON!! −1: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards.<br>[Activate: Main] You may trash this Character: Play up to 1 [King], [Queen], or [Jack] from your hand.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-061"
+  },
+  {
+    "card_name": "Lead Performers",
+    "card_number": "OP17-061",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-061_p1.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Strike",
+      "Special"
+    ],
+    "power": "11000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Fish-Man",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[On Play] DON!! −1: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards.<br>[Activate: Main] You may trash this Character: Play up to 1 [King], [Queen], or [Jack] from your hand.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-061_p1"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-062",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-062.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Blocker]<br>[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card as active from your DON!! deck. Then, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-062"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-062",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-062_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Blocker]<br>[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card as active from your DON!! deck. Then, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-062_p1"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-062",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-062_p2.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Blocker]<br>[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card as active from your DON!! deck. Then, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-062_p2"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-062",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-062_p3.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "-",
+    "counter": "12000",
+    "block_icon": "X",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Blocker]<br>[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card as active from your DON!! deck. Then, set up to 1 of your DON!! cards as active.",
+    "card_effects": [
+      "[Blocker]",
+      "[Once Per Turn]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-062_p3"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-063",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-063.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "All Character cards in your hand without a Counter have a +1000 Counter.<br>[Activate: Main] [Once Per Turn] DON!! −1: If this Character was played on this turn, negate the effect of up to 1 of your opponent's Characters with a cost of 6 or less during this turn, and K.O. it.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-063"
+  },
+  {
+    "card_name": "Kaido",
+    "card_number": "OP17-063",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-063_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "All Character cards in your hand without a Counter have a +1000 Counter.<br>[Activate: Main] [Once Per Turn] DON!! −1: If this Character was played on this turn, negate the effect of up to 1 of your opponent's Characters with a cost of 6 or less during this turn, and K.O. it.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-063_p1"
+  },
+  {
+    "card_name": "King",
+    "card_number": "OP17-064",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-064.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Special"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Lunarian",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +2000 power during this battle.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-064"
+  },
+  {
+    "card_name": "Queen",
+    "card_number": "OP17-065",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-065.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Banish]<br>[On Play] DON!! −1: Draw 1 card, and up to 2 of your opponent's Characters with a cost of 5 or less cannot attack until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[Banish]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-065"
+  },
+  {
+    "card_name": "Kurozumi Orochi",
+    "card_number": "OP17-066",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-066.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kurozumi Clan"
+    ],
+    "effects": "[On Play] DON!! −1: If you have a Character with a cost of 10 or more, draw 2 cards and trash 1 card from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-066"
+  },
+  {
+    "card_name": "Kurozumi Kanjuro",
+    "card_number": "OP17-067",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-067.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kurozumi Clan"
+    ],
+    "effects": "[On Play] DON!! −1: If you have a Character with a cost of 10 or more, rest up to 1 of your opponent's Characters.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-067"
+  },
+  {
+    "card_name": "Sasaki",
+    "card_number": "OP17-068",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-068.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[When Attacking] You may trash 2 cards from your hand: If your Leader has the {Animal Kingdom Pirates} type, add up to 2 DON!! cards as rested from your DON!! deck.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-068"
+  },
+  {
+    "card_name": "Jack",
+    "card_number": "OP17-069",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-069.png",
+    "life": "-",
+    "cost": "9",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Fish-Man",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[On Play] DON!! −1: If your Leader has the {Animal Kingdom Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-069"
+  },
+  {
+    "card_name": "Scratchmen Apoo",
+    "card_number": "OP17-070",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-070.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "On-Air Pirates",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-070"
+  },
+  {
+    "card_name": "Scratchmen Apoo",
+    "card_number": "OP17-070",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-070_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Special"
+    ],
+    "power": "7000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "On-Air Pirates",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-070_p1"
+  },
+  {
+    "card_name": "Who's.Who",
+    "card_number": "OP17-071",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-071.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Animal Kingdom Pirates",
+      "Former CP9"
+    ],
+    "effects": "[On Play] DON!! −1: K.O. up to 2 of your opponent's Characters with a cost of 2 or less. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-071"
+  },
+  {
+    "card_name": "Black Maria",
+    "card_number": "OP17-072",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-072.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Special"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Blocker]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +1000 power during this battle.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Your Opponent's Attack]",
+      "[Once Per Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-072"
+  },
+  {
+    "card_name": "Basil Hawkins",
+    "card_number": "OP17-073",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-073.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "1000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Animal Kingdom Pirates",
+      "Hawkins Pirates"
+    ],
+    "effects": "[On Play] You may trash 1 card from your hand: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card as active from your DON!! deck.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-073"
+  },
+  {
+    "card_name": "Yamato",
+    "card_number": "OP17-074",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-074.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "1000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Add up to 1 DON!! card as rested from your DON!! deck.",
+    "card_effects": [
+      "[Blocker]",
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-074"
+  },
+  {
+    "card_name": "X.Drake",
+    "card_number": "OP17-075",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-075.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "Navy",
+      "Drake Pirates",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[On Play] DON!! −2: Trash 1 card from your opponent's hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-075"
+  },
+  {
+    "card_name": "Wo Ro Ro Ro Ro... I Think I've Sobered Up",
+    "card_number": "OP17-076",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-076.png",
+    "life": "-",
+    "cost": "-",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Charactes gains +3000 power during this battle. [Trigger] DON!! −1: Draw 2 cards.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-076"
+  },
+  {
+    "card_name": "Kundali Dragon Swarm",
+    "card_number": "OP17-077",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-077.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Main] You may rest 3 of your DON!! cards and trash 2 cards from your hand: If your Leader has the {Animal Kingdom Pirates} type, add up to 3 DON!! cards as rested from your DON!! deck.<br>[Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-077"
+  },
+  {
+    "card_name": "Drunken Dragon Bagua",
+    "card_number": "OP17-078",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-078.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effects": "[Main] You may rest 2 of your DON!! cards and trash 2 cards from your hand: If your Leader has the {Animal Kingdom Pirates} type, add up to 3 DON!! cards as rested from your DON!! deck.<br>[Counter] Up to 1 of your Leader or Characters gains +4000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-078"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP17-079",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-079.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "All of your Characters with a cost of 12 or more gain [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-079"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP17-079",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-079_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "All of your Characters with a cost of 12 or more gain [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-079_p1"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP17-079",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-079_p2.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "All of your Characters with a cost of 12 or more gain [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-079_p2"
+  },
+  {
+    "card_name": "Usopp",
+    "card_number": "OP17-080",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-080.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Elbaph} type card and add it to your hand. Then, trash the rest.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-080"
+  },
+  {
+    "card_name": "Usopp",
+    "card_number": "OP17-080",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-080_p1.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Elbaph} type card and add it to your hand. Then, trash the rest.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-080_p1"
+  },
+  {
+    "card_name": "Gerd",
+    "card_number": "OP17-081",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-081.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "3000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph",
+      "New Giant Pirates"
+    ],
+    "effects": "If your Leader has the {Elbaph} type, this Character gains +12 cost.<br>[On Play] You may trash 1 card from your hand: Add up to 1 Character card with a cost of 8 or less other than [Gerd] from your trash to your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-081"
+  },
+  {
+    "card_name": "Sanji",
+    "card_number": "OP17-082",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-082.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>[On Play] Draw 2 cards and trash 2 cards from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-082"
+  },
+  {
+    "card_name": "Jinbe",
+    "card_number": "OP17-083",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-083.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Fish-Man",
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains [Blocker] and +3000 power.<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "card_effects": [
+      "[Blocker]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-083"
+  },
+  {
+    "card_name": "Tony Tony.Chopper",
+    "card_number": "OP17-084",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-084.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Animal",
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] If there is a Character with a cost of 12 or more, up to 1 of your Characters gains [Unblockable] during this turn.<br>(This card cannot be blocked.)",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-084"
+  },
+  {
+    "card_name": "Dorry",
+    "card_number": "OP17-085",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-085.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph",
+      "Giant Pirates"
+    ],
+    "effects": "This Character gains +12 cost.<br>[On Play] If your Leader has the {Elbaph} type, play up to 1 [Brogy] with a cost of 5 or less from your hand or trash. Then, you cannot play Character cards during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-085"
+  },
+  {
+    "card_name": "Nami",
+    "card_number": "OP17-086",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-086.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Special"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "[On Play] You may trash 1 {Elbaph} type card from your hand: Draw 2 cards.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-086"
+  },
+  {
+    "card_name": "Nico Robin",
+    "card_number": "OP17-087",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-087.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>[On Play] If there is a Character with a cost of 12 or more, give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-087"
+  },
+  {
+    "card_name": "Nico Robin",
+    "card_number": "OP17-087",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-087_p1.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>[On Play] If there is a Character with a cost of 12 or more, give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-087_p1"
+  },
+  {
+    "card_name": "Hajrudin",
+    "card_number": "OP17-088",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-088.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph",
+      "New Giant Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-088"
+  },
+  {
+    "card_name": "Hajrudin",
+    "card_number": "OP17-088",
+    "rarity": "C",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-088_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph",
+      "New Giant Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-088_p1"
+  },
+  {
+    "card_name": "Jaguar.D.Saul",
+    "card_number": "OP17-089",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-089.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "6000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph",
+      "Former Navy"
+    ],
+    "effects": "This Character gains +12 cost.<br>[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Elbaph} type card and add it to your hand. Then, trash the rest.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-089"
+  },
+  {
+    "card_name": "Franky",
+    "card_number": "OP17-090",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-090.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>[On Play] If there is a Character with a cost of 12 or more, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-090"
+  },
+  {
+    "card_name": "Brook",
+    "card_number": "OP17-091",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-091.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>[On Play] If there is a Character with a cost of 12 or more, your opponent trashes 1 card from their hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-091"
+  },
+  {
+    "card_name": "Brogy",
+    "card_number": "OP17-092",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-092.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "5000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph",
+      "Giant Pirates"
+    ],
+    "effects": "This Character gains +12 cost.<br>[On Play] If your Leader has the {Elbaph} type, play up to 1 [Dorry] with a cost of 5 or less from your hand or trash. Then, you cannot play Character cards during this turn.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-092"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP17-093",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-093.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains [Rush].<br>[On Play] Draw 1 card and play up to 1 Character card with a cost of 2 or less from your trash.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-093"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "OP17-093",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-093_p1.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains [Rush].<br>[On Play] Draw 1 card and play up to 1 Character card with a cost of 2 or less from your trash.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-093_p1"
+  },
+  {
+    "card_name": "Rodo",
+    "card_number": "OP17-094",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-094.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph",
+      "New Giant Pirates"
+    ],
+    "effects": "If your Leader has the {Elbaph} type, this Character gains +12 cost.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-094"
+  },
+  {
+    "card_name": "Roronoa Zoro",
+    "card_number": "OP17-095",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-095.png",
+    "life": "-",
+    "cost": "2",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "Straw Hat Crew"
+    ],
+    "effects": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.<br>If one of your Characters would be removed from the field by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-095"
+  },
+  {
+    "card_name": "I'm Luffy!! The Man Who Will Be King of the Pirates!!",
+    "card_number": "OP17-096",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-096.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Counter] If there is a Character with a cost of 12 or more, up to 1 of your Leader or Characters gains +4000 power during this battle. [Trigger] Add up to 1 {Elbaph} type card from your trash to your hand.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-096"
+  },
+  {
+    "card_name": "I'll Feed on This Rage and Use It to Bring the World to Ruin!!!",
+    "card_number": "OP17-097",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-097.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph"
+    ],
+    "effects": "[Main] Give all of your opponent's Characters −1 cost during this turn.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-097"
+  },
+  {
+    "card_name": "Gum-Gum Kong Gun",
+    "card_number": "OP17-098",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-098.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Elbaph",
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "[Main] You may rest 6 of your DON!! cards: If there is a Character with a cost of 12 or more, K.O. up to 2 of your opponent's Characters with a cost of 6 or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-098"
+  },
+  {
+    "card_name": "Charlotte Linlin",
+    "card_number": "OP17-099",
+    "rarity": "L",
+    "is_alternate_art": false,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-099.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[When Attacking] You may trash 1 card from your hand: Your opponent chooses one:<br>• Trash 1 card from your hand. Then, add up to 1 card from the top of your deck to the top of your Life cards.<br>• Trash 1 card from your opponent's hand.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-099"
+  },
+  {
+    "card_name": "Charlotte Linlin",
+    "card_number": "OP17-099",
+    "rarity": "L",
+    "is_alternate_art": true,
+    "card_type": "LEADER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-099_p1.png",
+    "life": "5",
+    "cost": "-",
+    "attributes": [
+      "Special"
+    ],
+    "power": "5000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[When Attacking] You may trash 1 card from your hand: Your opponent chooses one:<br>• Trash 1 card from your hand. Then, add up to 1 card from the top of your deck to the top of your Life cards.<br>• Trash 1 card from your opponent's hand.",
+    "card_effects": [
+      "[When Attacking]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-099_p1"
+  },
+  {
+    "card_name": "Capone\"Gang\"Bege",
+    "card_number": "OP17-100",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-100.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Ranged"
+    ],
+    "power": "8000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Supernovas",
+      "Firetank Pirates"
+    ],
+    "effects": "-",
+    "card_effects": [
+      "-"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-100"
+  },
+  {
+    "card_name": "Caribou",
+    "card_number": "OP17-101",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-101.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Supernovas",
+      "Caribou Pirates"
+    ],
+    "effects": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −3000 power during this turn. [Trigger] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[Once Per Turn]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-101"
+  },
+  {
+    "card_name": "Charlotte Oven",
+    "card_number": "OP17-102",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-102.png",
+    "life": "-",
+    "cost": "4",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[On K.O.] Play up to 1 Character card with 4000 power or less other than [Charlotte Oven] from your trash. [Trigger] Play this card.",
+    "card_effects": [
+      "[On K.O.]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-102"
+  },
+  {
+    "card_name": "Charlotte Katakuri",
+    "card_number": "OP17-103",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-103.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] [On Play] If your Leader has the {Big Mom Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, give up to 1 of your opponent's Characters −3000 power during this turn. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-103"
+  },
+  {
+    "card_name": "Charlotte Cracker",
+    "card_number": "OP17-104",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-104.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] [On Play] You may rest 2 of your DON!! cards: If your Leader has the {Big Mom Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-104"
+  },
+  {
+    "card_name": "Charlotte Chiffon",
+    "card_number": "OP17-105",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-105.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "-",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Firetank Pirates",
+      "Former Big Mom Pirates"
+    ],
+    "effects": "[On Play] You may trash 1 card with a [Trigger] from your hand: Return up to 1 of your opponent's Characters with a [Trigger] to the owner's hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-105"
+  },
+  {
+    "card_name": "Charlotte Smoothie",
+    "card_number": "OP17-106",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-106.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] [On Play] You may rest 2 of your DON!! cards: Add up to 1 card from the top of your deck to the top of your Life cards. Then, your opponent trashes 1 card from their hand. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-106"
+  },
+  {
+    "card_name": "Charlotte Daifuku",
+    "card_number": "OP17-107",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-107.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "- [Trigger] Play this card.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-107"
+  },
+  {
+    "card_name": "Charlotte Daifuku",
+    "card_number": "OP17-107",
+    "rarity": "UC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-107_p1.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "4000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "- [Trigger] Play this card.",
+    "card_effects": [
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-107_p1"
+  },
+  {
+    "card_name": "Charlotte Brulee",
+    "card_number": "OP17-108",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-108.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "card_effects": [
+      "[Blocker]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-108"
+  },
+  {
+    "card_name": "Charlotte Pudding",
+    "card_number": "OP17-109",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-109.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[On Play] You may trash 1 card with a [Trigger] from your hand: Draw 3 cards. [Trigger] Look at 5 cards from the top of your deck; reveal up to 1 {Big Mom Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-109"
+  },
+  {
+    "card_name": "Charlotte Perospero",
+    "card_number": "OP17-110",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-110.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] [On Play] Play up to 1 {Big Mom Pirates} type Character card with a cost of 6 or less from your hand. Then, this Character gains [Rush] during this turn. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-110"
+  },
+  {
+    "card_name": "Charlotte Mont-d'or",
+    "card_number": "OP17-111",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-111.png",
+    "life": "-",
+    "cost": "3",
+    "attributes": [
+      "Special"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[On Play] You may reveal 2 cards with a [Trigger] from your hand: K.O. up to 2 of your opponent's Characters with a cost of 1 or less. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-111"
+  },
+  {
+    "card_name": "Charlotte Linlin",
+    "card_number": "OP17-112",
+    "rarity": "SR",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-112.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] The base power of all of your Characters with a [Trigger] and 4000 base power becomes 8000.<br>[On Play] Draw 1 card, then choose one:<br>• Add up to 1 card from the top of your deck to the top of your Life cards.<br>• Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-112"
+  },
+  {
+    "card_name": "Charlotte Linlin",
+    "card_number": "OP17-112",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-112_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] The base power of all of your Characters with a [Trigger] and 4000 base power becomes 8000.<br>[On Play] Draw 1 card, then choose one:<br>• Add up to 1 card from the top of your deck to the top of your Life cards.<br>• Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-112_p1"
+  },
+  {
+    "card_name": "Charlotte Linlin",
+    "card_number": "OP17-112",
+    "rarity": "SR",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-112_p2.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Special"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] The base power of all of your Characters with a [Trigger] and 4000 base power becomes 8000.<br>[On Play] Draw 1 card, then choose one:<br>• Add up to 1 card from the top of your deck to the top of your Life cards.<br>• Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-112_p2"
+  },
+  {
+    "card_name": "Streusen",
+    "card_number": "OP17-113",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-113.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "2000",
+    "counter": "2000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Big Mom Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-113"
+  },
+  {
+    "card_name": "Sweet 3 Generals",
+    "card_number": "OP17-114",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-114.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash",
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] [On Play] You may rest 2 of your DON!! cards: Draw 1 card and add up to 1 card from the top of your deck to the top of your Life cards. Then, give up to 2 of your opponent's Characters −3000 power during this turn. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-114"
+  },
+  {
+    "card_name": "Sweet 3 Generals",
+    "card_number": "OP17-114",
+    "rarity": "R",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-114_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Slash",
+      "Strike"
+    ],
+    "power": "4000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effects": "[Your Turn] [On Play] You may rest 2 of your DON!! cards: Draw 1 card and add up to 1 card from the top of your deck to the top of your Life cards. Then, give up to 2 of your opponent's Characters −3000 power during this turn. [Trigger] Play this card.",
+    "card_effects": [
+      "[On Play]",
+      "[Trigger]",
+      "[Your Turn]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-114_p1"
+  },
+  {
+    "card_name": "Don't you know that even in the cruel world of pirates there's still a code of honor?!!",
+    "card_number": "OP17-115",
+    "rarity": "R",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-115.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[Main] Your [Charlotte Linlin] Leader gains [Unblockable] during this turn.<br>[Counter] Up to 1 of your [Charlotte Linlin] gains +4000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-115"
+  },
+  {
+    "card_name": "Fulgora",
+    "card_number": "OP17-116",
+    "rarity": "UC",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-116.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[Main] You may rest 2 of your DON!! cards: K.O. up to 1 of your opponent's Stages.<br>[Counter] If you have 2 or more Characters with a [Trigger], up to 1 of your Leader or Characters gains +4000 power during this battle.",
+    "card_effects": [
+      "[Counter]",
+      "[Main]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-116"
+  },
+  {
+    "card_name": "Maser Saber",
+    "card_number": "OP17-117",
+    "rarity": "C",
+    "is_alternate_art": false,
+    "card_type": "EVENT",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-117.png",
+    "life": "-",
+    "cost": "1",
+    "attributes": [
+      ""
+    ],
+    "power": "-",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Yellow"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effects": "[Counter] Up to 1 of your [Charlotte Linlin] gains +3000 power during this battle. [Trigger] Your opponent may trash 3 cards from their hand. If they do not, K.O. up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "card_effects": [
+      "[Counter]",
+      "[Trigger]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-117"
+  },
+  {
+    "card_name": "Rocks.D.Xebec",
+    "card_number": "OP17-118",
+    "rarity": "SEC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-118.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "If you only have Characters without a Counter, this card in your hand has a +2000 Counter.<br>[On Play] Draw 1 card and play up to 2 {Rocks Pirates} type cards with different card names and a total cost of 9 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-118"
+  },
+  {
+    "card_name": "Rocks.D.Xebec",
+    "card_number": "OP17-118",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-118_p1.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "If you only have Characters without a Counter, this card in your hand has a +2000 Counter.<br>[On Play] Draw 1 card and play up to 2 {Rocks Pirates} type cards with different card names and a total cost of 9 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-118_p1"
+  },
+  {
+    "card_name": "Rocks.D.Xebec",
+    "card_number": "OP17-118",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-118_p2.png",
+    "life": "-",
+    "cost": "10",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "12000",
+    "counter": "-",
+    "block_icon": "X",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "Rocks Pirates"
+    ],
+    "effects": "If you only have Characters without a Counter, this card in your hand has a +2000 Counter.<br>[On Play] Draw 1 card and play up to 2 {Rocks Pirates} type cards with different card names and a total cost of 9 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-118_p2"
+  },
+  {
+    "card_name": "Loki",
+    "card_number": "OP17-119",
+    "rarity": "SEC",
+    "is_alternate_art": false,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-119.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph"
+    ],
+    "effects": "This Character gains +12 cost, and if it is your opponent's turn, this Character gains +3000 power.<br>[On Play] K.O. your opponent's Characters with a total cost of 4 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-119"
+  },
+  {
+    "card_name": "Loki",
+    "card_number": "OP17-119",
+    "rarity": "SEC",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/OP17-119_p1.png",
+    "life": "-",
+    "cost": "6",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "Giant",
+      "Elbaph"
+    ],
+    "effects": "This Character gains +12 cost, and if it is your opponent's turn, this Character gains +3000 power.<br>[On Play] K.O. your opponent's Characters with a total cost of 4 or less.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "OP17-119_p1"
+  },
+  {
+    "card_name": "Buggy",
+    "card_number": "P-084",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-084_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Blue"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Cross Guild"
+    ],
+    "effects": "This Character cannot attack.<br>If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack.<br>[On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "P-084_p1"
+  },
+  {
+    "card_name": "Gol.D.Roger",
+    "card_number": "P-107",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/P-107_p1.png",
+    "life": "-",
+    "cost": "8",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "10000",
+    "counter": "-",
+    "block_icon": "4",
+    "colors": [
+      "Purple"
+    ],
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effects": "[On Play] If either you or your opponent has 10 DON!! cards on the field, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "P-107_p1"
+  },
+  {
+    "card_name": "Marshall.D.Teach",
+    "card_number": "ST27-005",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/ST27-005_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Special"
+    ],
+    "power": "8000",
+    "counter": "-",
+    "block_icon": "3",
+    "colors": [
+      "Black"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Blackbeard Pirates"
+    ],
+    "effects": "[Activate: Main] You may rest this Character: K.O. up to 1 Character with a cost of 3 or less.<br>[On K.O.] Add up to 1 black card from your trash to your hand.",
+    "card_effects": [
+      "[Activate: Main]",
+      "[On K.O.]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "ST27-005_p1"
+  },
+  {
+    "card_name": "Monkey.D.Luffy",
+    "card_number": "ST31-004",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/ST31-004_p1.png",
+    "life": "-",
+    "cost": "7",
+    "attributes": [
+      "Strike"
+    ],
+    "power": "9000",
+    "counter": "-",
+    "block_icon": "5",
+    "colors": [
+      "Red"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effects": "If you have a total of 3 or more given DON!! cards, this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)<br>[On Play] For every {Straw Hat Crew} type card on your field, give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "card_effects": [
+      "[On Play]",
+      "[Rush]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "ST31-004_p1"
+  },
+  {
+    "card_name": "Kouzuki Oden",
+    "card_number": "ST32-002",
+    "rarity": "SP CARD",
+    "is_alternate_art": true,
+    "card_type": "CHARACTER",
+    "image_url": "https://onepiece-cardgame.com/images/cardlist/card/ST32-002_p1.png",
+    "life": "-",
+    "cost": "5",
+    "attributes": [
+      "Slash"
+    ],
+    "power": "6000",
+    "counter": "1000",
+    "block_icon": "5",
+    "colors": [
+      "Green"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effects": "[On Play] Draw 1 card, and up to 1 of your opponent's Characters with a base cost of 6 or less cannot be rested until the end of your opponent's next End Phase.",
+    "card_effects": [
+      "[On Play]"
+    ],
+    "card_sets": "BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+    "image_name": "ST32-002_p1"
+  },
+  {
     "card_name": "Monkey.D.Luffy",
     "card_number": "ST01-001",
     "rarity": "L",
